@@ -27,6 +27,40 @@
 
 - "To fully appreciate the historical interest of the Guildhall and its surroundings, it is necessary to devote a brief consideration to the origin and development of that municipal life which has made the City what it is; and to study a little the history of our country and its capital, at a period not only prior to the investigations of Stow and other writers, but of one long anterior to the existence of the City archives themselves."
 
+- - -
+
+- __p. 54__ there is a specific importance in the fact that the Hall had been _paved_ and _glazed_; "Sir Richard's association with the glazing of the windows of the Hall is commemorated in a play by Thomas Heywood, on the "Life and Reign of Queen Elizabeth," originally published in 1606."
+
+- __NB__: consider how this hall has been both the stage of the Reformation and the site where the last _statues_ dear to Stow had been preserved.
+
+- __NB__: Price's observations on the themes depicted on the windows of Guildhall are not at all trivial; he conjectures that, together with the citizens reported by Stow, on these glazed surfaces there might have been images of saints and holy figures; therefore, they were "pulled down" in 1642 (Price, 56). Remember - this is the beginning of the English __Civil War__: not something that we should be directly concerned with.
+
+- Keep in mind the enlargement and renovation of __1411__; it is the event that shaped the Guildhall as it was known to Early Modern Londoners.
+
+- Price's precious books describes two __Louvres__, "which were at one time such prominent objects upon the roof of the old Hall. In the early views of the building taken previous of the __Fire of 1666__ [together with the iconoclastic destruction of the Civil War, this should be considered our _terminus ad quem_] these small lanterns or turrets are readily discerned. They were for the purpose of ventilation or if fires were lighted, as was often customary upon an open hearth, they would be necessary in order to allow for the escape of smoke." [Price, you are a distinctly awkward writer.] (57)
+
+- __NB__: it is unclear whether these two things were actually there or not, or when precisely they appeared. An educated guess would be between mid s. XVI and end s. XVII.
+
+- The __kitchen__ was added in __1501__; it was used to cook the large meals that would accompany major events, such as the __annual feast__ in Guildhall (p. 63), which would host "the customary banquet on the installation of the Mayor." The guilds financially contributed to the setting up of this facility.
+
+- "The Bakehouse of Guildhall was situated beneath the north end of the Court of King's bench; it was furnished with four spacious ovens in two tiers, the mouths opening into the west wall of the Court, and the whole projecting into the Confectionery Room, where there was a small oven, and other arrangements over the crown of the large ovens [...]."
+
+- "An internal doorway connected the foregoing with the Kitchen. It was suitably fitted with every convenience for the supply of large entertainments." (66)
+
+- The roof of Guildhall was probably in timber. That is why the whole thing burnt so well during the 1666 fire. "That night (Tuesday, 4th September, 1666) the sight of Guildhall was a fearful spectacle, which stood the whole body of it together in view for several hours together in view for several hours together after the Fire had taken it, without flames (I suppose because the timber was of such solid oake) in a bright shining coale, as if it had been a palace of gold, or a great building of burnished brass." (67), quoting Vincent's "God's terrible voice in the City" 1667 p. 66
+
+- Problem about the original material used to build it (discussion from s. XIX - Price's times): stone or timber?
+
+- The __porch__ added in 1425, as Stow tells us, is perhaps the most prominent element of the building in Early Modern eyes. "This addidtion to the Hall was one of the most imposing features of the edifice, and prior to the alterations from the designs of Mr. Dance in the year 1789, was considerably in advance of the main building. Though subjected to minor alterations from time to time, its chief points of interest are uninjured. These combine two bays of groined vaulting, the vaults having deeply recessed, moulded, and traceried panelling, varied where the side doorways to the Comptroller's office, Crypt, and Library corridor occur, and being provided with a convenient bench against the side walls. The vaulting is richly groined with moulded principal and secondary ribs, springing from corresponding pillars, the intersections being enriched with handsome sculptured bosses of heraldic and foliated devices in varied designs, emblazoned and gilt, the two principal bosses bearing the Arms of Edward the Confessor and Henry VI. Among the others is the eagle of St. John, the bull of St. Luke, the lion of St. Mark, the angel of St. Mathew, and the monogram __ihs__ for Jesus. Mr. Nichols remarks that the structure terminated with a straight parapet and quatre-foil ornaments, over which were placed the Royal Arms of England in a heavy square frame supported by scrolls. Round the lower part of the balcony were the Arms of thirty-four of the City companies. The Porch was known as the "Guildhall Gate," and has been so recognised [...] in much of the literature of the same period." (70-71)
+
+- The __seven statues__: we have a picture of them: for Price they "were choice specimens of medieval architecture, and deserve more than a passing notice." Were they __seven__ or __six__? Price thinks that "From the description given by Elderton it would seem that the missing figure is that of our Saviour; this would in all probablility have been placed upon the others, and probably upon the Gothic window [...].
+
+- - -
+
+- The final part of the book is concerned with the __museum__. 
+
+- __NB__: this (Price's volume) is a remarkably useful source, therefore we will be spending some time on it.
+
 ##From __Stow__
 
 -  The great description of the history of the Guildhall is in the section devoted to Cheape Ward; here we find a list of the various courts held at the Guildhall, a history of its erection, and a description of its __statues__.
