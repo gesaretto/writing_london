@@ -95,6 +95,47 @@
 
 - This episode contrasts with the trial and burning of Anne Askew (1546).
 
-- The Guildhall is the place where the Reformation takes place. We should have a look at the __Book of Martyrs__: here we have Cranmer and Jane Grey.
+- The Guildhall is the place where the Reformation takes place. We should have a look at the __Book of Martyrs__: here we have Cranmer and Jane Grey. [__NOTHING__, apparently, in the BoM.]
 
 - Guildhall as a stage, of course. Early Modern culture of theater as a reaction to the Reformation: the world becomes a stage - forgetful, impotent against change, incapable of influencing history, of retaining history - because history has changed so often; kings have changed so often, their beliefs and allegiances have changed so often.
+
+- __Elizabethan__ times: "The Guildhall is alive and astir with the merchant adventurers, whose minds are deeply engaged in plans for the extensions of trade wherever they can set foot in a world for the most part as yet unknown."
+
+	- __Crucial question__: can we really assimilate these adventurers and explorers into the ranks of the _citizens_? Think about __EH__: there the two circumstances seem to be antithetical: it is one thing to travel abroad while following the intangible prospect of the __west__, it is another to stay in London, like our old friend Touchstone, and rely on the _status quo_.
+
+- "We catch glimpses of Sir Thomas Gresham pondering how he may best carry out his father's scheme for founding a "Burse" or Exchange, for the use of the rising merchants, and how he may best arrange his noble scheme for a college
+
+	 - wait, does this mean that the __Guildhall__ hosted a __burse__ as well? That would be _truly_ interesting.
+
+- Early in April, 1588, the Common Council assemble with grave and troubled, but corageous looks, knowing full well that England's time of trial has come, and agree to furnish and fully equip for war, sixteen of the largest and best merchant ships that can be found in the Thames, and four pinnaces to attend on them; and we again see them on that eventful Saturday, when an engagement with the Spaniard is expected, obeying the precept of the Lord Mayor (Sir George Bond) to attend church [...]" (14)
+
+- __HERE IS A USEFUL NOTE__ "On the proposed Royal alliance with their ancient enemy of Spain, we can imagine the bold and independent City apprentices assembling around the Guildhall, full of contempt for their haughty foe, and venting their feelings against its representative, Gondomar, who, upon giving directions to the Mayor, is met with the reply, "It is not to you that I have to give an account for the government of this City." (15)
+
+	- And think about __collective spaces__; cybernetics.
+
+- _Pepys_ in the __Guildhall__! __1663))
+
+	- "We went up and down to see the tables, where, under every salt, there was a bill of fare, and at the end of the table the persons proper for the table. Many were at the tables, but none in the Hall but the Mayor's and Lords of the Privy Council that had napkins or knives, which was very strange. We went into the Buttry and there stayed and talked, and then into the Hall again, and there wine was offered and they drunk, I only drinking some hypocras, which do not break my vowe, it being, to the best of my present judgment, only a mixed compund drink, and not any wine; if I am mistake, God forgive me! but I hope, and do think, I am not. [...] By-and-by, about one o'clock, before the Lord Mayor come into the Hall, from the room where they were first led into, the Lord Chancellor (Archibishop before him), with the Lords of the Council and other Bishopps, and they to dinner. Anon comes the Lord Mayor, who went up to the Lords and then to the other tables to bid welcome; and so all to dinner. I set [...] at the merchant strangers' table where ten good dishes to a messe, with plenty of wine of all sorts, of which I drunk none; but it was very unpleasing that we had no napkins nor change of thenchers, and drunk out of earthen pitchers and wooden dishes. [...] The dinner, it seems, is made by the Mayor and two Sheriffs for the time being, the Lord Mayor paying one half and they the other." (19 in Baddeley).
+
+- What __Baddeley__ has to say about the fire: "Wren examines the Guildhall and finds that the walls are almost uninjured, and three years after places thereon a roof, it is said, intended only to be temporary, though destined to remain for nearly 200 years." (20)
+
+- __Baddeley__ steals his descriptions of the building from __Prince__. Still impressive, though. On p. 35 we have two pictures of the Arms of Ed. Confessor and Henry VI.
+
+- Mysterious quotation: "the place where the citizens have for ages been accostumed to assemble, not only to transact municipal business, but also freely to discuss public grievances, to consider and suggest remedies for great social evils, and to promote the general interests of humanity." He continues: "We are at once struck with its magnificent proportions and general appearance of vastness - a vastness enchanced by its beautiful open timbered roof." (35)
+
+- __Baddeley__ is superuseful. "Space will not permit of any mention of the various traditions and speculations as to the existence of a Hall as the meeting place of the citizens, and where, in after years, the various Trade Guilds met for the transaction of business, earlier than the reign of Edward the Confessor, A.D. 1041-1066, and that there was one at that time can only be surmised from the fact, that the arms of Edward appear not only in the Porch, but in the Crypt, and other portions of the present Guildhall. [...] otherwise the Arms would hardly have been selected as a companion to those of Henry VI., in whose reign the present Hall was completed." [Henry VI: 1421-1471; king 1422-1461 then 1470-1471]
+
+
+##From __Foxe__
+
+- A whole section in the trial of Anne Askew is named "The summe of the condemnation of me Anne Askew at the Guildhall."
+
+- Same for Cranmer: 
+
+> "After this, in the moneth of Nouemb. the Archbyshop Cranmer (notwithstāding he had earnestly refused to subscribe to the kings wil, in disheriting his sister Marye, alledging many graue and pithy reasons for her legitimation, was in Guild hall of London arraigned and attainted of treason, with the L. Iane, and three of the Duke of Northumberlandes sonnes, which at the intreatye of certayne persons were had againe to the Tower, and there kept for a time."
+
+- The episode is preceded by "The Oration of Queene Marie in the Guild Hall."
+
+- We have some trouble understanding the juridical status of this institution at the moment. What is this place? Why does Queen Mary need to speak there in order to obtain the arrest of Cranmer and Marye?
+
+- The GH as the __interface__ between the _City_ and the monarchy, and between the _City_ and the world.
