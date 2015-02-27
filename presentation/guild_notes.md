@@ -228,3 +228,19 @@
 - We have some trouble understanding the juridical status of this institution at the moment. What is this place? Why does Queen Mary need to speak there in order to obtain the arrest of Cranmer and Marye?
 
 - The GH as the __interface__ between the _City_ and the monarchy, and between the _City_ and the world.
+
+- Here is something fun "you know, for kids":
+
+> There was seene two Sunnes both shining at once, the one a good prety way distaunt from the other. At the same time was also seene a Rainebowe turned contrary, and a great deale higher then hath bene accustomed. The common standinge of the Raynebowe is thus ⁀ but thys stoode thus ‿ with the heade downward, and the feete as it were vpwarde. Both these sightes were sene, as wel at Westminster, in Cheapeside, on the Southside of Paules, as in very many other places, and that by a great number of honest men. Also certaine Aldermen went out of the Guild Hall to beholde the sight.
+
+> As touching the rising of master Wyate, with Syr W. Cobham and others in Kent, and there comming to London in the moneth of Februarie: also of the Queenes comming to the Guilde Hall, and her Oration there made: and after of the taking of the said Wyat and his company: likewise of the apprehension of the Duke of Suffolke with his brother Lord Iohn Gray: and the next day  after of beheading of Lord Gildford and Lady Iane, which was the 12. day of February, and how the day before, which was 11. of the sayd moneth, Lord William Haward and sir Edwarde Hastings, were sent for the Ladie Elizabeth
+
+> Vpon the Saterday, beeing the xxviij. of Aprill, 
+
+> Syr Iames Croft, and Maister Winter were agayne brought to the Guild hall, where Sir Iames Croft was arraigned and condemned, and because the day was farre spent, Maister Winter was not arraigned.
+
+> Vpon the Thursday, being the xvij. of May, 
+
+> William Thomas was arraigned at the Guild Hall, and there the same day condemned, who the next day after, was hanged, drawne, and quartered. His accusation was, for cōspiring the Queenes death: which how true it was, I haue not to say.  This is certaine, that he made a right godly ende, and wrote many fruitefull exhortations, Letters and Sonets in the prison before his death.
+
+> Here is to be noted, that at the comming of Queene Mary to the Guild hall, being bruted before that shee was comming wt harnessed men, such a feare came among them that a number of the Londiners fearing least they shoulde be there intrapped & put to death, made out of the gate before her entring in. Furthermore note, that when shee had ended her Oration (which she semed to haue perfectly conned without booke) Winchester standing by her, when the Oration was done, with great admiration cried to þe people: O how happy are we, to whom God hath geuen such a wise and learned Prince. &c.
