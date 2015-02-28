@@ -1,13 +1,2 @@
-I am thinking about the contrast between the outdoor scenes of the second act and the indoor scenes of the first.
-
-Streets of London - Ending of the play;
-
-Open countryfield in France - beginning of the play.
-
-Expulsion. The right side of the city is expelling - rejecting - the rotten side. These are the honest workers, the diligent tradesmen, the devoted pattres familiae; the rogues are the lockpickers, the thieves. An invasion. 
-
-Something uncanny about the appearance of the king in that scene in the jewelry. I believe that that is the crucial moment that we have to devote our attention to. Since. What is a disguise. Why is this entire obseession with disguising and refurbishing and recycling a view of what the very city do
-
-Economy of undesirable objects
-
-failure of expulsion in the end. That's why she becomes a gh-gho-ghost!
+#Trojan Threats
+The first and final sections of _Edward IV_ similarly deal with the management of an undesirable element, whose presence is supposedly threatening the stability of the city. The play opens with the siege laid by Falconbridge and his followers, who plan on becoming "the masters of the Mint," in order to "set [_their_] own stamp on the golden coin" (1.2.49-50). Predictably, the long assault takes place around the urban walls, incessantly threatened by the rebel troops: their leader insists on how they will "rush [through them] like thunder," "rend [_their_] chained gates," and "tear in pieces [_their_] portcullises" (1.4.1-21). As they face this menace, the apprentices protecting the city associate this public invasion with a private one: they are worried about their "shops," whose "locks" are "now and then" broken by the "pilf'ring fingers" of analogous rogues (1.5.44-45). An even more intimate understanding of this violation is the one that troubles the leader of the resistance, Master Shore, when, with a chilling plainness, Falconbridge asserts the ravishment of his closest propriety: "Thy wife is mine, that's flat. This night, in thine own house, she sleeps with me" (1.4.46-47). The triple failure of this concentric penetration - the city, the shops, the woman - is summarized by Falconbridge in his address to "the sight of upreared Troy" (1.9.1), a transhistorical evocation that, in its connection to Helen, further emphasizes the erotic undertones of the conflict; in a specular move, Master Shore reminds his wife that the chief reason for his commitment to the cause was "to keep [_her_] from the foil / Of him that to [_his_] face did vow [_her_] spoil" (1.8.17-18). As he invades Shore's shop in disguise, does King Edward become the Trojan horse of this _history_, turning Jane into the undesirable Helen of the ending? 
