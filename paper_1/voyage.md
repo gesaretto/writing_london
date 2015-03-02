@@ -1,0 +1,121 @@
+#Notes on the _Famous Voyage_
+
+> NO more let _Greece_ her bolder fables tell  
+> Of _Hercules_, or _Theseus_ going to _hell_,  
+> _Orpheus_, _Ulysses_: or the _Latine Muse_,  
+> With tales of _Troyes_ just knights our faiths abuse:  
+> We have a _Shelton_, and a _Heyden_ got,  
+> Had power to act, what they to faine had not.  
+
+First of all, I notice the slippage between _poet_ and _character_, _agens_ and _auctor_. Regardles of whom the two characters mentioned on line 5 are, the crucial notion of this first few lines is that, whereas the poets of antiquity were simply telling these stories, Jonson's contemporaries were actually _living_ them.
+
+More ideas from this passage: the negation of the opening is of course the most prominent feature; this is a false _apophasis_ or _occupatio_, where the denied subject of the discourse is eventually _actually_ denied. There is not enough material to know anything about these stories, if we are not acquainted with their matter: it is simply a matter of naming, _en passant_.
+
+On this note, it would be interesting to look at the function of _italics_ in this poem; was this typographical device a choice of the poet? Or an editorial intervention that we could impute to the printer? Also, how do these _italics_ work? Not only have we proper names of both mythical and historical - contemporary - figures; we have toponyms and place names. _Troyes_ and _hell_. Why is this equivalence set? Is this a feature that we could relate to our idea of London as an organism?
+
+Another feature that we could consider: the rhyme of tell and helll; the very enjambement of "tell / Of"; the _falsity_ attributed to these ancient stories.
+
+I guess that this is the central point of the passage: these stories were false, and they were all the same. We have the _power_ to _act_ (_potentia_, _actus_); what will be told now is not false, will not abuse the readers' faith (the poet is including himself among them, in the "our" of l. 4 and the "We" of l. 5); what will be told is not part of those _bolder fables_.
+
+What do we make of the synecdoche of the first verse? _Greece_ is the entirety of the Greek and classical tradition (although here Jonson is attentively avoiding any specific reference to Latin narratives - if we exclude, of course, the _Latine Muse_ of l. 3).
+
+How does the _realism_ that is opposed to the chivalric, fantastic _just knights_ of l. 4 become the _mannerism_ of this entire work?
+
+> All, that they boast of _Styx_, of _Acheron_,  
+> _Cocytus_, _Phlegeton_, our have prov'd in one;  
+> The filth, stench, noyse: save only what was there  
+> Subtly distinguish'd, was confused here.  
+
+The discourse becomes here explicitly hellish, of course: the attention shifts from the _Greece_ of l. 1 to the four __rivers__ (__!!!__) that run through hell. This fluvial convergence creates, as a consequence, the _Fleet_: it is a reference to its superiority. But how is this superiority produced?At this moment we simply have an __equivalence__: the three qualities indicated as peculiarities for the four hellish rivers are all present in the Fleet; the Fleet is the sum of the four hellish rivers - and _nothing more_. What do we make of the final two lines? The _save_ is perhaps the introduction of a contradiction: _except for_, _except that_. So that this quality of "confusion" is - _potentially_ - a detraction from the total sum of the _Fleet_'s characteristics. The Fleet is equal to the sum of the four previous rivers, minus their _distinction_. The _Fleet_, like this _poem_, is a mess.
+
+What is this _distinction_? Is this simply a matter of clarity of articulation? I think that this very simple idea could be the true indicator of an _ecological_ concern: the three negative elements are right now so profoundly intermixed with the essence of the river, that it would be truly impossible to separate them again. _Confusion_ is a word that we should probably look up.
+
+Notice the contrast between __here__ and __there__, and between __our__ and __they__. These two worlds are entirely apart - there is no fusion between them.
+
+Or is there? Remember your Dante - the rivers of hell actually come from earth (since hell, like purgatory, is on earth). Is there a suggestion about their earthly origin here as well?
+
+Again, the contrast is between _potentia_ and _actus_, or, better still, between fiction and reality - what is __boasted__ and what is __prov'd__.
+
+_Filth_, _stench_, and _noyse_, are interesting choices. The latter two clearly refer to specific senses (smell and hearing); what do we make of _filth_? Is it a visual quality? A tactile quality? Or is it simply the general cause of the other two consequences?
+
+Perhaps the _filth_ is the _confusion_ of _stench_ and _noyse_ (but probably __not__).
+
+> Their werry had no saile, too; ours had none:  
+> And in it, two more horride knaves, then _Charon_.  
+> Arses were heard to croake, in stead of frogs;  
+> And for one _Cerberus_, the whole coast was dogs.  
+> _Furies_ there wanted not: each scold was ten.  
+> And, for the cryes of _Ghosts_, women, and men  
+> Laden with plague-sores, and their sinnes, were heard,  
+> Lash'd by their consciences, to die, affeard.  
+
+
+The first line is slightly puzzling: is this again simply an equivalence? Why do these two phrases sound like a contrast - or a parallel - when they are not? Notice, however, that from line 2 onwards the poem is actually establishing a numerical superiority of this _adventure_ (the English adventure) to the classical one: on the boat there are _two_ ferrymen, instead of the single _Charon_ - and they are _more_ horride; one _Cerberus_ is replaced by a coast of dogs (better still - this is a strange rhetorical figure, between a synecdoche and a metaphor: we should look for it, but not now). The following line is even better: this is a pure _replacement_ of one item for another. There is __no need__ for the _Furies_, because there is actually a vast abundance of women whose value is highly superior than the one coming from Greece. This negation is the fundative trope of the entire poem, of course: it is the refusal that motivates an acceptance of the new, improved product. There is also an idea of _currency_ in the fact that _one_ scold would be worth _ten_ furies, as if we were talking about coins and banknotes.
+
+I am still fascinated by that first line, which is also an instant of _negation_. Rhymes also seem to be doing an interesting work here - _none_ and _Charon_, _dogs_ and _frogs_, _ten_ and _men_. There seems to be a strong awareness of their purpose in this section.
+
+Finally, the third line of this passage (13 in the poem): what do we make of this simple transaction, this simple equivalence? Are the arses _more_ than the _frogs_? How is this _croaking_ intensified by the fact of being a _fart_?
+
+The attention to the bodily is already perceivable in the _plague-sores_ leading those _women_ and _men_ to death. That is also an interesting paradox. First of all, this is not an instance of _hyperbole_, or _extra-value_: we have a simple equivalence; our _Ghosts_ are the men and women that are dying every day from the plague. The poem gets closer to their skin and to their sins: it is not simply the _plague_, it is the _sores_ of the plague. The _passive voice_ is also fascinating here: this is something that our travellers experience passively; it is a quality suspendend in the air.
+
+We find a sort of _ideological chasm_ in thsese two lines: __1__ and __4__ are physical (plague-sores, death); __2__ and __3__ are spiritual (sinnes, consciences). Is this the real novelty of this poem? The fact that it is dealing with the boundary between life and death, and not simply with the hereafter? Is it simply a hightened attention devoted to the physical (and, therefore, another example of _realism_)?
+
+> Then let the former age, with this content her,  
+> Shee brought the _Poets_ forth, but ours th'adventurer.  
+
+The italics seems truly too subtle to be an editorial intervention; Jonson is clearly using it with the explicit purpose of marking the _exotic_ element in his narrative. It will be interesting to see how this trait is applied to objects that are __not__ drawn from a different context (streets of London, cities in the world).
+
+The _former_ age is female.
+
+The contrast is again set between the narrating voices of the past, who could be lying; who probably are lying; and the _adventurers_ of the present (those who hold the __power__ to __act__).
+
+> __The Voyage It Selfe__
+
+There is something comical about the obviousness of this title, and about the presumptuousness of the "It Selfe."
+
+> I sing the brave adventure of two wights,  
+> And pitty 'tis, I cannot call them knights:  
+> One was; and he, for brawne, and braine, right able  
+> To have beene stiled of King _Arthurs_ table.  
+> The other was a squire, of faire degree;  
+> But, in the action, greater man than hee:  
+> Who gave, to take at his returne from _Hell_,  
+> His three for one. Now, lordings, listen well.  
+>  
+> It was the day, what time the powerfull _Moone_  
+> Makes the poore _Banck-side_ creature wt it' shoone,  
+> In it' owne hall; when these (in worthy scorne  
+> Of those, that put on moeyes, on returne  
+> From _Venice_, _Paris_, or some in-land passage  
+> Of sixe times to, and fro, without embassage,  
+> Or him that backward went to _Berwicke_, or which  
+> Did dance the famous Morrisse, unto _Norwich_)  
+> At _Bread-streets_ Mermaid, having din'd, and merry,  
+> Propos'd to goe to _Hol'borne_ in a wherry:  
+> A harder tasque, then either his to Bristo',  
+> Or his to _Antwerpe_. Therefore, once more, list ho'.  
+>  
+> A _Docke_ there is, that called is _Avernus_,  
+> Of some _Bride-well_, and may, in time, concerne us  
+> All, that are readers: but, me thinkes 'tis od,  
+> That all this while I have forgot some _god_,  
+> Or _goddesse_ to invoke, to stuffe my verse;  
+> And with both bombard-stile, and phrase, rehearse  
+> The many perills of this _Port_, and how  
+> Sans'helpe of _Sybil_, or a golden bough,  
+> Or magick sacrifice, they past along!  
+> _Alcides_, be thou succouring to my song.  
+
+Please note that the epiteth __Alcides__ might be a specific reference to Heracles' __human mother__. In that case, Jonson would be lying to us, or to himself, or quoting a very dubious version of Heracles' story. Heracles is a __demi-god__, not a god.
+
+> Thou hast seene _hell_ (some say) and know'st all nookes there,
+> Canst tell me best, how every _Furie_ lookes there,
+> And art a _god_, if _Fame_ thee not abuses,
+> Alwayes at hand, to aide the merry _Muses_.
+> Great _Club-fist_, though thy backe, and bones be sore,
+> Still, with thy former labours; yet, once more,
+> Act a brave worke, call it thy last adventry:
+> But hold my torch, while I describe the entry
+> To this dire passage. Say, thou stop thy nose:
+> 'Tis but light paines: Indeede this _Dock's_ no rose.
+
