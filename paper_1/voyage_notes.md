@@ -1,5 +1,23 @@
 #Notes on the _Famous Voyage_
 
+##Tentative structure
+
+- The denial; discarding what is considered unworthy.
+
+- Ejection: the body gets rid of its shit; the city get rids of its garbage; the community of the city gets rid of its undesirable elements.
+
+- Anxiety of _mixture_: abjection. Being unable of distinguishing between the elements that constitute an organism. _Merd-urinous_. Alcides.
+
+    - Abjection? Broken boundaries. Flood.
+    
+- The _atoms_. Everything returns back to you.
+
+- Conclusion: the poem eventually incorporated those epic moments that it had refused at the very beginning.
+
+- - -
+
+##Close readings and the text
+
 > NO more let _Greece_ her bolder fables tell  
 > Of _Hercules_, or _Theseus_ going to _hell_,  
 > _Orpheus_, _Ulysses_: or the _Latine Muse_,  
@@ -281,7 +299,7 @@ Please focus on this __negation__. Negation is a __moment__ in this progression;
 
 - - -
 
-#Ideas so far
+##Ideas so far
 
 Overflowing shit. Atomic shit. Ubiquitous shit. Breaking of economy through economy itself. Atomization of the body; flakes of skin and shit pervading every corner, every nook, every hole. Flakes of dead skin and shit; this incessant flight of death and shit is actually alive. Mold on the skin of the dead cat, roasted and toasted. That very idea of a broken boundary. Flood of shit. The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body. I am constantly desintegrating and becoming something else. Flakes of dead skin - the poem itself is losing its skin in fragments, and becoming the ailment of something else; the poem itself is eating shit and shitting. How, and are we sure? Is the poem really shitting? Yes. But is it really eating shit? Eventually, it does. Eventually, the genre that it had denied is reincorporated again - eventually the dead cat speaks - miraculous! - and metempsychosis is happening in London, right now, on the Fleet. Those are no longer delusional fables, pure fiction, lies. Those stories are being integrated by this very story.
 
