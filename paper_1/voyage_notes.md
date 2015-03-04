@@ -108,108 +108,174 @@ There is something comical about the obviousness of this title, and about the pr
 
 Please note that the epiteth __Alcides__ might be a specific reference to Heracles' __human mother__. In that case, Jonson would be lying to us, or to himself, or quoting a very dubious version of Heracles' story. Heracles is a __demi-god__, not a god.
 
-> Thou hast seene _hell_ (some say) and know'st all nookes there,
-> Canst tell me best, how every _Furie_ lookes there,
-> And art a _god_, if _Fame_ thee not abuses,
-> Alwayes at hand, to aide the merry _Muses_.
-> Great _Club-fist_, though thy backe, and bones be sore,
-> Still, with thy former labours; yet, once more,
-> Act a brave worke, call it thy last adventry:
-> But hold my torch, while I describe the entry
-> To this dire passage. Say, thou stop thy nose:
-> 'Tis but light paines: Indeede this _Dock's_ no rose.
+> Thou hast seene _hell_ (some say) and know'st all nookes there,  
+> Canst tell me best, how every _Furie_ lookes there,  
+> And art a _god_, if _Fame_ thee not abuses,  
+> Alwayes at hand, to aide the merry _Muses_.  
+> Great _Club-fist_, though thy backe, and bones be sore,  
+> Still, with thy former labours; yet, once more,  
+> Act a brave worke, call it thy last adventry:  
+> But hold my torch, while I describe the entry  
+> To this dire passage. Say, thou stop thy nose:  
+> 'Tis but light paines: Indeede this _Dock's_ no rose.  
 >  
-> In the first jawes appear'd that ugly monster,
-> Ycleped _Mud_, which, when their oares did once stirre,
-> Belch'd forth an ayre, as hot, as at the muster
-> Of all your night-tubs, when the carts due cluster,
-> Who shall discharge first his merd-urinous load:
-> Thorough her wombe they make their famous road,
-> Betweene two walls; where, on one side, to scar men,
-> Were seene your ugly _Centaures_, yee call Car-men,
-> _Gorgonian_ scolds, and _Harpyes_: on the other
-> Hung stench, diseases, and old filth, their mother,
-> With famine, wants, and sorrowes many a dosen,
-> The least of which was to the plague a cosen.
-> But they unfrighted passe, though many a privie
-> Spake to 'hem louder, then the oxe in _Livie_:
-> And many a sinke pour'd out her rage anenst 'hem;
-> But still their valour, and their vertue fenc't hem,
-> And, on they went, like _Castor_ brave, and _Pollux_:
-> Ploughing the mayne. When, see (the worst of all lucks)
-> They met the second Prodigie, would feare a
-> Man, that had never heard of a _Chimaera_.
+> In the first jawes appear'd that ugly monster,  
+> Ycleped _Mud_, which, when their oares did once stirre,  
+> Belch'd forth an ayre, as hot, as at the muster  
+> Of all your night-tubs, when the carts due cluster,  
+> Who shall discharge first his merd-urinous load:  
+> Thorough her wombe they make their famous road,  
+> Betweene two walls; where, on one side, to scar men,  
+> Were seene your ugly _Centaures_, yee call Car-men,  
+> _Gorgonian_ scolds, and _Harpyes_: on the other  
+> Hung stench, diseases, and old filth, their mother,  
+> With famine, wants, and sorrowes many a dosen,  
+> The least of which was to the plague a cosen.  
+> But they unfrighted passe, though many a privie  
+> Spake to 'hem louder, then the oxe in _Livie_:  
+> And many a sinke pour'd out her rage anenst 'hem;  
+> But still their valour, and their vertue fenc't hem,  
+> And, on they went, like _Castor_ brave, and _Pollux_:  
+> Ploughing the mayne. When, see (the worst of all lucks)  
+> They met the second Prodigie, would feare a  
+> Man, that had never heard of a _Chimaera_.  
 
 What the fuck do we do of this phenomenal _enjambement_?!
 
-> One said, it was bold _Briareus_, or the beadle,
-> (Who hath the hundred hands when he doth meedle)
-> The other thought it _Hydra_, or the trock
-> Made of the trull, that cut her fathers lock:
+> One said, it was bold _Briareus_, or the beadle,  
+> (Who hath the hundred hands when he doth meedle)  
+> The other thought it _Hydra_, or the trock  
+> Made of the trull, that cut her fathers lock:  
 
 There is apparently a confusion - a mythological blindness here. Is it intentional?
 
-> But, comming neere, they found it but a liter,
-> So huge, it seem'd, they could by no meanes quite her.
-> Backe cry'd their brace of _Charons_: they cry'd, no,
-> No going backe; on still you rogues, and row.
-> How hight the place? a voyce was heard, _Cocytus_.
-> Row close then slaves. Alas they will beshite us.
-> No matter, stinkards, row. What croaking sound
-> Is this we heare? of frogs? No, guts wind-bound,
-> Over your heads: Well, row. At this a loud
-> Crack did report it selfe, as if a cloud
-> Had burst with storme, and down fell, _ab excelsis_,
-> Poore _Mercury_, crying out on _Paracelsus_,
-> And all his followers, that had so abus'd him:
-> And, in so shitten sort, so long had us'd him:
+> But, comming neere, they found it but a liter,  
+> So huge, it seem'd, they could by no meanes quite her.  
+> Backe cry'd their brace of _Charons_: they cry'd, no,  
+> No going backe; on still you rogues, and row.  
+> How hight the place? a voyce was heard, _Cocytus_.  
+> Row close then slaves. Alas they will beshite us.  
+> No matter, stinkards, row. What croaking sound  
+> Is this we heare? of frogs? No, guts wind-bound,  
+> Over your heads: Well, row. At this a loud  
+> Crack did report it selfe, as if a cloud  
+> Had burst with storme, and down fell, _ab excelsis_,  
+> Poore _Mercury_, crying out on _Paracelsus_,  
+> And all his followers, that had so abus'd him:  
+> And, in so shitten sort, so long had us'd him:  
 
 This is the same notion that we had encountered before: the re-using of culture; culture as an element of consumption. Culture eaten and shat.
 
-> For (where he was the god of eloquence,
-> And subtlitie of mettalls) they dispense
-> His spirits, now, in pills, and eeke in potions,
-> Suppositories, cataplasmes, and lotions.
-> But many Moones there shall not wane (quoth hee)
-> (In the meane time, let 'hem imprison mee)
-> But I will speake (and know I shall be heard)
-> Touching this cause, where they will be affeard
-> To answere me. And sure, it was th'intent
-> Of the grave fart, late let in parliament,
-> Had it beene seconded, and not in fume
-> Vanish'd away: as you must all presume
-> Their _Mercury_ did now. But this, the stemme
-> Of the hulke touch'd, and, as by _Polypheme_
-> The slie _Ulysses_ stole in a sheepes-skin,
-> The well-greas'd wherry now had got betweene,
-> And bad her _fare-well sough_, unto the lurden:
-> Never did bottom more betray her burden;
-> The meate-boate of Beares colledge, _Paris-garden_,
-> Stunke not so ill; nor, when shee kist, _Kate Arden_.
-> Yet, one day in the yeere, for sweet 'tis voyc't
-> And that is when it is the Lord _Maiors_ foist.
+> For (where he was the god of eloquence,  
+> And subtlitie of mettalls) they dispense  
+> His spirits, now, in pills, and eeke in potions,  
+> Suppositories, cataplasmes, and lotions.  
+> But many Moones there shall not wane (quoth hee)  
+
+Notice that there are no italics for either __Moone__ or __god__ here. Why?
+
+> (In the meane time, let 'hem imprison mee)  
+> But I will speake (and know I shall be heard)  
+> Touching this cause, where they will be affeard  
+> To answere me. And sure, it was th'intent  
+> Of the grave fart, late let in parliament,  
+> Had it beene seconded, and not in fume  
+> Vanish'd away: as you must all presume  
+> Their _Mercury_ did now. But this, the stemme  
+> Of the hulke touch'd, and, as by _Polypheme_  
+> The slie _Ulysses_ stole in a sheepes-skin,  
+> The well-greas'd wherry now had got betweene,  
+> And bad her _fare-well sough_, unto the lurden:  
+> Never did bottom more betray her burden;  
+> The meate-boate of Beares colledge, _Paris-garden_,  
+> Stunke not so ill; nor, when shee kist, _Kate Arden_.  
+> Yet, one day in the yeere, for sweet 'tis voyc't  
+> And that is when it is the Lord _Maiors_ foist.  
 >  
-> By this time they had reach'd the _Stygian_ poole,
-> By which the _Masters_ sweare, when, on the stoole
-> Of worship, they their nodding chinnes doe hit
-> Against their breasts. Here, sev'rall ghosts did flit
-> About the shore, of farts, but late departed,
-> White, black, blew, greene, and in more formes outstarted,
-> Then all those _Atomi_ ridiculous,
-> Whereof old _Democrite_, and _Hill Nicholas_,
-> One said, the other swore, the world consists.
-> These be the cause of those thicke frequent mists
-> Arising in that place, through which, who goes,
-> Must trie the un-used valour of a nose:
-> And that ours did. For yet, no nare was tainted,
+> By this time they had reach'd the _Stygian_ poole,  
+> By which the _Masters_ sweare, when, on the stoole  
+> Of worship, they their nodding chinnes doe hit  
+> Against their breasts. Here, sev'rall ghosts did flit  
+> About the shore, of farts, but late departed,  
+> White, black, blew, greene, and in more formes outstarted,  
+> Then all those _Atomi_ ridiculous,  
+> Whereof old _Democrite_, and _Hill Nicholas_,  
+> One said, the other swore, the world consists.  
+
+The _atoms_ are crucial. The notion of _atoms_ is the notion of a potential economy of physics - a potential economy of physics that allows for an inglobation of the immaterial into the material - farts are spirits; farts have atomic shadows which leave shit behind them. 
+
+> These be the cause of those thicke frequent mists  
+> Arising in that place, through which, who goes,  
+> Must trie the un-used valour of a nose:  
+> And that ours did. For yet, no nare was tainted,  
 
 Some attention should be payed to the way in which the poet enters his world through the use of the first person plural.
 
-> Nor thumbe, nor finger to the stop acquainted,
-> But open, and un-armed encounter'd all:
-> Whether it languishing stucke upon the wall,
-> Or were precipitated downe the jakes,
-> And, after, swom abroad in ample flakes,
-> Or, that it lay, heap'd like an usurers masse,
-> All was to them the same, they were to passe,
-> And so they did, from _Styx_, to _Acheron_:
+> Nor thumbe, nor finger to the stop acquainted,  
+> But open, and un-armed encounter'd all:  
+> Whether it languishing stucke upon the wall,  
+> Or were precipitated downe the jakes,  
+> And, after, swom abroad in ample flakes,  
+> Or, that it lay, heap'd like an usurers masse,  
+> All was to them the same, they were to passe,  
+> And so they did, from _Styx_, to _Acheron_:  
+> The ever-boyling floud. Whose bankes upon  
+> Your _Fleet_-lane _Furies_; and hot cookes doe dwell,  
+> That, with still-scalding steemes, make the place _hell_.  
+> The sinkes ran grease, and haire of meazled hogs,  
+> The heads, houghs, entrailes, and the hides of dogs:  
+> For, to say truth, what scullion is so nastie,  
+> To put the skins, and offall in a pastie?  
+> Cats there lay divers had beene flead, and rosted,  
+> And, after mouldie growne, againe were tosted,  
+> Then, selling not, a dish was tane to mince 'hem,  
+> But still, it seem'd, the rankness did convince 'hem.  
+> For, here they were throwne in with'the melted pewter,  
+> Yet drown'd they not. They had five lives in future.  
+> But 'mong'st these _Tiberts_, who do'you thinke there was?  
+> Old _Bankes_ the juggler, our _Pythagoras_,  
+> Grave tutor to the learned horse. Both wich,  
+> Being, beyond sea, burned for one witch:  
+> Their spirits transmigrated to a cat:  
+> And now, above the poole, a face right fat  
+> With great grey eyes, are lifted up, and mew'd;  
+> Thrise did it spit: thrise div'd. At last, it view'd  
+> Our brave _Heroes_ with a milder glare,  
+> And, in a pittious tune, began. How dare  
+> Your daintie nostrills (in so hot a season  
+> When every clerke eats artichokes, and peason,  
+> Laxative lettuce; and such windie meate)  
+> Tempte such a passage? when each privies seate  
+> Is fill'd with buttock? And the walls doe sweate  
+> Urine, and plaisters? when the noise doth beate  
+> Upon your eares, of discords so un-sweet?  
+
+Please focus on this __negation__. Negation is a __moment__ in this progression; this negation of _modicum_, of _modus in rebus_.
+
+> And out-cryes of the damned in the _Fleet_?  
+> Cannot the _Plague_-bill keepe you backe? nor bells  
+> Of loud Sepulchres with their hourely knells,  
+> But you will visit grisly _Pluto_'s hall?  
+> Behold where _Cerberus_, rear'd on the wall  
+> Of _Hol'borne_ (three sergeants heads) lookes ore,  
+> And stayes but till you come unto the dore!  
+> Tempt not his furie, _Pluto_ is away:  
+> And _Madame Caesar_, great _Proserpina_,  
+> Is now from home. You lose your labours quite,  
+> Were you _Jove_'s sonnes, or had _Alcides_ might.  
+> They cry'd out _Pusse_. He told them he was _Bankes_,  
+> That had, so often, shew'd 'hem merry prankes.  
+> They laugh't, at his laugh-worthy fate. And past  
+> The tripple head without a sop. At last,  
+> Calling for _Radamanthus_, that dwelt by,  
+> A sope-boyler; and _Aecus_ him nigh,  
+> Who kept an ale-house; with my little _Minos_,  
+> An ancient pur-blinde fletcher, with a high nose;  
+> They tooke 'hem all to witnesse of their action:  
+> And so went bravely backe, without protraction.  
+>  
+> In memorie of which most liquid deed,  
+> The citie since hath rais'd a Pyramide.  
+> And I could wish for their eterniz'd sakes,  
+> My _Muse_ had plough'd with his, that sung _A-jax_.  
+
