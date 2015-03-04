@@ -78,6 +78,8 @@ The attention to the bodily is already perceivable in the _plague-sores_ leading
 
 We find a sort of _ideological chasm_ in thsese two lines: __1__ and __4__ are physical (plague-sores, death); __2__ and __3__ are spiritual (sinnes, consciences). Is this the real novelty of this poem? The fact that it is dealing with the boundary between life and death, and not simply with the hereafter? Is it simply a hightened attention devoted to the physical (and, therefore, another example of _realism_)?
 
+This moment is an anticipation of what will happen with __metempsychosis__. It is the introduction of a potentially threatening combination - fusion - between the material and the immaterial realms.
+
 > Then let the former age, with this content her,  
 > Shee brought the _Poets_ forth, but ours th'adventurer.  
 
@@ -91,19 +93,37 @@ The contrast is again set between the narrating voices of the past, who could be
 
 There is something comical about the obviousness of this title, and about the presumptuousness of the "It Selfe."
 
+The comical value of this title lies within its stress upon the concreteness of the experience; the experience has happened, and the poet will only focus on it. No, it is not this. What does "The Voyage It Selfe" mean? Why is it funny? (Because it is funny.) It is separating what is the voyage from what is not the voyage. It is a section, a boundary. It is limiting the perimeter of the actual experience from what was not part of the experience. Therefore, as a poetical mode, having left beyond the errors of the _past age_ and the allure of epic - or the wrong ways of epic, the poet is preparing the reader for a section that will be solely devoted to the actual truth of its content. If any move will be made from now on, it will be a move of persisten rejection. We have left everything that was dangerously foreign to the reality of this story beyond us; we have discarded it, refused it, rejected it. It is not true; it does not fit here. It is inferior and bad. We have gotten rid of it.
+
 > I sing the brave adventure of two wights,  
 > And pitty 'tis, I cannot call them knights:  
+
+What is the relationship between this impossibility of _naming_ and the rejection of the initial section? Between the _just knights_ of Troy and this immediate attempt to transform these two _wights_ into _knights_? Why should the poet be doing this? He is trying a different mode now - the mode of realism and truth; the mode of urban spaces and history; no fiction nor romance here. But, immediately, we are confronted with this contradiction in his purpose - he should content himself with telling the simple story of these few merry travellers in the poorest neighborhoods of London; instead, he is trying to render them more noble than they are. To assimilate them to the discarded objects that have been thrown away.
+
+The shit that you write is similar to the shit that you hate; the things you keep closest - the things that you produce, that you put together, that you craft - are similar to the things that you have tried to get rid of. You are your own shit.
+
 > One was; and he, for brawne, and braine, right able  
 > To have beene stiled of King _Arthurs_ table.  
+
+Even worse! Immediately, the language of romance. This is, though, the evocation of an absent referent. This is something that the work can be compared to, that it is evoked by thinking about it, but not something present.
+
 > The other was a squire, of faire degree;  
 > But, in the action, greater man than hee:  
+
+Again, contrast between action and fiction, with action preferred to fiction; although not satisfactorily here, since this consolation - or this simple true, only invests the poet _after_ he has tried to transform one of his heroes into the hero of a different genre, the hero of an impossible romance. Why is he comparing these stories to stories that are famously false, since his perspective is precisely to make the difference clear and accepted. In any case, this preference accorded to the __action__ is enough to reassure us about the location of the poem.
+
 > Who gave, to take at his returne from _Hell_,  
 > His three for one. Now, lordings, listen well.  
+
+Here we have a return to the _economic discourse_ that has been introduced when value was first assessed numerically. "Three for one" is an exchange in value; it is a wager, a transfer; it is the ground on which you base your very _adventure_. Again, Jonson is asking us to buy what he is selling; he is asking us to invest in the _voyage_ in precisely the same way in which his hero did, so that we might be granted ourselves a _three for one_. This investment is paralleled with the line in which we listen - we have become __investors__ and adventurers precisely in the moment when we have started listening to the tale. We have to buy the product, once again.
+
+__Questions to be asked other sources__: how close did BJ live to the Fleet that he is describing (i.e.: how much can he be really considered as part of the _we_ used in the poem)? Could we consider the publication of the _epigrammes_ as a commercial venture of sorts?
+
 >  
 > It was the day, what time the powerfull _Moone_  
-> Makes the poore _Banck-side_ creature wt it' shoone,  
+> Makes the poore _Banck-side_ creature wet it' shoone,  
 > In it' owne hall; when these (in worthy scorne  
-> Of those, that put on moeyes, on returne  
+> Of those, that put on moneyes, on returne  
 > From _Venice_, _Paris_, or some in-land passage  
 > Of sixe times to, and fro, without embassage,  
 > Or him that backward went to _Berwicke_, or which  
@@ -112,6 +132,9 @@ There is something comical about the obviousness of this title, and about the pr
 > Propos'd to goe to _Hol'borne_ in a wherry:  
 > A harder tasque, then either his to Bristo',  
 > Or his to _Antwerpe_. Therefore, once more, list ho'.  
+
+Again, the idea of a commercial venture; insistence on its potential _risk_.
+
 >  
 > A _Docke_ there is, that called is _Avernus_,  
 > Of some _Bride-well_, and may, in time, concerne us  
