@@ -58,7 +58,7 @@ _Filth_, _stench_, and _noyse_, are interesting choices. The latter two clearly 
 
 Perhaps the _filth_ is the _confusion_ of _stench_ and _noyse_ (but probably __not__).
 
-> Their werry had no saile, too; ours had none:  
+> Their wherry had no saile, too; ours had none:  
 > And in it, two more horride knaves, then _Charon_.  
 > Arses were heard to croake, in stead of frogs;  
 > And for one _Cerberus_, the whole coast was dogs.  
