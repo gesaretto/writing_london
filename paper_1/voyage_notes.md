@@ -135,6 +135,8 @@ __Questions to be asked other sources__: how close did BJ live to the Fleet that
 
 Again, the idea of a commercial venture; insistence on its potential _risk_.
 
+__Yes__. This is definitely part of the imagery that originates the poem: the commercial venture - the wager, the investment, the _hazard_ - is that of putting wares on a ship and seeing whether it makes it or not; it may succeed or fail. The ship is also, of course, one of the privileged tropes used to indicate _poetry_, and the exploration of a narrative that at times poetry requires.
+
 >  
 > A _Docke_ there is, that called is _Avernus_,  
 > Of some _Bride-well_, and may, in time, concerne us  
