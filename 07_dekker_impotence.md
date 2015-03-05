@@ -1,0 +1,4 @@
+- Impotent Ralph: why?
+- Impotent Ralph and citizens as devoided of sexuality; boring and lame.
+- "I will beat you with my crutch!"
+- Think about the lame characters of EH.
