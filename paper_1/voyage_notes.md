@@ -119,9 +119,14 @@ Here we have a return to the _economic discourse_ that has been introduced when 
 
 __Questions to be asked other sources__: how close did BJ live to the Fleet that he is describing (i.e.: how much can he be really considered as part of the _we_ used in the poem)? Could we consider the publication of the _epigrammes_ as a commercial venture of sorts?
 
+We certainly hope so.
+
 >  
 > It was the day, what time the powerfull _Moone_  
 > Makes the poore _Banck-side_ creature wet it' shoone,  
+
+This image is unclear and mysterious; but it is probably useless to address it now.
+
 > In it' owne hall; when these (in worthy scorne  
 > Of those, that put on moneyes, on returne  
 > From _Venice_, _Paris_, or some in-land passage  
@@ -137,12 +142,21 @@ Again, the idea of a commercial venture; insistence on its potential _risk_.
 
 __Yes__. This is definitely part of the imagery that originates the poem: the commercial venture - the wager, the investment, the _hazard_ - is that of putting wares on a ship and seeing whether it makes it or not; it may succeed or fail. The ship is also, of course, one of the privileged tropes used to indicate _poetry_, and the exploration of a narrative that at times poetry requires.
 
+Crucial. Investing. Putting your ship at sea - believing that this travel is set to reach different shores, new shores.
+
+What are the qualities of these feats? They are all adventures of sorts; they are not commercial ventures rooted in a rational understanding of seafaring, trade and their risks; they are, simply, blind exhibitions of bravery and mastery.
+
+But then again, the analogy is implicated by the very attentive precisation - "that put on moneyse, on returne." It is right there, it is very clear. This is what this journey is about; a commitment, an investment. A wager. I bet my money on the success of this journey; on the failure of this journey. How will this thing go?
+
 >  
 > A _Docke_ there is, that called is _Avernus_,  
 > Of some _Bride-well_, and may, in time, concerne us  
 > All, that are readers: but, me thinkes 'tis od,  
 > That all this while I have forgot some _god_,  
 > Or _goddesse_ to invoke, to stuffe my verse;  
+
+This is the first return of the epic convention; please notice that the mode has changed; please notice this apparent forgetfulness. Please notice this return back to what had been discarded as useless. The poem cannot do without epic; the poem is navigating on muddy waters - discarding something means encountering it again and again and again. Even this sort of incidental encounter, of fortuitous memory, has a certain liquid quality. I thought that I had left this behind, but I have not: it is still here, it is still haunting me, it is flowing back to me.
+
 > And with both bombard-stile, and phrase, rehearse  
 > The many perills of this _Port_, and how  
 > Sans'helpe of _Sybil_, or a golden bough,  
@@ -151,22 +165,63 @@ __Yes__. This is definitely part of the imagery that originates the poem: the co
 
 Please note that the epiteth __Alcides__ might be a specific reference to Heracles' __human mother__. In that case, Jonson would be lying to us, or to himself, or quoting a very dubious version of Heracles' story. Heracles is a __demi-god__, not a god.
 
+This is the dangerous mixture between the material and the immaterial. Shit flowing back at you. Is that shit immateriality? Is that shit, paradoxically, fiction? Paradoxically, the beautiful poetry of the past? Lack of realism? Lies?
+
+What sort of move is implicit here? Why are we stuck in this contradiction? Why is shit this ethereal idea, this untouchable, immaterial abuse of our faith?
+
+"Your head is full of shit!"
+
+My head is shitting, then. Let my head shit freely, then. Let my head be free to shit as much as it wants, then.
+
+And whatever I shit will be back to me; whatever I shit is me.
+
 > Thou hast seene _hell_ (some say) and know'st all nookes there,  
+
+Not only is the poet invoking back one of the characters that he had left behind, that he had confined to the preliminary section - to that proemium that the poem should completely differ from, being nothing more than an exposition of the "Voyage it selfe." The poet is believing one of these stories already - he is buying it, understanding whatever "some say" to be true as completely true; he is incorporating this alleged lie within his own narrative.
+
 > Canst tell me best, how every _Furie_ lookes there,  
 > And art a _god_, if _Fame_ thee not abuses,  
 > Alwayes at hand, to aide the merry _Muses_.  
+
+Oh, please - look carefully here! Here is the return of each and every one of the items that we had left behind! And even the same rhyme! It is a reusal of the same structures!
+
 > Great _Club-fist_, though thy backe, and bones be sore,  
+
+Mixing of human and nonhuman attributes; here exemplarily juxtaposed - an epithet of greatness and a disqualifying mention of Hercules' very human pains.
+
 > Still, with thy former labours; yet, once more,  
 > Act a brave worke, call it thy last adventry:  
 > But hold my torch, while I describe the entry  
 > To this dire passage. Say, thou stop thy nose:  
+
+Here we find the contrast between the high labours experienced by Hercules and the relatively easier pain of the _Fleet_. Hidden here is a memory of Hercules as the cleaner of the Augean Stables, of course. But there is a paradoxical inversion from the proemium: the poet is now asserting the minor entity of the work that the hero has to face now. What is happening? Is the poet simply mocking Hercules, ironically reminding him of the supposed triviality of the journey that he is going to describe, while in fact emphasizing its hardness when compared to Hercules' mythical labors? Or is he actually revising his previous statements about the greater quantity and quality of the stuff that is found in the _Fleet_ when compared with the intolerable odours smelled in hell?
+
+Hercules is chosen for two reasons: he is a demigod, and he is the cleaner of the Augean stalls. The _humanity_ of Heracles is debated: although a demigod by birth, later commentators did not hesitate in defining him as an actual god. In any case, the epiteth used by BJ clearly refers to his human side.
+
 > 'Tis but light paines: Indeede this _Dock's_ no rose.  
+
+Negation.
+
 >  
 > In the first jawes appear'd that ugly monster,  
 > Ycleped _Mud_, which, when their oares did once stirre,  
 > Belch'd forth an ayre, as hot, as at the muster  
 > Of all your night-tubs, when the carts due cluster,  
+
+Yes. Every feature of this mythical creature has to do with its ability of _descharging_, _releasing_, _discarding_. It is a monster of shit, but it is vomiting shit itself. It is giving shit back to the reader. "Belch'ing forth" - when stirred, the monster emits gas and shit.
+
+- __Muster__ means _to collect_, _to gather_. Same for __cluster__.
+
 > Who shall discharge first his merd-urinous load:  
+
+Again, __discharge__ and __load__. These are evocations of the actual gesture of shitting - but they are paradoxically attributed to the same pile of shit. Shit is producing shit, releasing shit. Opening its mouth and belching and vomiting.
+
+These are terms belonging to the language of _trade_. The idea of econimical transaction is stil present; we have to think of this as we think of a ship being loaded and unloaded. Considering the fact that __the poem itself__ is assimilated to one of these maritime expeditions, the _load_ of shit truly is what BJ has discarded at the beginning of his work. "This is what I want, this is not what I want."
+
+So, trajectory: poetry - commerce - shit. Every element is _discharging_, _releasing_, unloading what is unnecessary and poisonous.
+
+__PURGATION__. Yes! The poet is _purging_ his poetry.
+
 > Thorough her wombe they make their famous road,  
 > Betweene two walls; where, on one side, to scar men,  
 > Were seene your ugly _Centaures_, yee call Car-men,  
@@ -315,6 +370,9 @@ Please focus on this __negation__. Negation is a __moment__ in this progression;
 > Who kept an ale-house; with my little _Minos_,  
 > An ancient pur-blinde fletcher, with a high nose;  
 > They tooke 'hem all to witnesse of their action:  
+
+Please note this completely anti-climatic ending. This absolutely disappointing ending. What a scam! We want our money back! We have been deceived, and - in the end - this whole thing has simply become another lie.
+
 > And so went bravely backe, without protraction.  
 >  
 > In memorie of which most liquid deed,  
