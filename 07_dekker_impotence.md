@@ -1,4 +1,3 @@
-- Impotent Ralph: why?
-- Impotent Ralph and citizens as devoided of sexuality; boring and lame.
-- "I will beat you with my crutch!"
-- Think about the lame characters of EH.
+#Impotent Labor
+
+As she argues for the lively, exhuberant masculinity of Simon Eyre and his followers, opposed to the feminized apparel and manners of the aristocracy in the "whitewashed fantasy" (56) of _The Shoemaker's Holiday_, Ronda Arab offers an interpretation of Ralph's lameness that, like the character, might sound ineffective. Ralph and Jane's romance mirrors that of Lacey and Rose: temporarily separated by Hammond's sneaky double seduction, the two couples are reconciled in the end, thus sanctioning the artisans' celebration. Ralph is one of the two pillars of the play, and yet its brokenness does not affect Arab's claims.
