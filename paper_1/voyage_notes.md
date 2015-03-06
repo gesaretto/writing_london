@@ -212,6 +212,10 @@ Yes. Every feature of this mythical creature has to do with its ability of _desc
 
 - __Muster__ means _to collect_, _to gather_. Same for __cluster__.
 
+__Belch__ is used for both _mouth_ and _rectum_. The fusion between bodily parts (anus and mouth; anus and vagina) seems to be a recurring feature in the poem.
+
+We are interested in the way in which this fusion is accomplished through the awareness of _atomic_ reality; particles that constantly leave my body - dead skin.
+
 > Who shall discharge first his merd-urinous load:  
 
 Again, __discharge__ and __load__. These are evocations of the actual gesture of shitting - but they are paradoxically attributed to the same pile of shit. Shit is producing shit, releasing shit. Opening its mouth and belching and vomiting.
