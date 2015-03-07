@@ -2,17 +2,27 @@
 
 ##Tentative structure
 
-- The denial; discarding what is considered unworthy.
+- Rejection/ejection/expulsion/purge; rhetorical purge. We no longer want these things here.
 
-- Ejection: the body gets rid of its shit; the city get rids of its garbage; the community of the city gets rid of its undesirable elements.
+- Commercial transaction: we prefer these new items to the old items.
 
-- Anxiety of _mixture_: abjection. Being unable of distinguishing between the elements that constitute an organism. _Merd-urinous_. Alcides.
+	- Optional: consumerism?
 
-    - Abjection? Broken boundaries. Flood.
-    
-- The _atoms_. Everything returns back to you.
+- Voyage as wager; asking the reader to invest in it; to lend his faith and money to the journey.
 
-- Conclusion: the poem eventually incorporated those epic moments that it had refused at the very beginning.
+- The journey seems to work: the ejections and emissions of the first part. The body.
+
+- Return of the discarded: the anxiety of _mixture_.
+
+	- The _Fleet_: giving back what you tried to get rid of.
+
+- Return of the discarded: divinity.
+
+- Return of the discarded: the second section and food.
+
+- Return of the discarded: religion in the form of science.
+
+- Conclusion.
 
 - - -
 
