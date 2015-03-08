@@ -1,5 +1,5 @@
 ---
-title: 'Atomic Shit II'
+title: '_Merd-urinous_ Epic: Classicity as Undisposable Waste in the Ecosystem of _The Famous Voyage_'
 author: G. E. Saretto
 date: March 9th, 2015
 bibliography: voyage.bib
@@ -92,17 +92,21 @@ The poet insists on the notions of emission ("Belch'd forth") and ejection ("dis
 
 Indeed, the second part of the poem, where we ascend the alimentary canal individuated by McRae, shows us culinary habits that are everything but salubrious. this section of the poem seems to constantly suggest a notion of incessant contamination and reciprocal poisoning between the waste being discarded in the river - "grease, and haire of meazled hogs, | The heads, houghs, entrailes and the hides of dogs" - and the food being prepared by the "hoot cookes" who there "doe dwell." The practice which perhaps Jonson seems to be most aware of is that for which "rottling in the back alleys and dunghills, pigs picked up contamination from city industries and noisome ditches filled with night soil and street sweepings. Mingling with digs increased the circulation of disease and intestinal worms. Some of these diseases were of course thought to be "transmissible to humans if infected meat was consumed." [@Cockayne2007, 95-97] In a rotten ecosystem, the animals "flead, and roasted | And, after mouldie growne, againe [...] roasted" had probably ingested the waste thrown in the river, before being again ingested by the humans that hunt and cook them. Introduced by the fantasmatic clouds of _Atoms_ that brood over the shores of the ditch, poisonous clouds of colorful "farts [...] late departed | White, black, blew, greene, and in more forms outstarted,"  A relative scientific awareness about the unstoppable pervasiveness of the "_Atomi_ ridicolous" described by "_Democrite_, and _Hill Nicholas_" seems to justify these anxieties: "bad airs - or miasmas" were thought to "caus[_e_] and spread diseases when [...] breathed in." As we reach the mouth of the river, therefore, we discover that what is ingested equals what is ejected: the horrendous discovery is that the two ends of the canal, the mouth and the anus, are horrendously similar to each other.
 
-Indeed, despite the thematic focus described by McRae is undoubtedly true, we perceive that the end of the _Famous Voyage_ is surprisingly similar to its beginning. There is a threat about the mixing.
+Indeed, although the thematical shift from excrement to nourishment described by McRae is undoubtedly true, we perceive that the alimentary end of the _Famous Voyage_ is disturbingly undistinguishable from its fecal beginning. There is a threatening confusion in the "monstruous femininity" revealed by the image of London as a "grotesque female body with the Ditch a filthy channel into it, [...] ambiguously mouth, vagina, and anus" [@Robinson2014, 569], a confusion that might be compared to to what Julia Kristeva would define as "_abject_ [...], the jettisoned object" which, being "radically excluded [_,_] draws [_one_] towards the place where meaning collapses [@Kristeva2002, 230]. This collapse in meaning, provoked by a sudden encounter with the "body fluids, [...] defilement, [...] shit" and "death" [@Kristeva2002, 231] of the Fleet, is suggested by what, in the very proemium, Jonson describes in terms of "confus[_ion_]".
+
+> All, that they boast of _Styx_, of _Acheron_,  
+> _Cocytus_, _Phlegeton_, our have prov'd in one;  
+> The filth, stench, noyse: save only what was there  
+> Subtly distinguish'd, was confused here.  
+
+The four rivers of Hades converge into a single earthly waterway, in a numerical equivalence that would still motivate our preference for the contemporary adventure over the old epic. Nevertheless, this sum presents a fault, introduced by the concessive phrase "save only": the fact that the rational, subtle distinction between the distinguishable, written elements of that poetical world is, in reality, turned into an unutterable jumble of "filth, stench, noyse." The idea returns in the word "merd-urinous".
 
 - Mixing: The shit returns to the shitter like "The slie _Ulysses_ stole in a sheepes-skin"
 
-"Jonson repeatedly evokes forms of monstruous femininity: he imagines London as a grotesque female body with the Ditch a filthy channel into it, like Error's "hellish sinke" ambiguously mouth, vagina, and anus" [@Robinson2014, 569]
-
 - Porosity of the _mixture_ in Kristeva: it begins with the inclusion of the _poet_ among the _adventurers_ (porosity between the _auctor_ and the _agens_). It is also including the _reader_ in the mix.
 
- 
-- Literature
+- Literature: in the end, the elements return in the invocation to the gods.
 
-- Science?!
+- Science?! Paragraph about the reintegration of superstition.
 
-- Conclusion
+- Conclusion: don't shit where you eat.
