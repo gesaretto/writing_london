@@ -1,0 +1,1 @@
+Among the playwrights that we have most come to know during these weeks - Dekker and Johnson being the others - Heywood strikes me as the one whose use of dramatic space is most consistently creative and expressive. Heywood thinks spatially: the interactions of his characters on the page are already detailed stage directions, meaningful motions ---
