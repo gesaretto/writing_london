@@ -1,5 +1,11 @@
 #Books needed
 
+##Revision (April 2015)
+
+- __Murray__, Timothy: _Theatrical legitimation: allegories of genius in seventeenth century England and France_; Stacks: __PN2049 .M87 1987__
+
+- - -
+
 1. Probably _Kristeva_ on __Abjection__ (either her or someone who's successfully summarizing what she says);
 
 	- Powers of horror: an essay on abjection: Stacks - __PQ2607.E834 Z73413__
