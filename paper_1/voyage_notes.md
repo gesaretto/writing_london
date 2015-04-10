@@ -24,34 +24,6 @@
 
 - - -
 
-##Tentative structure
-
-- Rejection/ejection/expulsion/purge; rhetorical purge. We no longer want these things here.
-
-- Commercial transaction: we prefer these new items to the old items.
-
-	- Optional: consumerism?
-
-- Voyage as wager; asking the reader to invest in it; to lend his faith and money to the journey.
-
-- The journey seems to work: the ejections and emissions of the first part. The body.
-
-- Return of the discarded: the anxiety of _mixture_.
-
-	- The _Fleet_: giving back what you tried to get rid of.
-
-- Return of the discarded: divinity.
-
-- Return of the discarded: the second section and food.
-
-- Return of the discarded: religion in the form of science.
-
-- Conclusion.
-
-- - -
-
-##Close readings and the text
-
 > NO more let _Greece_ her bolder fables tell  
 > Of _Hercules_, or _Theseus_ going to _hell_,  
 > _Orpheus_, _Ulysses_: or the _Latine Muse_,  
@@ -59,38 +31,28 @@
 > We have a _Shelton_, and a _Heyden_ got,  
 > Had power to act, what they to faine had not.  
 
-First of all, I notice the slippage between _poet_ and _character_, _agens_ and _auctor_. Regardles of whom the two characters mentioned on line 5 are, the crucial notion of this first few lines is that, whereas the poets of antiquity were simply telling these stories, Jonson's contemporaries were actually _living_ them.
+- [__Still not addressed__] On this note, it would be interesting to look at the function of _italics_ in this poem; was this typographical device a choice of the poet? Or an editorial intervention that we could impute to the printer? Also, how do these _italics_ work? Not only have we proper names of both mythical and historical - contemporary - figures; we have toponyms and place names. _Troyes_ and _hell_. Why is this equivalence set? Is this a feature that we could relate to our idea of London as an organism?
 
-More ideas from this passage: the negation of the opening is of course the most prominent feature; this is a false _apophasis_ or _occupatio_, where the denied subject of the discourse is eventually _actually_ denied. There is not enough material to know anything about these stories, if we are not acquainted with their matter: it is simply a matter of naming, _en passant_.
+- We emphasized this notion a lot, the notion of falsity; and yet it still sounds unconvincing. Why? What can we do to improve it, to work on it?
 
-On this note, it would be interesting to look at the function of _italics_ in this poem; was this typographical device a choice of the poet? Or an editorial intervention that we could impute to the printer? Also, how do these _italics_ work? Not only have we proper names of both mythical and historical - contemporary - figures; we have toponyms and place names. _Troyes_ and _hell_. Why is this equivalence set? Is this a feature that we could relate to our idea of London as an organism?
+	- Reject it because it is __false__; JH talks about _scare quotes_ as the ideological posture that ought to be used whenever I am addressing such culturally defined notions. That is - I should talk about how this move - __exclusion__ - is the move through which Jonson defines everything that is placed outside that boundary as false.
 
-Another feature that we could consider: the rhyme of tell and helll; the very enjambement of "tell / Of"; the _falsity_ attributed to these ancient stories.
+	- And the very notion of __boundary__ should deserve more attention. This is the creation of a cultural domain that is based on __exclusion__. Exclusion defines the inclusion, defines the boundary itself. We are everything that is not included here.
 
-I guess that this is the central point of the passage: these stories were false, and they were all the same. We have the _power_ to _act_ (_potentia_, _actus_); what will be told now is not false, will not abuse the readers' faith (the poet is including himself among them, in the "our" of l. 4 and the "We" of l. 5); what will be told is not part of those _bolder fables_.
-
-What do we make of the synecdoche of the first verse? _Greece_ is the entirety of the Greek and classical tradition (although here Jonson is attentively avoiding any specific reference to Latin narratives - if we exclude, of course, the _Latine Muse_ of l. 3).
-
-How does the _realism_ that is opposed to the chivalric, fantastic _just knights_ of l. 4 become the _mannerism_ of this entire work?
+	- __Domain of a city__.
 
 > All, that they boast of _Styx_, of _Acheron_,  
 > _Cocytus_, _Phlegeton_, our have prov'd in one;  
 > The filth, stench, noyse: save only what was there  
 > Subtly distinguish'd, was confused here.  
 
-The discourse becomes here explicitly hellish, of course: the attention shifts from the _Greece_ of l. 1 to the four __rivers__ (__!!!__) that run through hell. This fluvial convergence creates, as a consequence, the _Fleet_: it is a reference to its superiority. But how is this superiority produced?At this moment we simply have an __equivalence__: the three qualities indicated as peculiarities for the four hellish rivers are all present in the Fleet; the Fleet is the sum of the four hellish rivers - and _nothing more_. What do we make of the final two lines? The _save_ is perhaps the introduction of a contradiction: _except for_, _except that_. So that this quality of "confusion" is - _potentially_ - a detraction from the total sum of the _Fleet_'s characteristics. The Fleet is equal to the sum of the four previous rivers, minus their _distinction_. The _Fleet_, like this _poem_, is a mess.
+- The prepositional adverb __save__ is possibly the element that should be further emphasized.
 
-What is this _distinction_? Is this simply a matter of clarity of articulation? I think that this very simple idea could be the true indicator of an _ecological_ concern: the three negative elements are right now so profoundly intermixed with the essence of the river, that it would be truly impossible to separate them again. _Confusion_ is a word that we should probably look up.
+- __Confusion__: confusion of identity, confusion of culture, confusion of a mixed body. Threat of a mixed body; threat of a mixed body becoming its own shit.
 
-Notice the contrast between __here__ and __there__, and between __our__ and __they__. These two worlds are entirely apart - there is no fusion between them.
+- The contrast set between __here__ and __there__ is the contrast between the two sides of the boundary.
 
-Or is there? Remember your Dante - the rivers of hell actually come from earth (since hell, like purgatory, is on earth). Is there a suggestion about their earthly origin here as well?
-
-Again, the contrast is between _potentia_ and _actus_, or, better still, between fiction and reality - what is __boasted__ and what is __prov'd__.
-
-_Filth_, _stench_, and _noyse_, are interesting choices. The latter two clearly refer to specific senses (smell and hearing); what do we make of _filth_? Is it a visual quality? A tactile quality? Or is it simply the general cause of the other two consequences?
-
-Perhaps the _filth_ is the _confusion_ of _stench_ and _noyse_ (but probably __not__).
+	- Something should be said - could be said, ought to be said - about the Fleet as a sort of boundary, therefore. The line that divides the body from the skin. __Skinning__ the boars
 
 > Their wherry had no saile, too; ours had none:  
 > And in it, two more horride knaves, then _Charon_.  
@@ -101,65 +63,42 @@ Perhaps the _filth_ is the _confusion_ of _stench_ and _noyse_ (but probably __n
 > Laden with plague-sores, and their sinnes, were heard,  
 > Lash'd by their consciences, to die, affeard.  
 
+- Fix the currency problem.
 
-The first line is slightly puzzling: is this again simply an equivalence? Why do these two phrases sound like a contrast - or a parallel - when they are not? Notice, however, that from line 2 onwards the poem is actually establishing a numerical superiority of this _adventure_ (the English adventure) to the classical one: on the boat there are _two_ ferrymen, instead of the single _Charon_ - and they are _more_ horride; one _Cerberus_ is replaced by a coast of dogs (better still - this is a strange rhetorical figure, between a synecdoche and a metaphor: we should look for it, but not now). The following line is even better: this is a pure _replacement_ of one item for another. There is __no need__ for the _Furies_, because there is actually a vast abundance of women whose value is highly superior than the one coming from Greece. This negation is the fundative trope of the entire poem, of course: it is the refusal that motivates an acceptance of the new, improved product. There is also an idea of _currency_ in the fact that _one_ scold would be worth _ten_ furies, as if we were talking about coins and banknotes.
-
-I am still fascinated by that first line, which is also an instant of _negation_. Rhymes also seem to be doing an interesting work here - _none_ and _Charon_, _dogs_ and _frogs_, _ten_ and _men_. There seems to be a strong awareness of their purpose in this section.
-
-Finally, the third line of this passage (13 in the poem): what do we make of this simple transaction, this simple equivalence? Are the arses _more_ than the _frogs_? How is this _croaking_ intensified by the fact of being a _fart_?
-
-The attention to the bodily is already perceivable in the _plague-sores_ leading those _women_ and _men_ to death. That is also an interesting paradox. First of all, this is not an instance of _hyperbole_, or _extra-value_: we have a simple equivalence; our _Ghosts_ are the men and women that are dying every day from the plague. The poem gets closer to their skin and to their sins: it is not simply the _plague_, it is the _sores_ of the plague. The _passive voice_ is also fascinating here: this is something that our travellers experience passively; it is a quality suspendend in the air.
-
-We find a sort of _ideological chasm_ in thsese two lines: __1__ and __4__ are physical (plague-sores, death); __2__ and __3__ are spiritual (sinnes, consciences). Is this the real novelty of this poem? The fact that it is dealing with the boundary between life and death, and not simply with the hereafter? Is it simply a hightened attention devoted to the physical (and, therefore, another example of _realism_)?
-
-This moment is an anticipation of what will happen with __metempsychosis__. It is the introduction of a potentially threatening combination - fusion - between the material and the immaterial realms.
+- Inspect the boundary between __material__ and __immaterial__. Materialism. Materialism is both consummerism and the new science, the science that has gotten rid of religion, the science that can do without religion.
 
 > Then let the former age, with this content her,  
 > Shee brought the _Poets_ forth, but ours th'adventurer.  
 
-The italics seems truly too subtle to be an editorial intervention; Jonson is clearly using it with the explicit purpose of marking the _exotic_ element in his narrative. It will be interesting to see how this trait is applied to objects that are __not__ drawn from a different context (streets of London, cities in the world).
-
-The _former_ age is female.
-
-The contrast is again set between the narrating voices of the past, who could be lying; who probably are lying; and the _adventurers_ of the present (those who hold the __power__ to __act__).
+- Why is he using the _italics_ for the poets?
 
 > __The Voyage It Selfe__
 
-There is something comical about the obviousness of this title, and about the presumptuousness of the "It Selfe."
-
-The comical value of this title lies within its stress upon the concreteness of the experience; the experience has happened, and the poet will only focus on it. No, it is not this. What does "The Voyage It Selfe" mean? Why is it funny? (Because it is funny.) It is separating what is the voyage from what is not the voyage. It is a section, a boundary. It is limiting the perimeter of the actual experience from what was not part of the experience. Therefore, as a poetical mode, having left beyond the errors of the _past age_ and the allure of epic - or the wrong ways of epic, the poet is preparing the reader for a section that will be solely devoted to the actual truth of its content. If any move will be made from now on, it will be a move of persisten rejection. We have left everything that was dangerously foreign to the reality of this story beyond us; we have discarded it, refused it, rejected it. It is not true; it does not fit here. It is inferior and bad. We have gotten rid of it.
+- The title as a boundary. Explanations of its effectiveness have been insufficient so far.
 
 > I sing the brave adventure of two wights,  
 > And pitty 'tis, I cannot call them knights:  
 
-What is the relationship between this impossibility of _naming_ and the rejection of the initial section? Between the _just knights_ of Troy and this immediate attempt to transform these two _wights_ into _knights_? Why should the poet be doing this? He is trying a different mode now - the mode of realism and truth; the mode of urban spaces and history; no fiction nor romance here. But, immediately, we are confronted with this contradiction in his purpose - he should content himself with telling the simple story of these few merry travellers in the poorest neighborhoods of London; instead, he is trying to render them more noble than they are. To assimilate them to the discarded objects that have been thrown away.
+- Still relevant: _The shit that you write is similar to the shit that you hate; the things you keep closest - the things that you produce, that you put together, that you craft - are similar to the things that you have tried to get rid of. You are your own shit._ Here is the fear of Jonson as a writer - the fear of Jonson as a writer being _contaminated_ by the things that he, as a critic, refuses. I believe that we should think more about the very notion of __ecosystem__.
 
-The shit that you write is similar to the shit that you hate; the things you keep closest - the things that you produce, that you put together, that you craft - are similar to the things that you have tried to get rid of. You are your own shit.
+	- Ecosystem is: Jonson's writing; the poem itself; Jonson's mind; London; the Fleet; London's culture; English culture. All of these systems are being contaminated by their own shit. All of these ecosystems are eating their own shit. __Coprophagic fear__ as the heart of the poem.
+
+	- Defining ecosytems at different levels; defining ecosystems as the primary idea at the core of the poem. Perhaps the structure of the whole thing should be revised: perhaps we should start with the __Fleet__ as the corrupt ecosystem described in the poem, then move onto the additional meanings (the poem itself; Jonson's writing; the city; the city's culture). 
 
 > One was; and he, for brawne, and braine, right able  
 > To have beene stiled of King _Arthurs_ table.  
 
-Even worse! Immediately, the language of romance. This is, though, the evocation of an absent referent. This is something that the work can be compared to, that it is evoked by thinking about it, but not something present.
-
 > The other was a squire, of faire degree;  
 > But, in the action, greater man than hee:  
-
-Again, contrast between action and fiction, with action preferred to fiction; although not satisfactorily here, since this consolation - or this simple true, only invests the poet _after_ he has tried to transform one of his heroes into the hero of a different genre, the hero of an impossible romance. Why is he comparing these stories to stories that are famously false, since his perspective is precisely to make the difference clear and accepted. In any case, this preference accorded to the __action__ is enough to reassure us about the location of the poem.
 
 > Who gave, to take at his returne from _Hell_,  
 > His three for one. Now, lordings, listen well.  
 
-Here we have a return to the _economic discourse_ that has been introduced when value was first assessed numerically. "Three for one" is an exchange in value; it is a wager, a transfer; it is the ground on which you base your very _adventure_. Again, Jonson is asking us to buy what he is selling; he is asking us to invest in the _voyage_ in precisely the same way in which his hero did, so that we might be granted ourselves a _three for one_. This investment is paralleled with the line in which we listen - we have become __investors__ and adventurers precisely in the moment when we have started listening to the tale. We have to buy the product, once again.
-
-__Questions to be asked other sources__: how close did BJ live to the Fleet that he is describing (i.e.: how much can he be really considered as part of the _we_ used in the poem)? Could we consider the publication of the _epigrammes_ as a commercial venture of sorts?
-
-We certainly hope so.
+- __Wager__.
 
 >  
 > It was the day, what time the powerfull _Moone_  
 > Makes the poore _Banck-side_ creature wet it' shoone,  
-
-This image is unclear and mysterious; but it is probably useless to address it now.
 
 > In it' owne hall; when these (in worthy scorne  
 > Of those, that put on moneyes, on returne  
@@ -172,15 +111,7 @@ This image is unclear and mysterious; but it is probably useless to address it n
 > A harder tasque, then either his to Bristo',  
 > Or his to _Antwerpe_. Therefore, once more, list ho'.  
 
-Again, the idea of a commercial venture; insistence on its potential _risk_.
-
-__Yes__. This is definitely part of the imagery that originates the poem: the commercial venture - the wager, the investment, the _hazard_ - is that of putting wares on a ship and seeing whether it makes it or not; it may succeed or fail. The ship is also, of course, one of the privileged tropes used to indicate _poetry_, and the exploration of a narrative that at times poetry requires.
-
-Crucial. Investing. Putting your ship at sea - believing that this travel is set to reach different shores, new shores.
-
-What are the qualities of these feats? They are all adventures of sorts; they are not commercial ventures rooted in a rational understanding of seafaring, trade and their risks; they are, simply, blind exhibitions of bravery and mastery.
-
-But then again, the analogy is implicated by the very attentive precisation - "that put on moneyse, on returne." It is right there, it is very clear. This is what this journey is about; a commitment, an investment. A wager. I bet my money on the success of this journey; on the failure of this journey. How will this thing go?
+- __Hazard__. How is it relevant?
 
 >  
 > A _Docke_ there is, that called is _Avernus_,  
@@ -189,52 +120,32 @@ But then again, the analogy is implicated by the very attentive precisation - "t
 > That all this while I have forgot some _god_,  
 > Or _goddesse_ to invoke, to stuffe my verse;  
 
-This is the first return of the epic convention; please notice that the mode has changed; please notice this apparent forgetfulness. Please notice this return back to what had been discarded as useless. The poem cannot do without epic; the poem is navigating on muddy waters - discarding something means encountering it again and again and again. Even this sort of incidental encounter, of fortuitous memory, has a certain liquid quality. I thought that I had left this behind, but I have not: it is still here, it is still haunting me, it is flowing back to me.
-
 > And with both bombard-stile, and phrase, rehearse  
 > The many perills of this _Port_, and how  
 > Sans'helpe of _Sybil_, or a golden bough,  
 > Or magick sacrifice, they past along!  
 > _Alcides_, be thou succouring to my song.  
 
-Please note that the epiteth __Alcides__ might be a specific reference to Heracles' __human mother__. In that case, Jonson would be lying to us, or to himself, or quoting a very dubious version of Heracles' story. Heracles is a __demi-god__, not a god.
-
-This is the dangerous mixture between the material and the immaterial. Shit flowing back at you. Is that shit immateriality? Is that shit, paradoxically, fiction? Paradoxically, the beautiful poetry of the past? Lack of realism? Lies?
-
-What sort of move is implicit here? Why are we stuck in this contradiction? Why is shit this ethereal idea, this untouchable, immaterial abuse of our faith?
-
-"Your head is full of shit!"
-
-My head is shitting, then. Let my head shit freely, then. Let my head be free to shit as much as it wants, then.
-
-And whatever I shit will be back to me; whatever I shit is me.
-
-> Thou hast seene _hell_ (some say) and know'st all nookes there,  
-
-Not only is the poet invoking back one of the characters that he had left behind, that he had confined to the preliminary section - to that proemium that the poem should completely differ from, being nothing more than an exposition of the "Voyage it selfe." The poet is believing one of these stories already - he is buying it, understanding whatever "some say" to be true as completely true; he is incorporating this alleged lie within his own narrative.
+- __Material__ and __immaterial__? Age of __materialism__. Making the gods material.
 
 > Canst tell me best, how every _Furie_ lookes there,  
 > And art a _god_, if _Fame_ thee not abuses,  
 > Alwayes at hand, to aide the merry _Muses_.  
 
-Oh, please - look carefully here! Here is the return of each and every one of the items that we had left behind! And even the same rhyme! It is a reusal of the same structures!
-
 > Great _Club-fist_, though thy backe, and bones be sore,  
 
-Mixing of human and nonhuman attributes; here exemplarily juxtaposed - an epithet of greatness and a disqualifying mention of Hercules' very human pains.
+- We are not doing enough with the idea of __mixture__.
 
 > Still, with thy former labours; yet, once more,  
 > Act a brave worke, call it thy last adventry:  
 > But hold my torch, while I describe the entry  
 > To this dire passage. Say, thou stop thy nose:  
 
-Here we find the contrast between the high labours experienced by Hercules and the relatively easier pain of the _Fleet_. Hidden here is a memory of Hercules as the cleaner of the Augean Stables, of course. But there is a paradoxical inversion from the proemium: the poet is now asserting the minor entity of the work that the hero has to face now. What is happening? Is the poet simply mocking Hercules, ironically reminding him of the supposed triviality of the journey that he is going to describe, while in fact emphasizing its hardness when compared to Hercules' mythical labors? Or is he actually revising his previous statements about the greater quantity and quality of the stuff that is found in the _Fleet_ when compared with the intolerable odours smelled in hell?
-
-Hercules is chosen for two reasons: he is a demigod, and he is the cleaner of the Augean stalls. The _humanity_ of Heracles is debated: although a demigod by birth, later commentators did not hesitate in defining him as an actual god. In any case, the epiteth used by BJ clearly refers to his human side.
+- Still nothing done with Hercules and the Augean Stables. We should, again, be more explicit about our purpose and our ideas.
 
 > 'Tis but light paines: Indeede this _Dock's_ no rose.  
 
-Negation.
+- _Negation._ So what?
 
 >  
 > In the first jawes appear'd that ugly monster,  
@@ -242,23 +153,9 @@ Negation.
 > Belch'd forth an ayre, as hot, as at the muster  
 > Of all your night-tubs, when the carts due cluster,  
 
-Yes. Every feature of this mythical creature has to do with its ability of _descharging_, _releasing_, _discarding_. It is a monster of shit, but it is vomiting shit itself. It is giving shit back to the reader. "Belch'ing forth" - when stirred, the monster emits gas and shit.
-
-- __Muster__ means _to collect_, _to gather_. Same for __cluster__.
-
-__Belch__ is used for both _mouth_ and _rectum_. The fusion between bodily parts (anus and mouth; anus and vagina) seems to be a recurring feature in the poem.
-
-We are interested in the way in which this fusion is accomplished through the awareness of _atomic_ reality; particles that constantly leave my body - dead skin.
+- This is actually __not__ the description of a pure discharge; this is the description of something already being restituted to the reader. It is also the mixture between two physical states: solid and gas (atomic).
 
 > Who shall discharge first his merd-urinous load:  
-
-Again, __discharge__ and __load__. These are evocations of the actual gesture of shitting - but they are paradoxically attributed to the same pile of shit. Shit is producing shit, releasing shit. Opening its mouth and belching and vomiting.
-
-These are terms belonging to the language of _trade_. The idea of econimical transaction is stil present; we have to think of this as we think of a ship being loaded and unloaded. Considering the fact that __the poem itself__ is assimilated to one of these maritime expeditions, the _load_ of shit truly is what BJ has discarded at the beginning of his work. "This is what I want, this is not what I want."
-
-So, trajectory: poetry - commerce - shit. Every element is _discharging_, _releasing_, unloading what is unnecessary and poisonous.
-
-__PURGATION__. Yes! The poet is _purging_ his poetry.
 
 > Thorough her wombe they make their famous road,  
 > Betweene two walls; where, on one side, to scar men,  
@@ -276,14 +173,14 @@ __PURGATION__. Yes! The poet is _purging_ his poetry.
 > They met the second Prodigie, would feare a  
 > Man, that had never heard of a _Chimaera_.  
 
-What the fuck do we do of this phenomenal _enjambement_?!
+- Something should be done about this - the hypothetical man that never heard of a _Chimaera_.
 
 > One said, it was bold _Briareus_, or the beadle,  
 > (Who hath the hundred hands when he doth meedle)  
 > The other thought it _Hydra_, or the trock  
 > Made of the trull, that cut her fathers lock:  
 
-There is apparently a confusion - a mythological blindness here. Is it intentional?
+- There is apparently a confusion - a mythological blindness here. Is it intentional?
 
 > But, comming neere, they found it but a liter,  
 > So huge, it seem'd, they could by no meanes quite her.  
@@ -300,7 +197,7 @@ There is apparently a confusion - a mythological blindness here. Is it intention
 > And all his followers, that had so abus'd him:  
 > And, in so shitten sort, so long had us'd him:  
 
-This is the same notion that we had encountered before: the re-using of culture; culture as an element of consumption. Culture eaten and shat.
+- _This is the same notion that we had encountered before: the re-using of culture; culture as an element of consumption._
 
 > For (where he was the god of eloquence,  
 > And subtlitie of mettalls) they dispense  
@@ -308,7 +205,7 @@ This is the same notion that we had encountered before: the re-using of culture;
 > Suppositories, cataplasmes, and lotions.  
 > But many Moones there shall not wane (quoth hee)  
 
-Notice that there are no italics for either __Moone__ or __god__ here. Why?
+- Notice that there are no italics for either __Moone__ or __god__ here. Why?
 
 > (In the meane time, let 'hem imprison mee)  
 > But I will speake (and know I shall be heard)  
@@ -338,14 +235,12 @@ Notice that there are no italics for either __Moone__ or __god__ here. Why?
 > Whereof old _Democrite_, and _Hill Nicholas_,  
 > One said, the other swore, the world consists.  
 
-The _atoms_ are crucial. The notion of _atoms_ is the notion of a potential economy of physics - a potential economy of physics that allows for an inglobation of the immaterial into the material - farts are spirits; farts have atomic shadows which leave shit behind them. 
+- __Atoms__.
 
 > These be the cause of those thicke frequent mists  
 > Arising in that place, through which, who goes,  
 > Must trie the un-used valour of a nose:  
 > And that ours did. For yet, no nare was tainted,  
-
-Some attention should be payed to the way in which the poet enters his world through the use of the first person plural.
 
 > Nor thumbe, nor finger to the stop acquainted,  
 > But open, and un-armed encounter'd all:  
@@ -386,8 +281,6 @@ Some attention should be payed to the way in which the poet enters his world thr
 > Urine, and plaisters? when the noise doth beate  
 > Upon your eares, of discords so un-sweet?  
 
-Please focus on this __negation__. Negation is a __moment__ in this progression; this negation of _modicum_, of _modus in rebus_.
-
 > And out-cryes of the damned in the _Fleet_?  
 > Cannot the _Plague_-bill keepe you backe? nor bells  
 > Of loud Sepulchres with their hourely knells,  
@@ -409,7 +302,7 @@ Please focus on this __negation__. Negation is a __moment__ in this progression;
 > An ancient pur-blinde fletcher, with a high nose;  
 > They tooke 'hem all to witnesse of their action:  
 
-Please note this completely anti-climatic ending. This absolutely disappointing ending. What a scam! We want our money back! We have been deceived, and - in the end - this whole thing has simply become another lie.
+- __Unsatisfying ending__ (failure of the wager).
 
 > And so went bravely backe, without protraction.  
 >  
@@ -422,14 +315,5 @@ Please note this completely anti-climatic ending. This absolutely disappointing 
 
 ##Ideas so far
 
-Overflowing shit. Atomic shit. Ubiquitous shit. Breaking of economy through economy itself. Atomization of the body; flakes of skin and shit pervading every corner, every nook, every hole. Flakes of dead skin and shit; this incessant flight of death and shit is actually alive. Mold on the skin of the dead cat, roasted and toasted. That very idea of a broken boundary. Flood of shit. The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body. I am constantly desintegrating and becoming something else. Flakes of dead skin - the poem itself is losing its skin in fragments, and becoming the ailment of something else; the poem itself is eating shit and shitting. How, and are we sure? Is the poem really shitting? Yes. But is it really eating shit? Eventually, it does. Eventually, the genre that it had denied is reincorporated again - eventually the dead cat speaks - miraculous! - and metempsychosis is happening in London, right now, on the Fleet. Those are no longer delusional fables, pure fiction, lies. Those stories are being integrated by this very story.
+_The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body._
 
-How does the final section of the poem break the boundary between human and non-human? How does the cat speak in a human voice, how are his grey eyes the grey eyes of a human? Two ideas - physics and sex. Sex through a word - _Pusse_; dead cat bodies impaled and fucked, their skin moldy and toasted. Eating a cat is not much different from fucking it, in the end; it is not much different from being it, in the end; I become the cat, the cat becomes me. __Abjection__. Collective abjection. The _Fleet_ as the space where we throw shit away: dead cats, whores, desperate sick men, and epic. Dead animals, dead values, dead literary genres. Ferocity of the city disposing of what is no longer useful.
-
-The opening is working. The opening is buying it, selling it - the opening is asking us to close our mouth when we listen to fables, but to keep it wide open when we listen to this. The opening asking us to open our mouth to ingest shit. Better still, the opening telling us that the shit that we are opening our mouth for is the _real_ shit; that we will not be dealing with the false shit. __Negation__. This is not _hell_, this is better - this is real; and, in the meanwhile, this shit that is real becomes the shit that is unreal - the myth is reintroduced, the epic is reintroduced, because it is impossible to set them apart, to tell them apart. Fear of shit. Fear of me becoming rotten carcass and shit eaten and fucked by cats. But if the carcass is floating in the river from where I get my food, my water, my sustenance, I will become that very shit - I cannot really keep it distant, keep it separate from me.
-
-Bowels of the Fleet, bowels of London. Boiling and shitting. __Metempsychosis__ is the moment when, through physic and language, the discarded shit that I had tried to do without comes back to me. Ejection; repulsion; abjection; rebuttal - it all flows back, my dear old Fleet, you flow back to me, I have my mouth wide open to drink from your pure waters of oblivion.
-
-Some work to be done with the mythology of the text. With the not completely worldly, not completely otherworldly, rivers of _hell_. Flowing from earth to the _other_ earth; and the notion of _oblivion_, of course. And Hercules - demigod - half human, half divine, his broken back, his stopped nose; remembered through his human name. Cleaning the flood of shit of the Augean stables.
-
-Demigod. His atoms half spirit and half fart. Colorful _Atomi_ ridiculous.
