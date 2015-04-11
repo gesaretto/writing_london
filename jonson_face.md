@@ -1,0 +1,3 @@
+- When the play begins, _Face_ is insisting on the fact that he owns the place - rather, that he _is_ the place; _Subtle_ might temporarily inhabit it, but it will always be an occasional possession.
+- _Face_ is the empty space - the empty rooms of London abandoned because of the plague.
+- _Face_ is also the dressing and re-dressing of the city through language; the disguises and the costumes that allow it to be different things every time.
