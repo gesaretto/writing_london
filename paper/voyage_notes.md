@@ -24,6 +24,24 @@
 
 - - -
 
+##Ideas so far
+
+- _The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body._
+	
+	- This is why __Kristeva__ is still useful.
+
+- The two leading images: __the city as a human body__ and __the city as a book__.
+
+- Conflation of the __material__ and the __immaterial__ in the _confusion_ of the __Thames__.
+
+	- _Confusion_ as the blurring of boundaries that creates abjection (__Kristeva__). Necessary scatology.
+
+	- _Shit being eaten_ is the reason for which the poem eventually becomes profoundly disgusting.
+
+- __A very important question__: why are we not doing anything with the __ending__?
+
+- - -
+
 > NO more let _Greece_ her bolder fables tell  
 > Of _Hercules_, or _Theseus_ going to _hell_,  
 > _Orpheus_, _Ulysses_: or the _Latine Muse_,  
@@ -313,7 +331,6 @@
 
 - - -
 
-##Ideas so far
+##The Epigrams
 
-_The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body._
 

@@ -4,7 +4,13 @@
 
 - __Murray__, Timothy: _Theatrical legitimation: allegories of genius in seventeenth century England and France_; Stacks: __PN2049 .M87 1987__
 
+- Something on __waste__ produced by consumption. Something about the very idea of waste.
+
+- Something on __ecosystem__: an operative definition that could work well.
+
 - - -
+
+##First version (March 2015)
 
 1. Probably _Kristeva_ on __Abjection__ (either her or someone who's successfully summarizing what she says);
 
@@ -44,37 +50,99 @@
 
 	- Jenner, "From Conduit Community to Commercial Network? Water in London 1500-1725"
 
+- - -
+
 #Quotations
 
-- Boehrer
+##Boehrer
+
+- We can use __Boehrer__ to:
+
+	1. criticize the simple denomination of __mock heroic__: the work that Jonson is doing is more subtle, and more ideologically - intellectually? literalily? - sound;
+
+		- _collateral_: in fact, we should question the very implications of __mock heroic__ - how would it work as a genre? What sort of implications or expectations would it activate in a reader?
+
+	2. talk about the problem of __genre__ - it occupies a __liminal__ space;
+
+	3. ask the question - in the end, why is it _simply disgusting_? What animates our feeling of repulsion towards it?
 
 > "The final poem in Ben Jonson's single book of _Epigrammes_ (c. 1612), "On the Famous Voyage" has presented readers with special problems relative to its form, context, and subject-matter. On the formal level, its massive length (at 196 lines, it is over four times as long as the second-largest poem in the collection) and mock-heroic narrative render questionable its presence within a \volume of epigrams. On the contextual level, its placement at the end of the _Epigrammes_ lends it a peculiar prominence which is further reinforced by its general failure to conform to the alternating encomiastic and condemnatory structure of the poems that precede it. And on the level of content, many (perhaps most) readers have found it simply disgusting.(9)
 
-- Bruster
+##Bruster
+
+- We use __Bruster__ to talk about the pervasiveness of __market__ as a _mental_ and _physical_ (or _physiological_) category.
+
+- _Rewrite Edit_: Bruster __should__ be introduced in any case; the paragraph where we discuss the idea of _consumption_ should probably be split in order to fully make sense of his contribution:
+
+	- the _market_ is described as a pervasive __idea__, an __idea__ that starts affecting both an ideological and, in a way, a phisyological construction of human interactions. This is the basis of the __Voyage__: literary form echoes the corrupt echosystems embodied by the living organism of the city; the city as a __body__ and the city as a __book__;
+
+	- crucial - these are the two latent notions concealed beyond the sustained metaphor of __the famous voyage__ - the __city as a book__ and the __city as a human body__; therefore, the corruption of the echosystem caused by the introduction of mass market and consumption, whose practices are mirrored by the activities taking place on the _Fleet River_ (cooking and tanning, the treatment of the dead animals becoming the perfect parallel for the waste and consumption produced in the entire city), are affecting the __body__ and the __soul__ of its inhabitants;
+
+	- __city as a book__: Jonson the writer and editor; Jonson the tanner and the cook; ideologies that are broken, that ought to be discarded, flow back to their initial users and consumers;
+
+	- __city as a body__: the __Fleet__ as the ecosystem where the __anus__ becomes the __mouth__.
 
 > "Like the theater, the market took its first permanent roots during this period: the two "institutions," in fact, share a similar physical chronology." (5) "Like the citizen merchant and his wife, actors apparelled themselves for the business of selling commodities. One of the commonplaces connected with shopowners in the drama, in fact, held that they calculatingly dimmed the light in their shops to set the stage for retailing shoddy goods." (6) "Providing dramatic commodities for public consumption, the Renaissance theater functioned as an instituitonalized, profitable market." (8) "It is my intention in this study to begin the premise that the theater was, _a priori_, a market, that it was, primarily, a place of business - and, as a business, part of a complex of centralizing institutions. This need not imply that the playhouses were without a social vision." (10) "During the course of the century, however, sustained forces began affecting England's ecnomic foundations, ultimately transforming its society [...]. Figuring prominently among such influences were a continually high level of inflation, the extension and intensification of merchant adventurism and other speculative financial activity [...]; the material implications of international trade expansion; the rapid growth of London's population and the subsequent complications of urban pressure; and, perhaps most important, the progressive, structural institutionalization of the market economy." (12) "The period from 1580 to 1620 in particular became the focus of a variety of conflicting social pressures [...]" (13) "The distinctive character of Reinassance culture, in fact, traced its origin in large part to a unique, historically determined confluence of wealth, people, and material, a confluence which afforded England an unheralded period of artistic production." (14) "Yet the myth of dangerous market forces had strong roots in reality. Within the bars of the city as well as in the suburbs, as Breton's lament intimates, the market seemed to gain increasingly powerful sway over the lives of Londoners in the 1590s and early 1600s. The idea of buying and selling, of exchange for profit and socially approved surplus value took on heightened levels of significance in the two decades surrounding the turn of the century. In presenting commercial transaction as a natural, inescapable phenomenon, the market assumed an ever noticeable place in the foreground of urban life." (15) "the process of commodity evaluation comprised a significant measure of the Renaissance market's instrumental dynamics. In such a way the power of the market depended as much on its placelessness as on any permanent or periodic physical status. Indeed the market translated its force conceptually, acting as the annex through which monetary forces expressed - in Renaissance London and outside it - the energy of nascent capitalism. It did not so without complications. To Breton and Shakespeare, as to many of their contemporaries, in allowing money an ostensibly unprecedented, unrestrained latitude in the determination and characterization of urban relations, London's market functioned not only as a site of opportunity for retailing their literary works, but also as a dynamic locus of generous social change." (16)
 
-- Burlison
+##Burlison
+
+- We use him because:
+
+	1. he exposes the way in which Jonson's obsession for editorial control and practices coincides in fact with a general concern for the "market" and money;
+
+		- _collateral_: should we use the expression "__anal__ personality" (only for teh lulz)?
+
+		- _collateral_ (2) - unrelated: what about __Glutton__ and __Covetousness__ being two sides of the same vice?		
 
 > "Furthermore, Jonson's own financial biography, his renowned commercial control over his published texts, the archival information that we possess about the expenditure that was lavished on the masques and entertainments on which he worked, his apparently autobiographical remarks in _Discoveries_ about the mockery that his own poverty had occasioned from certain accusers and enemies [...] - all make it difficult for us to fail to be alert to the financial contexts and concerns of his writings." (281) "What Knights believed Jonson was writing about, and moreover criticizing, was what he described as the 'acquisitive' society of his time: an emergent capitalism, marked by a growing 'money market', increased overseas trade and the rise of 'new men' and the social disruptions that accompanied these changes." (282) the origin of "consumer society" (283) "in other words, the proliferation of references to money in Jonson's plays, and the consequent presence of coins as props on the Jonsonian stage, should alert us of two things. First, they register the unprecedented importance that coins had in the lives of the people who would have attended Jonson's plays. [...] And second, such references remind us that transactions in money might actually have been seen as moments at which trust was required or called unto question [...] also because money itself bespoke (285) a true correspondence between an object and its value." (286)
 
-- Cockayne
+##Cockayne
+
+- We use her to talk about __shit__ becoming __food__; we use her to talk about the corrupt ecosystem of the __Fleet__.
+
+- This should probably be our starting point - to introduce the notion of corrupt ecosystem, which we will later extend to the __city as a body__ and __the city as a book__.
+
+- __Water__. I mean, we don't really talk enough about water - water as a deceptive boundary. Water as a deceptive way of getting rid of stuff - since stuff will __always__, inevitably, flow back to you.
 
 > "Just a few hours separated meat that was stale from that only fit for dogs. Low profit margins in the victualling trades tempted people to make false claims about freshness." (95) "Pork was potentially a more dangerous product than beef; it deteriorated more quickly, and carried a great number of communicable diseases. [...] While rootling in the back alleys and dunghills, pigs picked up contamination from city industries and noisome ditches filled with night soil and street sweepings. Mingling with dogs increased the circulation of disease and intestinal worms. Pork from city pigs needed to be cooked thoroughly to ensure it did not cause illness or worm infestation. Some signs of poor quality were clearly visible." (95) "References to butchers selling unmarketable flesh abound in civic and company records. Vendors of corrupt meats could be fined and their produce confiscated. Dogs and pigs devoured some impounded supplies and the rest was disposed of." (96) "After 1648 the market lookers for flesh and fish were keen to discover carcasses affected by the 'turne'. The turne was a disease affecting sheep and cattle that made the beast 'turne about' while grazing. [...] It was thought that the disease could be transmissible to humans if infected meat was consumed, and therefore sales were banned and fines were relatively high for those found to be marketing meat with the turne." (97) "Rivers received a rich stew from the cities - from domestic and trade sources, particles of earth, soot, sand, turds and rainwater. Silty liquid arrived via street kennels and open ditches. A mall but increasing amount arrived via subterranean sewers. [...]" (199) "More solid particles of refuse were also cast into city rivers. Ordinary household waste could find its way into the waters: a notice was placed in the _Manchester Mercury_ warning people not to throw ashes, rubbish, dust, or dirt into the River Irwell. Most human excrement did not enter the basic sewage system because it was collected in cesspits [...]. Some privies were located above the Fleet." (200) "A strong belief in the harmful effects of bad airs - or miasmas - prevailed throughout the period. It was thought that the corrupt air itself caused and spread diseases when it was breathed in." (212)
 
-- Donaldson2000
+##Donaldson2000
+
+- __Donaldson__, Ian, _Jonson's Poetry_, in _The Cambridge Companion to Ben Jonson_, Cambridge University Press, Cambridge, 2000
+
+- We use him to:
+
+	1. support the idea of the __epigrams__ as a commercial product.
 
 > "Though strongly drawn by the notion of coterie poetry and manuscript circulation, Jonson is even more powerfully attracted by the lure of print. The final destination of the _Epigrams_ is a printed book, an object that - unlike Donne's more vulnerable poetic manuscripts - would seemingly never perish." (123) "Jonson's booksellers were crucial agents in furthering his career as a professional writer. Jonson's strong distaste for the new print medium and for the booksellers's trade is nevertheless evident [...]" (121) "The poem reveals and celebrates a system of authorship, patronage, circulation, and esteem quite different from that promoted by the book trade." (122)
 
-- Donaldson2011
+##Donaldson2011
+
+- __Donaldson__, Ian, _Ben Jonson: A Life_, Oxford University Press, Oxford, 2011
+
+- We use him to:
+
+	1. remind the readers that Jonson had probably travelled on a journey economically very similar to the one attempted by the main characters of _The Famous Voyage_ - a "wager journey";
+
+	2. remind the readers that Jonson had experienced something very similar to the ecosystem of the __Fleet River__ when he was young.
 
 > "Jonson had responded with similar mock-heroic enthusiasm to a small boat journey that was taken along Fleet Ditch - at that time little more than an open sewer issuing into the Thames - by two enterprising travellers named Heydon and Sheldon. In his poem 'The Famous Voyage' Jonson compared these two adventurers with others of recent times" (31) [follows quotation from OtFV] The journeys to Norwich, Bristol, and Antwerp mentioned here are authenticated exploits of the day. It was the actor Will Kemp who danced the 130 miles from London to Norwich in February 1600, and published the account of his footwork, _Kemp's Nine Days' Wonder_, later the same year. (Danced at least some of the way - danced for three days out of the twenty-three that it finally took him to complete the journey, slowed down by bad weather and physical exhaustion.) The wherry journey to Bristol had been undertaken by Richard Ferris and two companions in 1590. [...] Those who 'put moneys on return | Fom Venice, Paris, or some inland passage' were wagering on their chances of successfully completing their journey within a given period of time. This was a popular sport of the day, but not without its hazard. Will Kemp had put out money on his marathon dance to Norwich in the expectation of a threefold return [...]" (32-34) "Jonson too may have wagered on his chances of walking successfully from London to Edinburgh and back." (34) "Hartson (or Christopher) Lane, the family's new place of residence, was a small lane running from the Strand through to the Thames. It was not a salubrious place to live. The 'great sewer' that ran down the centre of the lane was liable to overflow in bad weather, threatening both the health of the inhabitants and the foundations of the adjacent houses. This large open drain brought effluent of all kinds from St. Martin's Lane down into the Thames. Later in life Jonson was to memorialize the sights and (more particularly) smells of another great sewer, Fleet Ditch, in his mock-heroic poem 'On the Famous Voyage'. The poem may well be touched by memories of childhood adventures outside of his house in Hartshorn Lane, were, as at Holborn, the air was often [...]." Follow quotations from OtF "In 'The Famous Voyage' Jonson was to describe the stench that wafted from 'Bears' College' (as he ironically called the place), and from the barge that crossed the Thames daily with rotting meat to feed its learned inhabitants (_Epigrams_, 133.117-18)." (103)
 
-- Duncan-Jones
+##Duncan-Jones
+
+- __Duncan-Jones__, Katherine, _City Limits: Nashe's 'Choise of Valentines' and Jonson's 'Famous Voyage'_, in _The Review of English Studies_, 56-224, April 2005
+
+- How we use her: 
+	
+	1. still unclear. There is a lot that could be brought in for general patchwork, but nothing that exceptionally stands out. (Perhaps only worth just a note at the very beginning?)
+
+	2. a general idea that could be useful - and that seems somehow latently active throughout the entire paper - is that of the poem as never reaching a conclusion, as getting stuck somewhere in-between - it is an anti-climatic poem on the idea of __blockage__; things getting stuck and flowing back to the reader / the eater / the consumer:
+
+		- this is present in the notion of _choked sewer_, the irrational itinerary chosen by the travellers, the disappointing anti-climax of the ending, and the allegorical tone of the final part.
 
 > "Jonson's poem, conversely, uses a drunken boat trip into the choked sewer that was London's Fleet Ditch to parody the journeys to the Underworld undertaken by the heroes of the _Odyssey_ and the _Aeneid_." (247) "Also, even by Jonson's own standards, the poem is discouragingly dense and elliptical." (248-249) The entire article seems to be about the relationship between Nashe and Jonson, and about the way in which Jonson's poem would be somehow inspired by a previous work by Nashe. Not very useful for our purposes. "And while Nashe uses pleasing techniques of fluid dilation, Jonson deploys frustrating strategies of blockage and obstruction." (258) "While Nashe's poem rises to a succession of climaxes, Jonson's promises epic fullness, but delivers bathos and anti-climax. Like Nashe's poem, Jonson's has a preliminary verse: 'On The Famous Voyage,' which is followed by 'The Voyage It Selfe.' These preliminary verses make it clear that the poem belongs to the still rather unusual genre of mock-heroic satire, announcing that the journey chronicled succeeds the 'bolder fables' of the Greeks as well as Virgil's account of Aeneas's journey to the Underworld." (258) "A tenuous analogy worthy of Shakespeare's Fluellen is drawn between the Thames boat hired by the poem's two adventurers and those used by classical epic heroes: 'Their wherry had no saile, too; ours had none.'" (258) On Shelton and Heyden: "Perhaps their obscurity, except among those readers who had drunk regularly with them at the Mermaid tavern, was part of the joke." (259) "Indeed, much about 'The Voyage' is appropriately muddy." (259) "To appreciate the absurdity of this itinerary we need to look at a map of pre-Fire London. Even quite drunk young men could stagger to Holborn from the Mermaid's large site between Bread Street and Friday Street in about twenty minutes." (260) "One of the poem's many crude jokes is its glorification of the courage and endurance of Shelton and Heyden, and its refusal to acknowledge that of the poor pair of scullers, 'horride knaves,' who do the actual rowing." (260) Is this really the case? "Their waterway is the Fleet Ditch. The small Fleet Brook, a tributary of the Thames, had long since ceased to be a pleasant stream. Despite repeated efforts to cleanse it during the previous years or more, it had become a sewer and rubbish dump carrying much of the waste material generated by Londoners." (260) "It gets worse. Though the oarsmen attempt to hold to the middle of the channel they suddenly encounter a monstrous 'liter' (lighter), a huge flat-bottomed barge used for carrying merchandise to and from ships in the Thames. This compels them to row directly beneath the outflow of the privies, where they are greeted by the sound of a monstrous 'crack' like thunder." (261) "The poem becomes increasingly phantasmagoric and allegorical." (261) "In epic terms, the cat corresponds with the hero's father, who rises three times from the infernal waves before giving prophetic utterance [...]." (262) "This penultimate couplet lends support to such critics as McRae who construe the poem as a satire on the civic ceremonial of the City of London." (262)
 
-- Kristeva
+##Kristeva
 
 > "The corpse (or cadaver: _cadere_, to fall), that which has irremediably come a cropper, is cesspool, and death; it upsets even more violently the one who confronts it as fragile and fallacious chance. A would with blood and pus, or the sickly, acrid smell of sweat, of decay, does not _signify_ death. In the presence of signified death - a flat encephalograph, for instance - I would understand, react, or accept. No, as in true theater, without makeup or masks, refuse and corpses _show me_ what I permanently thrust aside in order to live. These body fluids, this defilement, this shit are what life withstands, hardly and with difficulty, on the part of death. There, I am at the border of my condition as a living being. My body extricates itself, as being alive, from that border. Such wastes drop so that I might live, until, from loss to loss, nothing remains in me and my entire body falls beyond the limit - _cadere_, cadaver. If dung signifies the other side of the border, the place where I am not and which permits me to be, the corpse, the most signifying of wastes, is a border that has encroached upon everything. It is no longer I who expel, "I" is expelled. The border has become an object. How can I be without border?" (231) "The abject has only one quality of the object - that of being opposed to _I_. If the object, however, through its opposition, settles me within the fragile texture of a desire for meaning, which, as a matter of fact, makes me ceaselessly and infinitely homologous to it, what is _abject_, on the contrary, the jettisoned object, is radically excluded and draws me towards the place where meaning collapses." (230)
 
