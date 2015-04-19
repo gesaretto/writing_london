@@ -1,3 +1,9 @@
+#No Place for Comedy
+
+Readability is a recurring problem in _A warning for fair women_. How do we  As Tim points out, 
+
+- - -
+
 #Notes for post on "A warning for fair women"
 
 1. The behavior of Anne whatsherface becomes unreadable from section to section; it is, perhaps, the greatest mystery in the play. What is this woman trying to do? Is she ever attracted to Browne? Why does she profess her innocence at the beginning? Why is her final confession of complicity so crucial to the entirety of the play?
