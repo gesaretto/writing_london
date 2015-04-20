@@ -6,7 +6,23 @@
 
 - Something on __waste__ produced by consumption. Something about the very idea of waste.
 
+	- __Douglas__, Mary: _Purity and danger: an analysis of concepts of pollution and taboo_; Barnard: __GN494 .D6 1984__
+
 - Something on __ecosystem__: an operative definition that could work well.
+
+- __Johnson__, Eleanor, _The Poetics of Waste: Medieval English Ecocriticsm_
+
+	- _She uses_:
+		
+		- __Heise__, Ursula K., _Greening English: Recent Introductions to Ecocriticism._: __OL__
+		- __Heise__, Ursula K., _Sense of Place and a Sense of Planet: The Environmental Imagination of the Global_: __OL__
+		- __Stoekl__, Alan, _Bataille's Peak: Energy, Religion, and Postsustainability_
+		- __White__, Lynn, _The Historical Roots of Our Ecological Crisis_: __OL__
+		- __Yaeger__, Patricia, _Editor's Column: Sea Trash, Dark Pools, and the Tragedy of the Commons_
+
+- Something on __epigrams__.
+
+- __Howard__, Jean, _Theater of a City_: Milstein __PN2596.L6 H597 2007__
 
 - - -
 

@@ -26,6 +26,39 @@
 
 ##Ideas so far
 
+- _Ecosystem and waste as_ referring to _a line between what is useful and what is not. Production of waste. Waste as dependent on the separation between what is preserved (what is desired, what is bought,_ purchased? _) and what is discarded._
+	
+	1. Discarding and pollution (contamination?) in the __BODY__;
+	2. Discarding and pollution (contamination?) in the __BOOK__.
+
+- Mixture between the two levels - the physical (bodily) and the spiritual (intellectual).
+
+	- Conclusion as an indictment against (_early modern?_) culture.
+
+	- _Science becoming religion._
+
+- __CXXXIII__ as the __margin__ of the poem; it produces an _expulsion_ from its very beginning.
+
+- The two main concerns of the _epigrams_ as a collection being precisely __the book__ (the literary system or ecosystem) and the __city__.
+
+	- We could add a general reminder about how the _material production_ (_circulation?_) of the book is already __pushing against__ (resisting) the sharp (possibly sharp) dichotomy between the world of ideas and the world of the body.
+
+	- The collection of __Epigrams__ as an ecosystem with the __Voyage__ just at its limits.
+
+- - -
+
+##The Epigrams
+
+- The _epigrams_ as a book of _enigmata_.
+
+- 
+
+- Is there a development in the presentation of some __city types__?
+
+- Is there __epic__ in the epigrams? (Our immediate answer is __no__. We have classical referencese in the _epigrams_, but __no__ epic.)
+
+- - - 
+
 - _The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body._
 	
 	- This is why __Kristeva__ is still useful.
@@ -41,6 +74,30 @@
 - __A very important question__: why are we not doing anything with the __ending__?
 
 - - -
+
+##Structure
+
+- Open by describing the way in which the __ending__ (the _closure_, the _margin_) of the collection actually works as an __opening__.
+
+	- Necessary expansion of this idea.
+
+- The epigrams as a laboratory of urban observations. How do we look at these types? How are they displayed / understood / presented? How do they __interact__? How do they possiblu develop? Where are they found? How do we find them?
+
+	- There is an obvious focus on __appearances__ throughout the collection.
+
+	- The descriptions of the __literary types__ construct a social identity and describe their __appearance__ within a __public sphere__ of _shared exposition_ - mutual exposure and observation. Just like that of the urban and the courtly types described elsewhere.
+
+	- Abstract __literary__ ideas are treated as materially determined commodities.
+
+	- The epigrams seem to place a lot of value in the __act of naming__.
+
+		- People who are criticized are tipified (they bear allegorical, mocking names);
+		
+		- People who are celebrated are __named__.
+
+- - -
+
+##The poem
 
 > NO more let _Greece_ her bolder fables tell  
 > Of _Hercules_, or _Theseus_ going to _hell_,  
@@ -328,9 +385,3 @@
 > The citie since hath rais'd a Pyramide.  
 > And I could wish for their eterniz'd sakes,  
 > My _Muse_ had plough'd with his, that sung _A-jax_.  
-
-- - -
-
-##The Epigrams
-
-
