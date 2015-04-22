@@ -54,7 +54,7 @@
 
 3. something about __foreign trade__ in Early Modern London (for the ships sent abroad and the ways in which people had to wage on them);
 
-4. something about __consummerism__ in Early Modern London (for the quickness with which a new item is bought, and an old item is discharged - trying to describe the terms of this economical transaction will be __crucial__);
+4. something about __consumerism__ in Early Modern London (for the quickness with which a new item is bought, and an old item is discharged - trying to describe the terms of this economical transaction will be __crucial__);
 
 	- Ian Archer, _The Pursuit of Stability_, _Reserves_ __DA680 .A74 1991__
 	- Robert Brenner, _Merchants and Revolution_, _Reserves_ __HF3520 L66 B74 1993__
@@ -151,6 +151,16 @@
 	2. remind the readers that Jonson had experienced something very similar to the ecosystem of the __Fleet River__ when he was young.
 
 > "Jonson had responded with similar mock-heroic enthusiasm to a small boat journey that was taken along Fleet Ditch - at that time little more than an open sewer issuing into the Thames - by two enterprising travellers named Heydon and Sheldon. In his poem 'The Famous Voyage' Jonson compared these two adventurers with others of recent times" (31) [follows quotation from OtFV] The journeys to Norwich, Bristol, and Antwerp mentioned here are authenticated exploits of the day. It was the actor Will Kemp who danced the 130 miles from London to Norwich in February 1600, and published the account of his footwork, _Kemp's Nine Days' Wonder_, later the same year. (Danced at least some of the way - danced for three days out of the twenty-three that it finally took him to complete the journey, slowed down by bad weather and physical exhaustion.) The wherry journey to Bristol had been undertaken by Richard Ferris and two companions in 1590. [...] Those who 'put moneys on return | Fom Venice, Paris, or some inland passage' were wagering on their chances of successfully completing their journey within a given period of time. This was a popular sport of the day, but not without its hazard. Will Kemp had put out money on his marathon dance to Norwich in the expectation of a threefold return [...]" (32-34) "Jonson too may have wagered on his chances of walking successfully from London to Edinburgh and back." (34) "Hartson (or Christopher) Lane, the family's new place of residence, was a small lane running from the Strand through to the Thames. It was not a salubrious place to live. The 'great sewer' that ran down the centre of the lane was liable to overflow in bad weather, threatening both the health of the inhabitants and the foundations of the adjacent houses. This large open drain brought effluent of all kinds from St. Martin's Lane down into the Thames. Later in life Jonson was to memorialize the sights and (more particularly) smells of another great sewer, Fleet Ditch, in his mock-heroic poem 'On the Famous Voyage'. The poem may well be touched by memories of childhood adventures outside of his house in Hartshorn Lane, were, as at Holborn, the air was often [...]." Follow quotations from OtF "In 'The Famous Voyage' Jonson was to describe the stench that wafted from 'Bears' College' (as he ironically called the place), and from the barge that crossed the Thames daily with rotting meat to feed its learned inhabitants (_Epigrams_, 133.117-18)." (103)
+
+##Douglas1966
+
+- __Douglas__, Mary, _Purity and Danger: An Analysis of Concepts of Pollution and Taboo_, Praeger, New York, 1966
+
+- We use her to:
+
+	1. describe the outer boundaries of the body and of the city (the city as a cultural artifact) as overlapping entities;
+
+	2. describe the primal fear of _re-assimilating_ what has been ejected - expelled - discarded.
 
 ##Duncan-Jones
 
