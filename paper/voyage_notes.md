@@ -26,11 +26,39 @@
 
 ##Style
 
-Simply look at how beautifully __EJ__ _lists_ stuff.
+- Start by __killing the baby__.
+
+	- __KILL THE BABY.__
+
+- Simply look at how beautifully __EJ__ _lists_ stuff.
 
 - - -
 
 ##Ideas so far
+
+- The river - ecosystem __1__;
+
+- The poem - ecosystem __2__.
+
+	- The city and the __book__;
+
+	- The city and the __body__.
+
+- __Margin__; the regulation of __waste__.
+
+- __Religion & Science__: the cultural indictment.
+
+	1. Atomi / Democrite v. __Pythagoras__
+
+- - -
+
+- Names acquire a material (an almost material, almost physical) concreteness:
+
+	- think of all the discarded names in the prologue (proemium);
+
+	- think of the double valence of _Mercury_ (God, metal, and name).
+
+- - -
 
 - __The poem__:
 
@@ -67,7 +95,9 @@ Simply look at how beautifully __EJ__ _lists_ stuff.
 
 - The _epigrams_ as a book of _enigmata_.
 
-- 
+- The __epigrams__ as the _opposite_ of __epic__.
+
+	- __Virgil__ and __Horace__ are already juxtaposed in _Poetaster_. Aren't they?
 
 - Is there a development in the presentation of some __city types__?
 
@@ -97,6 +127,33 @@ Simply look at how beautifully __EJ__ _lists_ stuff.
 
 	- Necessary expansion of this idea.
 
+- Sections:
+	
+	1. The city and its river
+	
+		1. The _subject matter_ of __The Famous Voyage__.
+
+			- And, by the way - __FAME__ as the literary problem.
+
+			- Absolutely about fame; absolutely about the book and its reception; absolutely about the literate scholar and its public.
+	
+	2. The poem and its _discharge_
+
+		1. Form. Trying to get rid of the __epic__; the __epic__ flows back to you.
+		
+	3. The body and its soul
+	
+		1. The body of the city as the body itself;
+
+		1. The material and the immaterial. The religious and the scientific.		
+	
+	4. The poet and his book
+
+
+		1. Contrition.
+
+- - -
+
 - The epigrams as a laboratory of urban observations. How do we look at these types? How are they displayed / understood / presented? How do they __interact__? How do they possiblu develop? Where are they found? How do we find them?
 
 	- There is an obvious focus on __appearances__ throughout the collection.
@@ -110,6 +167,67 @@ Simply look at how beautifully __EJ__ _lists_ stuff.
 		- People who are criticized are tipified (they bear allegorical, mocking names);
 		
 		- People who are celebrated are __named__.
+
+- - -
+
+##Poetaster
+
+1. In scene 3 of act 5 __Crispinus__ is seen _vomiting words_.
+
+> __Caesar__. Here be words, Horace, able to bastinado a man's ears.  
+> __Horace__. Ay. Please it great Caesar, I have pills about me,  
+> Mixed with the whitest kind of hellebore,  
+> Would give him a light vomit that should purge  
+> His brain and stomach of those tumultous heats  
+> Might I have leave to minister unto him.  
+> __Caesar__. O be his Aesculapius, gentle Horace;  
+> You shall have leave, and he shall be your patient.  
+> Virgil, use your authority, command him forth.  
+> __Virgil__. Caesar is careful of your health, Crispinus,  
+> And hath himself chose a physician  
+> To minister unto you: take his pills.  
+> __Horace__. [_Giving Crispinus a pill_] They are somewhat bitter,  
+> sir, but very wholesome.  
+> Take yet another, so. Stand by, they'll work anon.  
+> __Tibullus__. Romans, return to your several seats. Lictors, bring forward the urn and set the accused at the bar.  
+> [...]  
+> __Crispinus__. [_Groaning_] O---  
+> __Tibullus__. How now, Crispinus?  
+> __Crispinus__. O, I am sick---  
+> __Horace__. A basin, a basin, quickly; our physic works. [_To Crispinus_] Faint not, man.  
+> [HORACE _holds a basin into which_ CRISPINUS _appears to vomit his words._]  
+> __Crispinus__. O --- _retrograde_ --- _reciprocal_ --- _incubus_.  
+> __Caesar__. What's that Horace?  
+> __Horace__. [_Looking in the basin_] _Retrograde_, _reciprocal_ and _incubus_ are come up.  
+> [...]  
+> __Tibullus__. O Jupiter!  
+> __Gallus__. Who would have thought there should ha' been such a deal of filth in a poet?  
+> [...]  
+> __Horace__. _Barmy froth_, _puffy_, _inflate_, _turgidous_ and _ventositous_ are come up.  
+> __Tibullus__. O terrible windy words!  
+> __Gallus__. A sign of a windy brain.  
+> [...]  
+> __Caesar__. Now all's come up, I trow. What a tumult he had in his belly!  
+> [...]  
+> __Horace.__ Force yourself then a little with your finger.  
+> [CRISPINUS _pushes his finger down his throat._]  
+> __Crispinus__. [_Loudly_] O -- O -- _prorumped_.  
+> __Tibullus__. _Prorumped?_ What a noise it made! As if his spirit would have prorumped with it.  
+> [...]  
+> __Caesar__. _Clutched_? It's well that's come up! It had but a narrow passage.  
+> [...]  
+> __Virgil__. These pills can but restore him for a time,  
+> Not cure him quite of such a malady  
+> Caught by so many surfeits, which have filled  
+> His blood and brain thus full of crudities.  
+> 'Tis necessary therefore he observe  
+> A strict and wholesome diet. [...]  
+
+- The body is seen convulsing, trembling, melting into an ocean of vomit and farts. Crispinus' body is gushing forth the Fleet Street from both its mouth and its rectum (two-way).
+
+- Another canonically disgusting scene in the wonderful BJ.
+
+1. Similarly _classical_ context.
 
 - - -
 
