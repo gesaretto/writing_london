@@ -93,6 +93,8 @@
 
 ##The Epigrams
 
+- They were ready to be issued in __1612__ (11 years after _Poetaster_; the idea is the same, only emphasized in a grotesque manner - not a gush of vomit, but a whole river of shit). 
+
 - The _epigrams_ as a book of _enigmata_.
 
 - The __epigrams__ as the _opposite_ of __epic__.
@@ -222,6 +224,10 @@
 > His blood and brain thus full of crudities.  
 > 'Tis necessary therefore he observe  
 > A strict and wholesome diet. [...]  
+
+- Virgil then proceeds to describe a detailed diet that would __substitute__ the cultural products currently ingested by Crispinus. There is a definite analogy with what is happening in _FV_.
+
+	- The date of composition is __spring or summer 1601__.
 
 - The body is seen convulsing, trembling, melting into an ocean of vomit and farts. Crispinus' body is gushing forth the Fleet Street from both its mouth and its rectum (two-way).
 

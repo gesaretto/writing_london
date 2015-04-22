@@ -58,11 +58,11 @@
 
 	- Ian Archer, _The Pursuit of Stability_, _Reserves_ __DA680 .A74 1991__
 	- Robert Brenner, _Merchants and Revolution_, _Reserves_ __HF3520 L66 B74 1993__
-	- Brouster, _Drama and the Market in the Age of Shakespeare_, _Reserves_ __PR658 E36 B78 1992__
+	- [__X__] Brouster, _Drama and the Market in the Age of Shakespeare_, _Reserves_ __PR658 E36 B78 1992__
 	- Fisher, F.J., _London and the English Economy, 1500-1700_, _Reserves_ __HC 258.L6 F57 1990__
 	- Peter, Clark, _The Cambridge Urban History of London, V. 2_, _Reserves_, __HT133.C25 2000__
 	- Orlin, Lena, _Material London c. 1600_, _Reserves_, __DA 680.M38 2000eb__
-	- Thirsk, Joan, _Economic Policy and Projects_, _Reserves_, __HC260.153 T48__
+	- [--X--] Thirsk, Joan, _Economic Policy and Projects_, _Reserves_, __HC260.153 T48__
 
 5. something about the state of the __Fleet__ - not banal; we might have to ask B. about this.
 
@@ -122,11 +122,13 @@
 
 ##Cockayne
 
-- We use her to talk about __shit__ becoming __food__; we use her to talk about the corrupt ecosystem of the __Fleet__.
+- We use her to:
 
-- This should probably be our starting point - to introduce the notion of corrupt ecosystem, which we will later extend to the __city as a body__ and __the city as a book__.
+	1. talk about __shit__ becoming __food__; we use her to talk about the corrupt ecosystem of the __Fleet__.
 
-- __Water__. I mean, we don't really talk enough about water - water as a deceptive boundary. Water as a deceptive way of getting rid of stuff - since stuff will __always__, inevitably, flow back to you.
+		- This should probably be our starting point - to introduce the notion of corrupt ecosystem, which we will later extend to the __city as a body__ and __the city as a book__.
+
+	2. talk about __water__. I mean, we don't really talk enough about water - water as a deceptive boundary. Water as a deceptive way of getting rid of stuff - since stuff will __always__, inevitably, flow back to you.
 
 > "Just a few hours separated meat that was stale from that only fit for dogs. Low profit margins in the victualling trades tempted people to make false claims about freshness." (95) "Pork was potentially a more dangerous product than beef; it deteriorated more quickly, and carried a great number of communicable diseases. [...] While rootling in the back alleys and dunghills, pigs picked up contamination from city industries and noisome ditches filled with night soil and street sweepings. Mingling with dogs increased the circulation of disease and intestinal worms. Pork from city pigs needed to be cooked thoroughly to ensure it did not cause illness or worm infestation. Some signs of poor quality were clearly visible." (95) "References to butchers selling unmarketable flesh abound in civic and company records. Vendors of corrupt meats could be fined and their produce confiscated. Dogs and pigs devoured some impounded supplies and the rest was disposed of." (96) "After 1648 the market lookers for flesh and fish were keen to discover carcasses affected by the 'turne'. The turne was a disease affecting sheep and cattle that made the beast 'turne about' while grazing. [...] It was thought that the disease could be transmissible to humans if infected meat was consumed, and therefore sales were banned and fines were relatively high for those found to be marketing meat with the turne." (97) "Rivers received a rich stew from the cities - from domestic and trade sources, particles of earth, soot, sand, turds and rainwater. Silty liquid arrived via street kennels and open ditches. A mall but increasing amount arrived via subterranean sewers. [...]" (199) "More solid particles of refuse were also cast into city rivers. Ordinary household waste could find its way into the waters: a notice was placed in the _Manchester Mercury_ warning people not to throw ashes, rubbish, dust, or dirt into the River Irwell. Most human excrement did not enter the basic sewage system because it was collected in cesspits [...]. Some privies were located above the Fleet." (200) "A strong belief in the harmful effects of bad airs - or miasmas - prevailed throughout the period. It was thought that the corrupt air itself caused and spread diseases when it was breathed in." (212)
 
@@ -160,7 +162,25 @@
 
 	1. describe the outer boundaries of the body and of the city (the city as a cultural artifact) as overlapping entities;
 
-	2. describe the primal fear of _re-assimilating_ what has been ejected - expelled - discarded.
+	2. describe the primal fear of _re-assimilating_ what has been ejected - expelled - discarded;
+
+	3. the crucial rule of the determination of an _ecosystem_ (but are we sure about this? Is this a matter of _ecosystem_ v. non-ecosystem? or something else?);
+
+	4. __discarding__ as the principle of:
+
+		1. urban life;
+
+		2. commerce;
+
+		3. literature;
+
+		4. editing;
+
+		5. identity;
+
+		6. culture;
+
+		7. the body.
 
 ##Duncan-Jones
 
@@ -172,19 +192,41 @@
 
 	2. a general idea that could be useful - and that seems somehow latently active throughout the entire paper - is that of the poem as never reaching a conclusion, as getting stuck somewhere in-between - it is an anti-climatic poem on the idea of __blockage__; things getting stuck and flowing back to the reader / the eater / the consumer:
 
-		- this is present in the notion of _choked sewer_, the irrational itinerary chosen by the travellers, the disappointing anti-climax of the ending, and the allegorical tone of the final part.
+		- this is present in the notion of _choked sewer_, the irrational itinerary chosen by the travellers, the disappointing anti-climax of the ending, and the allegorical tone of the final part;
+
+		- also, this is how __Stowe__ describes the river in the _Survey_.
 
 > "Jonson's poem, conversely, uses a drunken boat trip into the choked sewer that was London's Fleet Ditch to parody the journeys to the Underworld undertaken by the heroes of the _Odyssey_ and the _Aeneid_." (247) "Also, even by Jonson's own standards, the poem is discouragingly dense and elliptical." (248-249) The entire article seems to be about the relationship between Nashe and Jonson, and about the way in which Jonson's poem would be somehow inspired by a previous work by Nashe. Not very useful for our purposes. "And while Nashe uses pleasing techniques of fluid dilation, Jonson deploys frustrating strategies of blockage and obstruction." (258) "While Nashe's poem rises to a succession of climaxes, Jonson's promises epic fullness, but delivers bathos and anti-climax. Like Nashe's poem, Jonson's has a preliminary verse: 'On The Famous Voyage,' which is followed by 'The Voyage It Selfe.' These preliminary verses make it clear that the poem belongs to the still rather unusual genre of mock-heroic satire, announcing that the journey chronicled succeeds the 'bolder fables' of the Greeks as well as Virgil's account of Aeneas's journey to the Underworld." (258) "A tenuous analogy worthy of Shakespeare's Fluellen is drawn between the Thames boat hired by the poem's two adventurers and those used by classical epic heroes: 'Their wherry had no saile, too; ours had none.'" (258) On Shelton and Heyden: "Perhaps their obscurity, except among those readers who had drunk regularly with them at the Mermaid tavern, was part of the joke." (259) "Indeed, much about 'The Voyage' is appropriately muddy." (259) "To appreciate the absurdity of this itinerary we need to look at a map of pre-Fire London. Even quite drunk young men could stagger to Holborn from the Mermaid's large site between Bread Street and Friday Street in about twenty minutes." (260) "One of the poem's many crude jokes is its glorification of the courage and endurance of Shelton and Heyden, and its refusal to acknowledge that of the poor pair of scullers, 'horride knaves,' who do the actual rowing." (260) Is this really the case? "Their waterway is the Fleet Ditch. The small Fleet Brook, a tributary of the Thames, had long since ceased to be a pleasant stream. Despite repeated efforts to cleanse it during the previous years or more, it had become a sewer and rubbish dump carrying much of the waste material generated by Londoners." (260) "It gets worse. Though the oarsmen attempt to hold to the middle of the channel they suddenly encounter a monstrous 'liter' (lighter), a huge flat-bottomed barge used for carrying merchandise to and from ships in the Thames. This compels them to row directly beneath the outflow of the privies, where they are greeted by the sound of a monstrous 'crack' like thunder." (261) "The poem becomes increasingly phantasmagoric and allegorical." (261) "In epic terms, the cat corresponds with the hero's father, who rises three times from the infernal waves before giving prophetic utterance [...]." (262) "This penultimate couplet lends support to such critics as McRae who construe the poem as a satire on the civic ceremonial of the City of London." (262)
 
 ##Kristeva
 
+- We use her for:
+
+	- Kristeva is the extreme of Douglas; Kristeva is the very shape of _disgust_ that Douglas introduces: it mixes the idea of a permeable, porous boundary - human boundary, human skin - with the idea of __mortality__;
+
+	- mortality is, of course, not a secondary theme in a poem that describes __hell__;
+
+	- the _afterlife_ is here; the violation of our bodies - of our shit-eating culture - is equivalent to the violation of life itself - death - hell;
+
+	- materiality - dead materiality and living materiality; a rotten carcass of a cat acquiring a voice and a personality.
+
 > "The corpse (or cadaver: _cadere_, to fall), that which has irremediably come a cropper, is cesspool, and death; it upsets even more violently the one who confronts it as fragile and fallacious chance. A would with blood and pus, or the sickly, acrid smell of sweat, of decay, does not _signify_ death. In the presence of signified death - a flat encephalograph, for instance - I would understand, react, or accept. No, as in true theater, without makeup or masks, refuse and corpses _show me_ what I permanently thrust aside in order to live. These body fluids, this defilement, this shit are what life withstands, hardly and with difficulty, on the part of death. There, I am at the border of my condition as a living being. My body extricates itself, as being alive, from that border. Such wastes drop so that I might live, until, from loss to loss, nothing remains in me and my entire body falls beyond the limit - _cadere_, cadaver. If dung signifies the other side of the border, the place where I am not and which permits me to be, the corpse, the most signifying of wastes, is a border that has encroached upon everything. It is no longer I who expel, "I" is expelled. The border has become an object. How can I be without border?" (231) "The abject has only one quality of the object - that of being opposed to _I_. If the object, however, through its opposition, settles me within the fragile texture of a desire for meaning, which, as a matter of fact, makes me ceaselessly and infinitely homologous to it, what is _abject_, on the contrary, the jettisoned object, is radically excluded and draws me towards the place where meaning collapses." (230)
 
-- Manous
+##Manous
+
+- We use him for:
+
+	1. the wager-journey as a metaphor for writing, and _BJ_ himself as a travelman, and the journey as a potentially successful financial transaction (equation between literary activity and the wager journey: heroism of travelling, fake heroism of travelling). 
 
 > "the wager journey had long since established itself as a recognizable component of England's pervasive performance culture" (3) "The first thing to observe is that the central and most common feature of the wager-journey tradition was the practice of "putting out" money "upon return." (8) "Typically, one traveling on a wager gave or "put out" fixed sums of money to those betting _against_ his chances of having a successfully completed journey. If the journey was not completed and verified according to the terms of the wager, the traveler forfeited these sum; but, if the journey was successfully completed and verified (usually via the acquisition of certificates of one kind or another), the traveller was typically owed, upon his return home, a threefold to fivefold increase on the moneys he had put out." (8-9)
 
-- McRae
+##McRae
+
+- We use him for:
+
+	1. general patchwork about the poem;
+
+	2. crucial: the idea that the poem transitions from images of __shitting__ to images of __eating__.
 
 > Good work of summarizing everything that has been said about this poem. ""On the Famous Voyage" emerges within this context as an ironic commentary on, and disruptive intervention in contemporary constructions of space. The poem interweaves strains of satire and saturnalia, as Jonson maps a journey through a grotesque urban body." "The infamously morose insistence on human excrement, I will argue, is enlivened by carnivalesque humour." "Trave, if it is to be endorsed, must therefore be represented in accordance with its controlling ethos." "Instead, given the number of other topical referents in the poem, it seems reasonable to suggest that the voyagers were personally known to the poet [...]." "As Jonathan Gil Harris has demonstrated, however, representations of the flow of water into London were always equivocal, as civic pride was shadowed by associations of fluidity with bodily incontinence." -> __VERY GOOD__ finding here. "As the heroes move upstream through the "dire passage" (l. 59), the poem moves haltingly through images of excretion to images of the preparation and consumption of food. The "passage" thus crudely mirrors the function of the alimentary canal, understood in Renaissance medical theory to be a single channel winding through the body, which received and digested food, and subsequently ejected excrement." "Theorists exercised their minds, as Gail Kern Paster notes, to separate the processes of the canal, but failed to dispel completely the "specter of monstrous appetite, of ingestion and excretion in endless, horrible simultaneity." ""Dock" is a suitably confused pun, suggesting the vagina but also the anus." "After the early imagery of degraded sexuality, the "Famous Voyage" in fact moves insistently towards a concentration on the city's processes of excretion and consumption. In accordance with the materializing strategy of the poem, Jonson roughly equates the "filth, stench, noyse" of the classical underworld (l. 9), with the unsanitary condition of the Fleet."
 
@@ -192,11 +234,25 @@
 
 > "These views rest on two important facts: that the poem is a mock epic and that it depends heavily on topical references for its effect. On the basis of these facts, I wish to argue here for a broader interpretation, that the real object of satire in "The Famous Voyage" is the age itself." (97) "At the same time, the pervasive topicality creates an impression of realism and inclusiveness, making the poem into an image of the times. Throughout, however, the poet has proceeded with great irony. So what he celebrates he actually exposes as preposterous and repugnant, thereby fulfilling the satirical intent: to amuse yet to offer genuine criticism of Jacobean England." (98) "Because the classics of Greece and Rome concern achievements which are no longer meaningful, a modern poet must update the traditional epic and celebrate virtue which is relevant to his contemporaries, Jonson therefore sings the "valour of the nose," a heroic indifference to what is foul and malodorous." (100) "[...] the two heroes represent the decline of literature and science. [...] By including such matters in his satire, Jonson thus calls attention to the moral and intellectual condition of the age." (100) Doubt between "Ralph Shelton" (praised and respected by BJ elsewhere) and "Thomas Shelton" (allegedly despised by BJ) as the referent of line 5. (100-101) For us, irrelevant: BJ is actually including HIMSELF among these heroes - he is a hero, braving this great threat. Same for Heydon (103 ff.). Some time spent on the destination of the voyage, with interesting conclusions. (104-105) "The destination was some tavern near the Holborn bridge, which was the base of operations for "madame Caesar." a noted procuress of the day. She is referred to as "MADAME CAESAR, great PROSERPINA" (l. 180), who presides over "grisly Pluto's hall" - the specific tavern or inn. (104) But since she is away, the "visit" proves fruitless and the heroes return "without protraction," a phrase which further suggests the illicit purpose of their visit to Hell. Summary: "Basing the narrative on the epic voyage and incorporating ancient mythology, Jonson thus establishes a framework of classical reference. "The Famous Voyage" obviously differs radically from traditional versions of the epic; the heroes of Homer and Virgil descend to the underworld to discover personal or national destiny, while Jonson's heroes journey to Hell to visit a brothel. Certainly the author is burlesquing literary pretentiousness, and lampoons Shelton and Heydon in particular. But [...] Jonson extends the criticism to society in general." (105)
 
-- Miles
+##Miles
+
+- We use him (_her?_) to:
+
+	1. same as Riddel - confirm the special place of the _Epigrams_ in Jonson's construction of his poetic identity. We also have a __date__ here;
+
+	2. explain how the book functions as a sort of _self-sufficient_ ecosystem; it has its own boundaries, structure, and rules. The idea of a __self-contained__ volume;
+
+	3. introduce the notion of __discarding__ as the basic operation informing the book (the smaller collection and the larger _folio_); __discarding__ as the definition of a boundary and of an identity.
 
 > "Jonson's contemporaries admired his masques; posterity found his highest achievement in the plays. There is no doubt, however, of Jonson's own order of priorities; by deliberating placing his _Epigrams_ at the head of the Folio, and by dedicating them to the Earl of Pembroke as 'the ripest of my studies', Jonson demonstrated his own conviction that his poems were more important than anything he had written for performance. Jonson was not unaware of the worth and significance of his plays and masques. But his experience of both these forms was fraught with constraints and tensions. [...] Only in his poetry was Jonson writing in a manner and form with which he felt entirely comfortable. And any claim to be among the great poets had to rest, in the final analysis, on poetry." (169) "The _Epigrams_ had originally been gathered together with a view to independent publication; they were licensed for issue in 1612 as a self-contained volume. When circumstances delayed their appearance, and the idea developed of issuing the Folio, they were incorporated in the larger work. The collection of epigrams, 133 short poems in all, each devoted to the examination of one central comment or conceit, is characterized by its integrity and sense of unity; there is an overall structure, albeit of a loose kind, and the pieces are put together in a way that gives the reader the sense of a full experience, with beginning, middle, and end." (170) "With the 1616 Folio Jonson brought his achievement to its peak, and carefully enshrined it in the form that he correctly estimated would outlast any other kind of monument. The lovely book that his printer eventually produced contained nine plays, nineteen masques and two collections of Jonson's poetry. Taken tohether, these form a staggering display of Jonson's range and power." (158) "In accordance with his aim, Jonson's presentation of his work throughout the Folio was rigidly controlled. He deliberately excluded anything he considered not consonant with the high level both of his best work and of the serious pretentions of the volume. Firmly discarded, for instance, were all the early or apprentice works; Jonson comes before his public with _Every Man in his Humour_ as a fully fledged dramatist, not perhaps at the level of mastery he is to attain, but evidently no novice." (159)
 
-- Riddel
+##Riddel
+
+- We use him to:
+
+	1. confirm the idea that Jonson's editorial practices were a substantial part of his devotion to writing; 
+
+	2. to explain how Jonson's _Epigrams_ were treated with peculiar attention.
 
 > "It may fairly be said that Ben Jonson was one of the most self-conscious of poets and also a man not noticeably plagued by self-doubt." (152) "Given, however, the extraordinary care that he must have devoted to the arranging of the parts of the Folio [...]. (153) "The portion of the Folio to which Jonson seems to have paid the closest attention is the poems, _Epigrams_ and _The Forest_. There are a couple of reasons for holding this view, based on physical evidence, the other on conjecture." (153-154) "The second, or conjectural, reason that I believe Jonson paid especially close attention to the printing of his poems in the Folio is his well-known characterization of them, the _Epigrams_ in particular, as "the ripest of my studies"; if there were a section of the volume that he would prefer to have made as nearly perfect as possible it would be this one." (154) "On the other hand, a number of typographical changes must have been introduced for the sake of uniformity itself." (156)
 
@@ -204,10 +260,18 @@
 
 > "Early seventeenth-century England has long been associated with a pervasive disgust. [...] What no one seems to have noticed is that in one sense, at least, the years on either side of 1600 actually invented disgust." (553) Follows a whole discourse on the invention of the word "disgust"; it is a piece about etymology. "Descartes becomes the first philosopher to take disgust seriously, because disgust provides him with the physicalist model of aversion he needs for his associationist psycholohgy. He is accordingly interested in cases of a kind that concern Aquinas little if at all, as when we find something "very foul" in food we are eating "with pleasure" such that we are afterwards unable to think of that food without "_horreur_. [...] For Descartes, aversion is not the opposite of desire. It is a kind of desire." (554) Great! "Such aversion is nothing like the hatred or loathing that impels us to fly evil. What disgusts is precisely what we have once enjoyed, and it disgusts only because it has become too much, not because [555] it is fundamentally alien. The terrain of disgust is thus aesthetics or dietetics, not ethics or religion. It finds its place with "lower" senses like taste and smell, "lower" _techne_ like cooking, perfumery, cosmetics, diet, and purgation." (554-555) "Early modern usage seems to move in the opposite direction: the word's sensory meanings increase in frequency [...]. But at heart early modern usage refuses to draw a line between the most visceral bodily processes and the largest horizons of human action. In disgust, the sensory and the social come into being in intimate mutual relations. This is not a matter of the body politic: the body is itself political, and the experience of disaffection is lodged within it immediately, like the unsettled movements of a queasy stomach." (558) "In the pages that follow I will use _Poetaster_ and Jonson's final epigram, the "Famous Voyage," to show that the social topography of London is a vital context for a history of disgust, but also that the city scene challenges and complicates humanist discourse of taste and distaste. In both texts, Jonson shows how disgust works to produce new social identities. But he also calls attention to its paradoxes: the difficulty of distinguishing between tasteful refusals and poisoned palates; the strange pleasures that can attend even visceral revulsions." (563) "For modern readers the most famously disgusting scene of _Poetaster_ is almost certainly its climax, which stages the poetaster Crispinus's reform as a literal purge of bad language [...]. This purge is a materialized enactment of humanistic education: it is literary criticism at work, a whole humanist socioaesthetics concretized in a single, graphic act." (563) "The Jonson text that most intensely exploits the potential for disgust in city life is his last epigram, the "Famous Voyage." A mock-heroic narrative of a journey up Fleet Ditch from the Thames to Holborn, it is both a description of London's most notorious open sewer and a disgusting travesty of the epic descent to hell." (565) "The "Famous Voyage" traces an emerging social boundary in early modern London; through its parody of high poetic forms, it links that boundary to forms of humanist cultural capital. And by devoting itself to a sustained violation of the rules of taste, it probes the contradiction of any cultural identity founded on modes of distasted refusal." (566) Robinson sees the boundary set in _Famous Voyage_ as eminently __social__: "The poem strongly marks the difference of a "gentle" from a working London." (567) "This violation of the rules of disgust is mirrored by a violation of the rules of genre and decorum, as Jonson dresses up the lowest subject matter in the highest language and turns the epigram - a non-narrative form, he insisted - into the basis of a mock-heroic narrative." (567) "When the poem addresses "us / All, that are the readers," it singles out the basis of humanist identity, linking it to its own parodic mode: parody, after all, depends on knowledge. This literate "we" is implicitly separated from the working world the poem describes, creating a community of disgust that includes Jonson, the voyagers, and the reader, but excludes the cooks, clerks, carters, and prostitutes for whom, presumably, the Ditch is only a given element of daily life, not the material of either epic or mock-epic, and certainly not a place to be explored on a dare." (567) "The poem stakes its claim on our attention on the suggestion that, for those who have internalized the discriminations of an urbane socioaesthetics, there is a kind of pleasure to be derived from violating them." (567) "Despite the efforts of a few critics to discern a satirical agenda in the "Famous Voyage," the poem seems most obviously just to be about the filth it describes. There is nothing like an agenda, nothing like a critique, not really even a message." (568) Final words about BJ: "The kind of ironic performance Jonson offers in the "Famous Voyage," with its invitation to enjoy the experience of disgust, its suggestion that there may always be pleasure in disgust, its suggestion that there may always be pleasure in disgust, makes little sense in the terrain of loathing sketched by Augustine." (569) Impossible to resist this: "And yet in the lines that follow we can see fragments of this broken allegory, as Jonson repeatedly evokes forms of monstruous femininity: he imagines London as a grotesque female body with the Ditch a filthy channel into it, like Error's "hellish sinke" ambiguously mouth, vagina, and anus [...]." "But Jonson equivocates with Martial's distictions by giving us centaurs that are really car-men and gorgon and harpies that are really scolds, conspicuously inappropriate equivalences that display the gap between the language he uses and the world he describes. The result is a product of subtraction, as first allegory, then metaphor, and finally poetic diction are all emptied out. The "Famous Voyage" evacuates poetic meaning, as the verse paragraph that began with the quasi-allegorical monster Mud ends with a simple act of naming: "Kate Arden" [...]." (572)
 
-- Stow
+##Stow
+
+- We use him to:
+	
+	1. describe the condition of the __Fleet__ in early modern London; verbally, to emphasize how the quality of the pollution is analogous to the rhetorical move that grounds _FV_ - "encroachments" and "soilage," and "cloyed and choken." These are qualities of the river and of the final part of the poem.
 
 > "“whereas in times past the course of water, running at London under Oldborne bridge and Fleete bridge into the Thames, had been of such breadth and depth, that ten or twelve ships navies at once, with merchandise, were wont to come to the foresaid bridge of Fleete, and some of them to Oldborne bridge: now the same course, by filth of the tanners and such others, was sore decayed; also by raising of wharfs; but especially, by a diversion of the water made by them of the new Temple, for their mills standing without Baynardes Castle, in the first year of King John, and divers other impediments, so as the said ships could not enter as they were wot, and as they ought” (70-71) “much money being therein spent, the effect failed, so that the brook, by means of continual encroachments upon the banks getting over the water, and casting of soilage into the stream, is now become worse cloyed and choken than ever it was before” (Stow 73).
 
-- Thirsk
+##Thirsk
+
+- We use him to:
+
+	1. do we need to use him at all? In case, just to associate the idea of the __new__ and __authentic__ to the consumerist (__?__) inclination towards new products.
 
 > "A substantial number of projects supplied consumer goods that could never be deemed essential to life. As imports they had been much more severely frowned on officially than hemp, flax, oil, and portable ovens. Even when they began to be produced at home, they were still considered to be frivolous and unnecessary, unfit to occupy the labours of honest Englishmen. However, their manufacture at home halted the drain of bullion, they provided much work, and, because of public demand, they persisted." (78) "The goods which came on to the market in greater quantity than ever before as a result of projects promoted the growth of a consumer society." (106)
