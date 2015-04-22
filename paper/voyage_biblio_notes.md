@@ -4,6 +4,8 @@
 
 - __Murray__, Timothy: _Theatrical legitimation: allegories of genius in seventeenth century England and France_; Stacks: __PN2049 .M87 1987__
 
+- __Jonson__, Ben: _Poetaster_ - Stacks: __PR2617.A2 C35 1995__
+
 - Something on __waste__ produced by consumption. Something about the very idea of waste.
 
 	- __Douglas__, Mary: _Purity and danger: an analysis of concepts of pollution and taboo_; Barnard: __GN494 .D6 1984__
@@ -24,7 +26,9 @@
 		- __White__, Lynn, _The Historical Roots of Our Ecological Crisis_: __OL__
 		- __Yaeger__, Patricia, _Editor's Column: Sea Trash, Dark Pools, and the Tragedy of the Commons_
 
-- Something on __epigrams__.
+- Something on __epigrams__ as a genre.
+
+	- __Genre__ as an ecosystem.
 
 - __Howard__, Jean, _Theater of a City_: Milstein __PN2596.L6 H597 2007__
 
