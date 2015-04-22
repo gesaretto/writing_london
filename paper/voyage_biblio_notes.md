@@ -12,6 +12,10 @@
 
 - __Johnson__, Eleanor, _The Poetics of Waste: Medieval English Ecocriticsm_
 
+	- Among the central ideas of the piece, we have the suggestion of an equivalence between the _waste_ produced by the abuse of land (spoliation, pollution) and the _waste_ produced by sin within the metaphysical land of the soul (theological, spiritual); the __land__ and the __spirit__; the __body__ and the __book__?
+
+		- Keep in mind that the equivalence is imperfect, and by necessity so: a __book__ is not an abstract notion; a __book__ is a physical object, occupying a definite space in the secular world.
+
 	- _She uses_:
 		
 		- __Heise__, Ursula K., _Greening English: Recent Introductions to Ecocriticism._: __OL__

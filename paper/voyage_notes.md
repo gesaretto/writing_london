@@ -24,7 +24,23 @@
 
 - - -
 
+##Style
+
+Simply look at how beautifully __EJ__ _lists_ stuff.
+
+- - -
+
 ##Ideas so far
+
+- __The poem__:
+
+	- creates an ecosystem by isolating items and by defining a boundary - what is protected, what is valued, what is preserved, kept, and purchased - and what is not (the discarded);
+
+	- equates this internal ecosystem with two external ecosystems: the __book__ (and _the city as a book_) and the __body of the city__;
+
+	- describes and denounces the pollution / contamination / confusion that is perceivable across these ecosystems.
+
+- - -
 
 - _Ecosystem and waste as_ referring to _a line between what is useful and what is not. Production of waste. Waste as dependent on the separation between what is preserved (what is desired, what is bought,_ purchased? _) and what is discarded._
 	
