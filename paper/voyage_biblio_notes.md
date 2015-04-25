@@ -78,7 +78,7 @@
 
 #Quotations
 
-##Boehrer
+##Boehrer2002
 
 - We can use __Boehrer__ to:
 
@@ -92,7 +92,7 @@
 
 > "The final poem in Ben Jonson's single book of _Epigrammes_ (c. 1612), "On the Famous Voyage" has presented readers with special problems relative to its form, context, and subject-matter. On the formal level, its massive length (at 196 lines, it is over four times as long as the second-largest poem in the collection) and mock-heroic narrative render questionable its presence within a \volume of epigrams. On the contextual level, its placement at the end of the _Epigrammes_ lends it a peculiar prominence which is further reinforced by its general failure to conform to the alternating encomiastic and condemnatory structure of the poems that precede it. And on the level of content, many (perhaps most) readers have found it simply disgusting.(9)
 
-##Bruster
+##Bruster1992
 
 - We use __Bruster__ to talk about the pervasiveness of __market__ as a _mental_ and _physical_ (or _physiological_) category.
 
@@ -108,7 +108,7 @@
 
 > "Like the theater, the market took its first permanent roots during this period: the two "institutions," in fact, share a similar physical chronology." (5) "Like the citizen merchant and his wife, actors apparelled themselves for the business of selling commodities. One of the commonplaces connected with shopowners in the drama, in fact, held that they calculatingly dimmed the light in their shops to set the stage for retailing shoddy goods." (6) "Providing dramatic commodities for public consumption, the Renaissance theater functioned as an instituitonalized, profitable market." (8) "It is my intention in this study to begin the premise that the theater was, _a priori_, a market, that it was, primarily, a place of business - and, as a business, part of a complex of centralizing institutions. This need not imply that the playhouses were without a social vision." (10) "During the course of the century, however, sustained forces began affecting England's ecnomic foundations, ultimately transforming its society [...]. Figuring prominently among such influences were a continually high level of inflation, the extension and intensification of merchant adventurism and other speculative financial activity [...]; the material implications of international trade expansion; the rapid growth of London's population and the subsequent complications of urban pressure; and, perhaps most important, the progressive, structural institutionalization of the market economy." (12) "The period from 1580 to 1620 in particular became the focus of a variety of conflicting social pressures [...]" (13) "The distinctive character of Reinassance culture, in fact, traced its origin in large part to a unique, historically determined confluence of wealth, people, and material, a confluence which afforded England an unheralded period of artistic production." (14) "Yet the myth of dangerous market forces had strong roots in reality. Within the bars of the city as well as in the suburbs, as Breton's lament intimates, the market seemed to gain increasingly powerful sway over the lives of Londoners in the 1590s and early 1600s. The idea of buying and selling, of exchange for profit and socially approved surplus value took on heightened levels of significance in the two decades surrounding the turn of the century. In presenting commercial transaction as a natural, inescapable phenomenon, the market assumed an ever noticeable place in the foreground of urban life." (15) "the process of commodity evaluation comprised a significant measure of the Renaissance market's instrumental dynamics. In such a way the power of the market depended as much on its placelessness as on any permanent or periodic physical status. Indeed the market translated its force conceptually, acting as the annex through which monetary forces expressed - in Renaissance London and outside it - the energy of nascent capitalism. It did not so without complications. To Breton and Shakespeare, as to many of their contemporaries, in allowing money an ostensibly unprecedented, unrestrained latitude in the determination and characterization of urban relations, London's market functioned not only as a site of opportunity for retailing their literary works, but also as a dynamic locus of generous social change." (16)
 
-##Burlison
+##Burlison2010
 
 - We use him because:
 
@@ -120,7 +120,7 @@
 
 > "Furthermore, Jonson's own financial biography, his renowned commercial control over his published texts, the archival information that we possess about the expenditure that was lavished on the masques and entertainments on which he worked, his apparently autobiographical remarks in _Discoveries_ about the mockery that his own poverty had occasioned from certain accusers and enemies [...] - all make it difficult for us to fail to be alert to the financial contexts and concerns of his writings." (281) "What Knights believed Jonson was writing about, and moreover criticizing, was what he described as the 'acquisitive' society of his time: an emergent capitalism, marked by a growing 'money market', increased overseas trade and the rise of 'new men' and the social disruptions that accompanied these changes." (282) the origin of "consumer society" (283) "in other words, the proliferation of references to money in Jonson's plays, and the consequent presence of coins as props on the Jonsonian stage, should alert us of two things. First, they register the unprecedented importance that coins had in the lives of the people who would have attended Jonson's plays. [...] And second, such references remind us that transactions in money might actually have been seen as moments at which trust was required or called unto question [...] also because money itself bespoke (285) a true correspondence between an object and its value." (286)
 
-##Cockayne
+##Cockayne2007
 
 - We use her to:
 
@@ -192,7 +192,7 @@
 > Four kinds of social pollution seem worth distinguishing. The first is danger pressing on external boundaries; the second, danger from transgressing the internal lines of the system; the third, danger in the margin of the lines. The fourth is danger from internal contradiction, when some of the basic postulates are denied by other basic postulates, so that at certain points the system seems to be at war with itself. In this chapter I show how the symbolism of the body's boundaries is used in this kind of unfunny wit to express danger to community boundaries.  
 > The ritual life of the Coorgs (Srinivas) gives the impression of a people obsessed by the fear of dangerous impurities entering their system. They treat the body as if it were a beleaguered town, every ingress and exit vguarded for spies and traitors. Anything issuing from the body is never to be re-admitted, but strictly avoided. The most dangerous pollution is for anything wich has once emerged gaining re-entry.  
 
-##Duncan-Jones
+##Duncan-Jones2005
 
 - __Duncan-Jones__, Katherine, _City Limits: Nashe's 'Choise of Valentines' and Jonson's 'Famous Voyage'_, in _The Review of English Studies_, 56-224, April 2005
 
@@ -218,11 +218,13 @@
 
 > The term ecosystem was coined in 1935 by the Oxford ecologist Arthur Tansley to encompass the interactions among biotic and abiotic components of the environment at a given site. It was defined in its presently accepted form by Eugene Odum as follows: "Any unit that includes all of the organisms (i.e, the community) in a given area interacting with the physical environment so that a flow of energy leads to clearly defined trophic structure, biotic diversity, and material cycles (i.e. exchange of materials between living and non-living parts) within the system." [...] The boundaries of an ecosystem can be somewhat arbitrary, reflecting the interest of a particular ecologist in studying a certain portion of the landscape. However, such a choice may often represent a recognizable landscape unit such as a woodlot, a wetland, a stream or lake, or - in the most logical case - a watershed within a sealed geological basin, whose exchanges with the atmosphere and outputs via stream flow can be measured quite precisely. Input and outputs imply an open system, which is true of all but the planetary global ecosystem, open to energy flow but effectively closed in terms of materials except in the case of large-scale asteroid impact.
 
-##Kristeva
+##Kristeva2002
 
 - We use her for:
 
 	- Kristeva is the extreme of Douglas; Kristeva is the very shape of _disgust_ that Douglas introduces: it mixes the idea of a permeable, porous boundary - human boundary, human skin - with the idea of __mortality__;
+
+		- the very moment when the boundary disappears;
 
 	- mortality is, of course, not a secondary theme in a poem that describes __hell__;
 
@@ -232,7 +234,7 @@
 
 > "The corpse (or cadaver: _cadere_, to fall), that which has irremediably come a cropper, is cesspool, and death; it upsets even more violently the one who confronts it as fragile and fallacious chance. A would with blood and pus, or the sickly, acrid smell of sweat, of decay, does not _signify_ death. In the presence of signified death - a flat encephalograph, for instance - I would understand, react, or accept. No, as in true theater, without makeup or masks, refuse and corpses _show me_ what I permanently thrust aside in order to live. These body fluids, this defilement, this shit are what life withstands, hardly and with difficulty, on the part of death. There, I am at the border of my condition as a living being. My body extricates itself, as being alive, from that border. Such wastes drop so that I might live, until, from loss to loss, nothing remains in me and my entire body falls beyond the limit - _cadere_, cadaver. If dung signifies the other side of the border, the place where I am not and which permits me to be, the corpse, the most signifying of wastes, is a border that has encroached upon everything. It is no longer I who expel, "I" is expelled. The border has become an object. How can I be without border?" (231) "The abject has only one quality of the object - that of being opposed to _I_. If the object, however, through its opposition, settles me within the fragile texture of a desire for meaning, which, as a matter of fact, makes me ceaselessly and infinitely homologous to it, what is _abject_, on the contrary, the jettisoned object, is radically excluded and draws me towards the place where meaning collapses." (230)
 
-##Manous
+##Manous2009
 
 - We use him for:
 
@@ -240,7 +242,7 @@
 
 > "the wager journey had long since established itself as a recognizable component of England's pervasive performance culture" (3) "The first thing to observe is that the central and most common feature of the wager-journey tradition was the practice of "putting out" money "upon return." (8) "Typically, one traveling on a wager gave or "put out" fixed sums of money to those betting _against_ his chances of having a successfully completed journey. If the journey was not completed and verified according to the terms of the wager, the traveler forfeited these sum; but, if the journey was successfully completed and verified (usually via the acquisition of certificates of one kind or another), the traveller was typically owed, upon his return home, a threefold to fivefold increase on the moneys he had put out." (8-9)
 
-##McRae
+##McRae1998
 
 - We use him for:
 
@@ -250,7 +252,7 @@
 
 > Good work of summarizing everything that has been said about this poem. ""On the Famous Voyage" emerges within this context as an ironic commentary on, and disruptive intervention in contemporary constructions of space. The poem interweaves strains of satire and saturnalia, as Jonson maps a journey through a grotesque urban body." "The infamously morose insistence on human excrement, I will argue, is enlivened by carnivalesque humour." "Trave, if it is to be endorsed, must therefore be represented in accordance with its controlling ethos." "Instead, given the number of other topical referents in the poem, it seems reasonable to suggest that the voyagers were personally known to the poet [...]." "As Jonathan Gil Harris has demonstrated, however, representations of the flow of water into London were always equivocal, as civic pride was shadowed by associations of fluidity with bodily incontinence." -> __VERY GOOD__ finding here. "As the heroes move upstream through the "dire passage" (l. 59), the poem moves haltingly through images of excretion to images of the preparation and consumption of food. The "passage" thus crudely mirrors the function of the alimentary canal, understood in Renaissance medical theory to be a single channel winding through the body, which received and digested food, and subsequently ejected excrement." "Theorists exercised their minds, as Gail Kern Paster notes, to separate the processes of the canal, but failed to dispel completely the "specter of monstrous appetite, of ingestion and excretion in endless, horrible simultaneity." ""Dock" is a suitably confused pun, suggesting the vagina but also the anus." "After the early imagery of degraded sexuality, the "Famous Voyage" in fact moves insistently towards a concentration on the city's processes of excretion and consumption. In accordance with the materializing strategy of the poem, Jonson roughly equates the "filth, stench, noyse" of the classical underworld (l. 9), with the unsanitary condition of the Fleet."
 
-##Medine
+##Medine1975
 
 - We use him because:
 
@@ -262,7 +264,7 @@
 
 > "These views rest on two important facts: that the poem is a mock epic and that it depends heavily on topical references for its effect. On the basis of these facts, I wish to argue here for a broader interpretation, that the real object of satire in "The Famous Voyage" is the age itself." (97) "At the same time, the pervasive topicality creates an impression of realism and inclusiveness, making the poem into an image of the times. Throughout, however, the poet has proceeded with great irony. So what he celebrates he actually exposes as preposterous and repugnant, thereby fulfilling the satirical intent: to amuse yet to offer genuine criticism of Jacobean England." (98) "Because the classics of Greece and Rome concern achievements which are no longer meaningful, a modern poet must update the traditional epic and celebrate virtue which is relevant to his contemporaries, Jonson therefore sings the "valour of the nose," a heroic indifference to what is foul and malodorous." (100) "[...] the two heroes represent the decline of literature and science. [...] By including such matters in his satire, Jonson thus calls attention to the moral and intellectual condition of the age." (100) Doubt between "Ralph Shelton" (praised and respected by BJ elsewhere) and "Thomas Shelton" (allegedly despised by BJ) as the referent of line 5. (100-101) Same for Heydon (103 ff.). Some time spent on the destination of the voyage, with interesting conclusions. (104-105) "The destination was some tavern near the Holborn bridge, which was the base of operations for "madame Caesar." a noted procuress of the day. She is referred to as "MADAME CAESAR, great PROSERPINA" (l. 180), who presides over "grisly Pluto's hall" - the specific tavern or inn. (104) But since she is away, the "visit" proves fruitless and the heroes return "without protraction," a phrase which further suggests the illicit purpose of their visit to Hell. Summary: "Basing the narrative on the epic voyage and incorporating ancient mythology, Jonson thus establishes a framework of classical reference. "The Famous Voyage" obviously differs radically from traditional versions of the epic; the heroes of Homer and Virgil descend to the underworld to discover personal or national destiny, while Jonson's heroes journey to Hell to visit a brothel. Certainly the author is burlesquing literary pretentiousness, and lampoons Shelton and Heydon in particular. But [...] Jonson extends the criticism to society in general." (105)
 
-##Miles
+##Miles1990
 
 - We use him (_her?_) to:
 
@@ -274,7 +276,7 @@
 
 > "Jonson's contemporaries admired his masques; posterity found his highest achievement in the plays. There is no doubt, however, of Jonson's own order of priorities; by deliberating placing his _Epigrams_ at the head of the Folio, and by dedicating them to the Earl of Pembroke as 'the ripest of my studies', Jonson demonstrated his own conviction that his poems were more important than anything he had written for performance. Jonson was not unaware of the worth and significance of his plays and masques. But his experience of both these forms was fraught with constraints and tensions. [...] Only in his poetry was Jonson writing in a manner and form with which he felt entirely comfortable. And any claim to be among the great poets had to rest, in the final analysis, on poetry." (169) "The _Epigrams_ had originally been gathered together with a view to independent publication; they were licensed for issue in 1612 as a self-contained volume. When circumstances delayed their appearance, and the idea developed of issuing the Folio, they were incorporated in the larger work. The collection of epigrams, 133 short poems in all, each devoted to the examination of one central comment or conceit, is characterized by its integrity and sense of unity; there is an overall structure, albeit of a loose kind, and the pieces are put together in a way that gives the reader the sense of a full experience, with beginning, middle, and end." (170) "With the 1616 Folio Jonson brought his achievement to its peak, and carefully enshrined it in the form that he correctly estimated would outlast any other kind of monument. The lovely book that his printer eventually produced contained nine plays, nineteen masques and two collections of Jonson's poetry. Taken tohether, these form a staggering display of Jonson's range and power." (158) "In accordance with his aim, Jonson's presentation of his work throughout the Folio was rigidly controlled. He deliberately excluded anything he considered not consonant with the high level both of his best work and of the serious pretentions of the volume. Firmly discarded, for instance, were all the early or apprentice works; Jonson comes before his public with _Every Man in his Humour_ as a fully fledged dramatist, not perhaps at the level of mastery he is to attain, but evidently no novice." (159)
 
-##Riddel
+##Riddel2000
 
 - We use him to:
 
@@ -284,7 +286,7 @@
 
 > "It may fairly be said that Ben Jonson was one of the most self-conscious of poets and also a man not noticeably plagued by self-doubt." (152) "Given, however, the extraordinary care that he must have devoted to the arranging of the parts of the Folio [...]. (153) "The portion of the Folio to which Jonson seems to have paid the closest attention is the poems, _Epigrams_ and _The Forest_. There are a couple of reasons for holding this view, based on physical evidence, the other on conjecture." (153-154) "The second, or conjectural, reason that I believe Jonson paid especially close attention to the printing of his poems in the Folio is his well-known characterization of them, the _Epigrams_ in particular, as "the ripest of my studies"; if there were a section of the volume that he would prefer to have made as nearly perfect as possible it would be this one." (154) "On the other hand, a number of typographical changes must have been introduced for the sake of uniformity itself." (156)
 
-##Robinson
+##Robinson2014
 
 - We use him for:
 
@@ -304,7 +306,7 @@
 
 > "“whereas in times past the course of water, running at London under Oldborne bridge and Fleete bridge into the Thames, had been of such breadth and depth, that ten or twelve ships navies at once, with merchandise, were wont to come to the foresaid bridge of Fleete, and some of them to Oldborne bridge: now the same course, by filth of the tanners and such others, was sore decayed; also by raising of wharfs; but especially, by a diversion of the water made by them of the new Temple, for their mills standing without Baynardes Castle, in the first year of King John, and divers other impediments, so as the said ships could not enter as they were wot, and as they ought” (70-71) “much money being therein spent, the effect failed, so that the brook, by means of continual encroachments upon the banks getting over the water, and casting of soilage into the stream, is now become worse cloyed and choken than ever it was before” (Stow 73).
 
-##Thirsk
+##Thirsk1978
 
 - We use him to:
 

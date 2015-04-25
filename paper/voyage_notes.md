@@ -291,6 +291,8 @@
 
 - The title as a boundary. Explanations of its effectiveness have been insufficient so far.
 
+	- We will of course focus on the idea of boundary elsewhere.
+
 > I sing the brave adventure of two wights,  
 > And pitty 'tis, I cannot call them knights:  
 
