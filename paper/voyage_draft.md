@@ -152,6 +152,14 @@ In the "confusion" of this passage, like in the corrupt ecosystem of the Fleet, 
 
 ##3. The age
 
+1. I would now like to focus on the second part of the poem, and on the way in which Ben Jonson specifically introduces two distinct figures that participate in defining not only an ecological indictment about the negative consequences of commercial thriving, but also a cultural indictment about the consequences of the commodification of culture, of which Jonson was becoming responsible right at the moment when he decided to collect his _Epigrammes_ with the purpose of publication. The two references that I would like to consider, therefore, are the one to __Mercurius__ in the section of the poem devoted to the collective purge of the inhabitants of the area, and that to Democrite and to Pythagoras in the final section of the poem. 
+
+2. At the core of both these moments we find an analogous slippage: the one that seems, in the end, to justify the way in which abstract matter - the erudite references to the epic matter of Virgil and Homer - are turned into concrete waste that responds to the physical rules of expulsion and pollution. The idea is simple: metonymy creates a sort of vibrant weight, of oscillating weight, for which some of these referents can possess a definite value, bounded in time and space, and some others do not. _Mercury_ is perhaps the most evident example: when he is first mentioned, in the poem, we think that he is a divinity, another inconsistent invocation to a dead god disappeared with the supposed advancement of history and culture. But this is not the case - Ben Jonson is not exclusively referring to the deity, a name as inconsistent as the rest of the fictional characters that inhabit this poetical space; he is in fact referring to the homonymous metal, the _mercury_ whom _Paracelsus_ transformed into the appropriate element that ought to be used for the treatment of constipation. Mercurius is both; time has turned the name into a different item, into a commodity that can be ingested and expelled, and at the same time into its own memory. At the basis of Jonson's complaint about Mercury's debasement, then, is a problematic treatment of metonymy and personification: Mercury is both the god and the metal that can be used to treat constipation.
+
+3. Metonymy and personification here stand for two different viewpoints; for two different Zeitgeisten - the religious viewpoint that associated Mercury with the divine messenger and protector of pharmacy, and that which instead sees in the name only an element useful to produce pills which, again, force to body to expell its impurities. 
+
+4. Similarly, in the final part of the poem, religious and scientific ideas mix again in order to create a confusing effect.
+
 ###Religion and science
 
 - Mercury - the name and the thing
