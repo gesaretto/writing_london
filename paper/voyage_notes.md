@@ -20,7 +20,57 @@
 
 	- think about how to make second section work:
 
-		- _religion_ and _science_.
+		- _religion_ and _science_. 
+
+- - -
+
+##Reading of April 26th
+
+1. From epigram to epic; the change in genre of the first few lines is a transition into a _narrative_ domain; the characters that we have encountered in the book (e.g., _Shelton_) will be the characters of an epic adventure.
+
+	1. The tone is probably _suspended_ between the encomiastic (celebratory) and the mockery.
+
+2. Not irrelevant: the name __Fleet__ does not appear immediately; it is, in fact, quite hard to understand what the poet is referring to at the beginning. There is a sort of poetical ambiguity about those lines.
+
+	1. Although, as we want to say, the real protagonist _is_ the Fleet Ditch: it is the __one__ element whose pollution surpasses every antique analog (see first few lines). It is referred to, but not _named_, in the first few lines.
+
+3. The exchange generates __confusion__ (between the material and the immaterial; between the input and the output; between the preserved and the discarded). Confusion is the word that Jonson uses here to define, in fact, _pollution_: the inextricable mixture of _filth, stench, noyse_.
+
+	1. Commerce generates confusion.
+
+4. From denial to substitution - from __no__ to __in stead__ (we introduce substitution only in the third part of our paper).
+
+5. What is Ben Jonson's actual position in the play? __Our impression is that__ he differentiates himself from the _Poets_ of the past, and instead equates his work to the feats of the contemporary wager travellers (journeymen).
+
+6. The first exact topographical definition is on line __41__; follow the poet's forgetfulness and the invocation to the muses.
+
+	1. Why is the Fleet connected to the forgetfulness of the poet and to the invocation to the Muses? We know the reason: because this is the _flowing back_ of epic.
+
+7. Looking at the actual invocation, which we use to define the recursive motion of waste, flowing back to the person who had discarded it, we are also struck by a general sense of _fixity_. This is, in any case, a __repetition__ of the opening; an improvement on the opening, perhaps - but still working in quite the same way.
+
+	- So, remember to use more than just the _flowing back_ of referents in the part devoted to the _poem_ - talk about encroachments and blockages - soilage.
+
+8. We use _Alcides_ (or we _can_ use _Alcides_) in the introductory part of section 3 (the city; science and religion); it is an instance of actual _confusion_ between material (human) and immaterial (divine).
+
+9. We use the following section to talk about the reversed body which McRae describes so well (the wombe, the unloading). This is the _lower end_ of this grotesque body: at the same time sphincter and sex.
+
+10. We do not do much with the section that immediately follows (67-92); although it could probably be used to describe the critical pollution of the ditch (filth, disease, misery). The author noticeably starts by describing consequences, not causes, of this degradation: the butthole of the waterway is its impoverished, rotten condition; the mouth is the association of commercial enterprises that cause the same degradation.
+
+11. Mercury is at line 93 and following; we still feel like a close-reading of this might be useful; in any case, the attention is on materiality (the pills) as opposed to religion, culture and spirituality (eloquence? divinity?). Note how Mercurius has some direct speech from line 103 to line 111 - and he mentions _himself_ in his own speech; after that a new section begins.
+
+12. Religion in fact explictly enters the imaginary landscape of the poem before the _Atomi_ and _Pythagoras_, when the people shitting in the privies are described as worshippers (121-124).
+
+13. Then we have the ghosts, and the _Atomi_ ridiculous. Again, there is a lot to be done here. Some old fashioned close-reading will help. For the moment, note the progression from __ghosts__ to __farts__; they are then _compared_ to the _Atomi_ ridiculous of old _Democrite_ and _Hill Nicholas_. Again, this passage deserves some careful meditation.
+
+	1. The farts-ghosts-atomi then become "thick frequent mists," and part of the environment (or ecosystem) of the Fleet).
+
+14. Between the end of this section and the following one (~136-154) we have a section that is crucial for the discourse about the _ecosystem_: it is the moment when the cooks are described as they prepare the food that will be eaten in the Fleet; and this follows the nasal penetration of atoms into the bodies of the travellers - the travellers are absorbing shit through their nostrils in the same way as the people who live on the banks ingest shit in their food. The _materialism_ of this section allows us to place it in the first section (the river - or the ditch).
+
+15. Also, we have a description of what the work of butchers, tanners and cooks looks like (we use it at the beginning, to talk about the corrupt cycle of the ditch; and at the end, to talk about Ben Jonson's profession and editorial practices).
+
+16. Follows the section on _Pythagoras_ (155). This is, in a way, an inversion of what was happening with _Mercurius_: there we had a progression from the _immaterial_ (religious) to the _material_ (medicinal); here we have one from science (atoms) to religion (metempsychosis). There is another direct speech - and we question the actual provenience of the previous speech: was the ejected _Mercurius_ speaking?
+
+17. The ending - not much to say: it is simply unsatisfactory and vague - contributing to the general feeling of _occlusion_.
 
 - - -
 
@@ -150,7 +200,6 @@
 		1. The material and the immaterial. The religious and the scientific.		
 	
 	4. The poet and his book
-
 
 		1. Contrition.
 
