@@ -2,6 +2,8 @@
 
 ##Revision (April 2015)
 
+- Perhaps something about the understanding of hygiene in Early Modern England? How aware were they of the propagation of disease through unhealthy habits of living, disposal of waste, and alimentation?
+
 - __Murray__, Timothy: _Theatrical legitimation: allegories of genius in seventeenth century England and France_; Stacks: __PN2049 .M87 1987__
 
 - __Jonson__, Ben: _Poetaster_ - Stacks: __PR2617.A2 C35 1995__
