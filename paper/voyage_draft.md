@@ -26,13 +26,15 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 ###Introductory moves
 
-1. The poem is about the Fleet Ditch; the Fleet Ditch is _explicitly_ introduced only quite late in the poem. 
+1. The Fleet Ditch is the true protagonist of _The Famous Voyage_. Although the first true toponym, _Bridwell Dock_, or the mouth of the Ditch, appears quite late in the poem, around line 42, a pronominal reference to the Fleet is made immediately after the mention of the two actors of the adventure, _Shelton_ and _Heyden_, in line 5: after having stated the superiority of his characters to that of the heroes of antiquity, the poet wishes to confirm the superiority of the setting: "one" river in london, the Fleet Ditch, is superior to all that is boasted of "_Styx_, of _Acheron_, _Cocytus_, _Phlegeton_". The Fleet is the third character in the triade of protagonists who can surpass the canon of antiquity; but maybe even more than that. It is arguably the setting that allows for the magnitude of the adventure: the horrible condition of the Fleet, a hell on earth, is what allows for the very adventure to happen (to have this value).
+
+2. But what are the reasons that justify this treatment of the ditch? Why was Jonson able to choose a specific site in London, and what was the experience that contributed to this choice? We know for a fact that the area surrounding the Fleet, after the mid nineteenth century only a subterranean canal in Fleet Street, was a notorious issue in Early Modern London: an urban and sanitary concern, at a time when the understanding of the propagation of disease and pollution was still developing; we do not know how aware Ben Jonson might have been about the problem of germs thriving in filth, __but we will soon__ [^fn-cockayne]. Contemporary discussions about the condition of the Ditch in the early 1600s in fact often quote from _The Famous Voyage_ as if it were a historical source comparable to any other; and indeed Ben Jonson seems especially conscious of the issues that a bystander - or a dweller - might have encountered every day on the banks of the waterway. Unsurprisingly, we have a confirmation of the fact that Jonson had experienced a very similar environment as he was growing up, when his family was living in Christopher Lane: an open sewer, similar to the one described by the poem and witnessed by Londoners every day on the Fleet, ran right at the center of the lane, contributing to unforgettable memories of unusual visual and olfactory sensations which Ben Jonson would have later used in the production of his last epigram [@Donaldson2011 103].
+
+3. Like the sewer running in the middle of Christopher Lane, the Fleet Ditch was a site of waste disposal: it was the visible outpit for the garbage and discarded matter produced by an entire community; it was the core and the margin of a specific ecosystem - an ecosystem which was corrupt precisely because of its broken boundaries.
+
+[^fn-cockayne]: @Cockayne2007 talks about the perception of "bad miasmas" (212).
 
 > This rhetorical gesture is consonant with the setting of the adventure, the river Fleet through which the two comrades are cruising. Already "become worse cloyed and choken than ever it was before" at the time when John Stow was writing his _Survey_, "by means of continual encroachments upon the banks getting over the water, and casting of soilage into the stream", [@Stow, 73], the river notoriously received the largest share of the "rich stew" deriving "from domestic and trade sources, particles of earth, soot, sands, turds and rainwater," together with "the oily discharge from tanneries and the noxious and toxic waste products of the dyers' trade" [@Cockayne2007, 199-200]. The Fleet had the exclusive privilege of collecting the waste issued by a number of privies located just above it; but Jonson had probably experienced similar "sights and (more particularly) smells" during "childhood adventures outside of his house in Hartshorn Lane" [@Donaldson2011, 103]. The tangible scatology of this landscape is therefore consistent with the poetical idea that informs the epigram.
-
-- The Fleet is the true protagonist of _Famous Voyage_.
-
-- Ben Jonson lived in a similar setting when he was young.
 
 ###The actual ecosystem
 
@@ -42,29 +44,19 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 3. The Fleet Ditch is both a powerful site of production of waste - a concrete boundary delimiting what is kept and what has to be discarded from the city - and a crucial metaphor for a number of different activities. On its banks, in fact, we would find a number of workshops and houses whose production of waste was crucial in providing the river with its distinctive texture and sensorial qualities. Tanners, soap-makers, butchers, and cooks: each one of these professions, inevitably referred to by Ben Jonson, was characterized by the use of animal products or animal carcasses, which had to be processed and refined. Basically, each one of these activities resulted in the definition of a product to be sold, bought, and consumed, and of some raw material to be discarded. The production of waste was therefore immediately associated with the requirements of the market economy thriving on the banks of the course; it was an intrinsic part of this society, and a vital metaphor for its working at large.
 
-4. The raw matter discarded by the production of these products would find a natural site of disposal in the river itself - or in the Ditch itself. As Jonson describes, people would simply through out the unused matter in the stream, expecting the water to carry it away. The waterway was considered as the principal output way of the entire ecosystem; it was the destination of any matter that did not deserve to actively participate in the economy of the neighborhood, and that instead had to be thrown away with the rest. Waste derived from workshops and shops wasn't the only matter that, on the river, was thrown away in this way; it wasn't, besides, the most prominent one. As we know, the Fleet had the special privilege among the rest of the city's waterways of hosting a number of privies on its banks: the human waste produced there ended in the waterway itself. 
+4. The raw matter discarded by the production of these products would find a natural site of disposal in the river itself - or in the Ditch itself. As Jonson describes, people would simply through out the unused matter in the stream, expecting the water to carry it away. The waterway was considered as the principal output way of the entire ecosystem; it was the destination of any matter that did not deserve to actively participate in the economy of the neighborhood, and that instead had to be thrown away with the rest. Waste derived from workshops and shops wasn't the only matter that, on the river, was thrown away in this way; it wasn't, besides, the most prominent one. As we know, the Fleet had the special privilege among the rest of the city's waterways of hosting a number of privies on its banks: the human waste produced there ended in the waterway itself.
 
 - - -
 
-Mary Douglas theorization of pollution might be useful here. In her book _Purity and Danger_, the author connects the idea of waste to the production of those margins that are essential to society: boundaries are defined by the expulsion of discarded matter. 
+1. The fact that the Fleet Ditch had become the destination of both commercial garbage and human waste (faecal matter) is at the core of one major intuition within the text, one that Ben Jonson uses profusely to describe the ways and the reasons for which the specific ecosystem of the Fleet could be considered corrupt and broken. This intuition is consonant with one of the major assumptions found in _Purity and danger_, and with a privileged metaphor for the functioning of urban spaces and specific neighborhoods that is often found in the literary works of the time: the idea of the city as a body, and the idea of the expulsion of discarded matter as the process which sanctions the existence of boundaries; the process which enables the existence of boundaries. As McRae points out in his insightful analysis of border making in the poem, the Fleet becomes a metonymy for the digestive trait of the entire city, defined by its processes of ingestion and expulsion.
 
-This image is a mirror of the human body; but the human body is also a privileged metaphor for any sort of bounded society.
- 
-###Metaphorical ecosystems 
+2. Grounded on the ideas of waste as the rational way of defining the boundaries of a society, or of an enclosed ecosystem , two images seem in fact to sustain the poetical substance of _The Famous Voyage_: the city as a human body and the city as a book (or, more broadly, as a textual product). As we will see in the rest of this paper, Ben Jonson describes the corruption of both systems to convey the critical state of corruption in which was found the Fleet, to later expand his critique to the cultural and literary landscape of his age in general. 
 
-- The book and the body. Question: is this the right space for introducing this idea?)
+	- Possible references to relevant literature describing the city as a body.
 
-- Answer:
+- - -
 
-	- Yes. Here is how you do it: 1) boundaries and ecosystems; waste defines a society and an ecosystem; 2) privileged metaphors to explore these boundaries and this economy are 1) the body; 2) the book. We will first talk about the body.
-
-	- Possible references to relevan literature describing the city as a body.
-
-The ecosystem of the Fleet is an integral part of the urban ecosystem of London. And London is often compared to two similes in the literature of the time: the body and the book. Similarly, the _Famous Voyage_ is both a reflection on the city as a body and on the city as a readable book.
-
-###A corrupt ecosystem
-
-- We use evidence _from the text_ to describe how the ecosystem of the Fleet is inherently corrupt and unsustainable; we use the metaphor of the city as a body, and we do not refer to the problem of epic yet.
+1. We use evidence _from the text_ to describe how the ecosystem of the Fleet is inherently corrupt and unsustainable; we use the metaphor of the city as a body, and we do not refer to the problem of epic yet.
 
 The first half of the text is consequently devoted to the thematization of this literary and urban purge. As McRae has convincingly demonstrated, the leading motive in the description of the ditch is its assimilation to "the alimentary canal, understood in Renaissance medical theory to be a single channel winding through the body, which received and digested food, and subsequently ejected food." One of the most suggestive inventions of the poem, then, is that for which we follow the travelers along an unorthodox trajectory, moving "haltingly through images of excretion to images of the preparation and consumption of food" [@McRae1998]. Because of this inversion, the first threat encountered by the adventurers exemplarily embodies the collective waste matter of London. 
 
@@ -91,21 +83,50 @@ The four rivers of Hades converge into a single earthly waterway, constituting a
 
 - - -
 
+1. _The Famous Voyage_ is a revolting poem for many reasons; yet, we think that the corruption of its ecosystem, described in the mixture between output and input, between discarded and preserved, between ingested and expelled, is perhaps the most disgusting idea at the core of the poem. This is the moment when the threatening inversion described by Douglas, a cultural taboo in many of the culture which she analyzes, becomes equivalent to an even more destabilizing threat - one that pushes the self back into the pre-symbolic order in which boundaries are not only threatened, but cease to exist - the abjection described by Kristeva in _The Powers of Horror_. This transition is the most disturbing feature of _Famous Voyage_, and, as we will see the disappearance of boundaries is at the core of the final transition operated by the poet, from the material to the immaterial - and back.
+
+	- The dissolution of boundaries is the dissolution of the self and its linguistic categories; these linguistic categories are again upturned in the final section of the poem.
+
+	- The end of this section should transition from the violation of boundaries expressed in Douglas to the pure abjection theorized by Kristeva. This discovery is perhaps the most revolting idea contained in the poem; it is the perverse absorption of waste through air and - more strikingly - food.
+
+- - -
+
 ##2. The poem (the purge)
 
-- The city as a book; the book as a corrupt ecosystem.
+1. The second privileged metaphor used to describe London in the literary works of the time, and the second metaphor that Ben Jonson uses to describe the Fleet and the culture and society which produced its corruption, is that of the city as a book. There are two ways in which this idea seems to be suggested in the text: one is extratextual, linked to the editorial practices usually attributed to Ben Jonson, and the second is textual, linked to the specific literary operation that Ben Jonson performs in his work.
 
-- The form of the poem mirrors its theme.
+	- The city as a book; the book as a corrupt ecosystem.
 
-###Boundaries and exclusion: position in the Epigrammes and editorial practices
+	- The form of the poem mirrors its theme.
 
-- The epigrammes within the folio, and the Voyage within the epigrams. What is the meaning of these choices? How do they define margins? How do they mirror practices of discarding and delimiting boundaries?
+- - -
 
-- The job of Ben Jonson as that of a tanner / butcher / soap maker.
+###The Epigrammes and editorial practices
+
+1. The Epigrams occupy the - - -
+
+	- The epigrammes within the folio, and the Voyage within the epigrams. What is the meaning of these choices? How do they define margins? How do they mirror practices of discarding and delimiting boundaries?
+
+	- The job of Ben Jonson as that of a tanner / butcher / soap maker.
+
+- - -
 
 ###The purge: false occupatio and denial
 
-- Analysis of the opening of _Poetaster_.
+1. In the final section of his early comedy _Poetaster_, written around the Summer of 1601 - approximately ten years before the completion of the _Epigrams_ - the character referred to in the title, _Crispinus_, undergoes a peculiar literary treatment, performed by the ingenious medicinal powers of the quintessential satyrist, Horace. In the presence of Caesar, Virgil and Tibullus, the bad poet is given some special pills, "somewhat bitter [...], but very wholesome." As soon as these medicaments have effect on the patient, Crispinus starts groaning.
+  
+> __Crispinus__. [_Groaning_] O---  
+> __Tibullus__. How now, Crispinus?  
+> __Crispinus__. O, I am sick---  
+> __Horace__. A basin, a basin, quickly; our physic works. [_To Crispinus_] Faint not, man.  
+> [HORACE _holds a basin into which_ CRISPINUS _appears to vomit his words._]  
+> __Crispinus__. O --- _retrograde_ --- _reciprocal_ --- _incubus_.  
+> __Caesar__. What's that Horace?  
+> __Horace__. [_Looking in the basin_] _Retrograde_, _reciprocal_ and _incubus_ are come up.  
+
+	- Analysis of the opening of _Poetaster_.
+
+	- Make it good - do some _actual_ close reading here (and of the following passages).
 
 [__Poetaster: we need to look at it.__] We could indeed compare the treatment of epic referents in the epigram's _proemium_, entitled _On the Famous Voyage_, to the "literal purge of bad language" which in _Poetaster_ embodied "a materialized enactment of humanistic education" and "literary criticism" [@Robinson2014, 563]. [<--- Stop doing this.] In a similar fashion, the poet begins his epigram by listing all that his narrative will _not_ include.
 
@@ -165,6 +186,8 @@ In the "confusion" of this passage, like in the corrupt ecosystem of the Fleet, 
 - Signposting (recap) and question: we have a certain awareness of what Ben Jonson has done so far: he has described three corrupt ecosystems - the river, the poem, and the culture of the city - and he has connected their corruption to the developing market practices foudnd within them. In a concentrical move, the three disgraces are connected: the ditch, the poem, and the cultural context of the city. But what are the financial practices that ground this decay? What are the criteria that lead the market to these mistakes?
 
 - Perhaps we should explain how the poem is the privileged space for the exposition of these criteria: Ben Jonson is in fact completing a financial transaction in front of the reader - for the reader, as the reference to the practice of "wager journeys" implies.
+
+- - -
 
 After the purge and exchange of the _proemium_, the opening lines of the _The Voyage It Selfe_ indeed reiterate the correlation between the transactions that inform the poem and those that grant its marketability. Through a number of specific references to "authenticated exploits of the day" [most of them successfully identified by @Donaldson2011, pp. 32-34], the voyage is compared to those "wager journeys" that "had long since established [_themselves_] as a recognizable component of England's pervasive performance culture" [@Manous2009, 3] : expeditions to "_Venice_, _Paris_, [...] _Berwicke_" or "_Norwich_" (33-36). In these circumstances, wagerers would actually "put on moneyes" _against_ the chances of the traveler. As Manous explains, "If the journey was not completed and verified according to the terms of the wager, the traveler forfeited this sum; but if the journey was successfully completed and verified [...], the traveler was typically owed [...] a threefold to fivefold increase" [@Manous2009, 8-9]. Similarly, the poet seems to be prompting his readers, here asked twice to "listen well" (28, 40), to invest the "three for one" (28) of their attention on this literary journey, which will be completed according to the terms declared at the beginning - namely the exclusion of the false beliefs of classical literature in favor of an original and authenticated adventure.
 
