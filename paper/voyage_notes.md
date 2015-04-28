@@ -5,10 +5,6 @@
 - __Goals__:
 
 	- get rid of the useess quotations - references - ideas: __simplify__;
-	- engage more explicitly - carefully with your secondary sources:
-
-		- pick __one__ book or article to be used for the problems of _trade_ and _consumption_;
-		- read it - __summarize__ it - understand how to put it in discourse with what you are trying to say;
 
 	- work on the weak points of the first section:
 		
@@ -16,11 +12,7 @@
 		1. the _scolds_ and the _furies_: no need to talk about "process of commodity evaluation";
 		1. think about the grounds on which the transaction is enacted: "new" and "true" are deceptive [problematic?] categories;
 		1. "exchanging" loads is not the same as "discharging" loads (more should be done with the __vocabulary__ there;
-		1. __feminine rhyme__ with Hercules and the rest;
-
-	- think about how to make second section work:
-
-		- _religion_ and _science_. 
+		1. __feminine rhyme__ with Hercules and the rest.
 
 - - -
 
@@ -74,21 +66,7 @@
 
 - - -
 
-##Style
-
-- Start by __killing the baby__.
-
-	- __KILL THE BABY.__
-
-- Simply look at how beautifully __EJ__ _lists_ stuff.
-
-- - -
-
 ##Ideas so far
-
-- The river - ecosystem __1__;
-
-- The poem - ecosystem __2__.
 
 	- The city and the __book__;
 
