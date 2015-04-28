@@ -95,9 +95,9 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 	- More important consequences:
 
-			- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial (religion?); shit from food.
+		- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial (religion?); shit from food.
 		
-			- We should truly emphasize the role of coprophagy in this entire discourse. Is coprophagy a taboo? How is coprophagy related to language? How is the horror of coprophagy resonant with both the terror of pollution and impurity (Douglas) and the terror of the abjection (Kristeva)?  
+		- We should truly emphasize the role of coprophagy in this entire discourse. Is coprophagy a taboo? How is coprophagy related to language? How is the horror of coprophagy resonant with both the terror of pollution and impurity (Douglas) and the terror of the abjection (Kristeva)?  
 
 - - -
 
