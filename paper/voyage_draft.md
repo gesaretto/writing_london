@@ -93,6 +93,12 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 	- The end of this section should transition from the violation of boundaries expressed in Douglas to the pure abjection theorized by Kristeva. This discovery is perhaps the most revolting idea contained in the poem; it is the perverse absorption of waste through air and - more strikingly - food.
 
+	- More important consequences:
+
+			- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial (religion?); shit from food.
+		
+			- We should truly emphasize the role of coprophagy in this entire discourse. Is coprophagy a taboo? How is coprophagy related to language? How is the horror of coprophagy resonant with both the terror of pollution and impurity (Douglas) and the terror of the abjection (Kristeva)?  
+
 - - -
 
 ##2. The poem (the purge)
@@ -133,6 +139,10 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 	- Analysis of the opening of _Poetaster_.
 
 	- Make it good - do some _actual_ close reading here (and of the following passages).
+
+- An important problem:
+
+	- _italics_; at the basis of this scene is the fact that linguistic matter (notions, words, vocabulary; culture) can be treated as any sort of matter. The contradiction is not fully developed here, since this might probably be considered as a simple expansion of the trope of _alimentary education_, but it becomes crucial in _Famous Voyage_.
 
 - - -
 
@@ -197,6 +207,12 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 		- atomic shit.
 
+	- And these ideas:
+
+		- Democrite as the father of materialism; Pythagoras as the father of a metaphisical and esoterical tradition;
+		
+		- Materialism and spiritualism are at the core of this discourse (but the vagueness of this transition can be associated with the fall from the symbolic registered in Kristeva).
+
 	- This section will be the true original content of this new version; therefore, we have to make sure that it is fully developed properly.
 
 - - -
@@ -206,6 +222,12 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 1. Up to this point, then, Ben Jonson has linked three different ecosystems, real and metaphoric, in order to describe their related corruption: the Fleet Ditch, the poem, and the culture of the city. In each one of these ecosystems we have individuated a corruption based on the infiltration of waste into the regular cycle of production and consumption of food and commodities. As the distinction between discarded and preserved matter is threatened, the boundary that holds society and community and the environment together seems to dissolve, leading to an ideological confusion between material and immaterial, which we have associated with both the return of religion within a materialistic and scientific culture, and as a potential return into the realm of the pre-symbolic through the notion of _abjection_. But, we might ask, what are the specific conditions that lead to this point? What forces the cycle which sustains the ecosystem to its stress - to an intolerable stress? Our answer is commerce.
 
 2. The activity of soap-makers, butchers and tanners is what causes the false discarding of raw matter into the river; as they are thrown into the stream, these materials encounter the blockage and the encroachments and the soilage of the flow, and are forced to return to the producer, or to soil the products and the consumers. Corruption seems to be an inherent part of the commercial cycle in the ecosystem of the Thames. But the same could be said about the other examples provided by Ben Jonson: Mercury is reduced to faecal matter and gas because it has been treated in order to be sold and consumed; it has become a commodity. The same could be said about the spirits floating around the bank and possessing the dead carcasses of the animals which have been flayed and treated for food; these are products, like the pies, that are specifically devised to be consumed by somebody different from the cooks. Commerce allows for the disgusting coprophagic food chain; for the reduction of Mercury to debased metal; for the notion of metempsychosis becoming the simple propagation of miasmas from one life form to the other. Broadly speaking, Ben Jonson seems to impute the decayed state of the ecosystems which he describes to the proliferation and thriving of commercial enterprises. By producing byproducts of animal origin, which are then ingested and consumed and absorbed by human and nonhuman animals alike, these activities cause the confusion and corruption of the ecosystems in which they are inserted; they actually produce it. In fact, we might even say that commercial enterprises in the world of the _Famous Voyage_ are both the cause of corrupt food chains, and the propagators of these very food chains - the actors, the makers of these very food chains. But this critique of commerce does not limit itself to the subject matter of the poem; it can, in fact, be extended to the poem itself and to the formal qualities which we have encountered so far.
+
+	- The opening of the poem is __negation__ (false _occupatio_); by the end of it we have instead the return of the discarded (_pollution_, _contamination_, and so on); this is all allowed by the exchanges activated by commercial exchange; commercial exchange is the condition that renders the boundaries porous; commercial exchange works on the condition that the boundaries on which it operates are porous.
+
+	- Epic _was_ the old stuff; now it is not any more. Religion _was_ the old stuff; now it is not any more; _epic_ and _religion_ used to be authentic (true beliefs); now they are equally associated to superstition.
+
+	- In the end, then, as soon as a product - a cultural product - enters the market, we can no longer be certain of its durability as something worthy of praise.
 
 3. We could in fact claim that the same _Famous Voyage_ is, in itself, a commercial transaction happening in front of our eyes.
 
@@ -223,6 +245,12 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 	
 	- Think better about this transition. This is not the right way to proceed: you should explain that the poem is actually described a commercial transition _because_ Ben Jonson is using criteria that he has elsewhere associated with consumeristic ideology; and not vice versa. Use different works to explain why this one is about _buying_ and _selling_. Not the opposite.
 
+	- The market __needs boundaries__: the authentic and the counterfeit; the old and the new. These boundaries distinguish what is preserved from what has to be discarded.
+
+		- The market __needs boundaries__; but the market is also capable of __destroying__ them; of replacing them.
+
+	- Boundaries are not a problem; the market is not a problem; the problem is the submission of cardinal boundaries to the erratic principles of the market; the problem is that, when I make the boundaries available for negotiation, evaluation, and _fashion_, I lose track of the very essence of the culture in which I live (the very cultural structure; the very cultural scaffolding).
+
 2. In his 1599 play _Every Man out of his Humour_, the character of Fastidious Brisk ---
 
 3. In his _Entertainment at Britain's Burse_, written in 1609, commodities are distributing according to ---
@@ -237,11 +265,13 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 > The literary dispute between old fables and new adventures is thus transformed into a commercial exchange, based on quantity and measurable worth. This monetization must have resonated with Ben Jonson's constant concerns about the "unprecedented importance [_of_] coins," and about the problematic "correspondence between an object and its [monetary] value" [@Burlison2010, 285] - especially at the time of completing his collection of epigrams. Before its definitive publication in the _Works_ of 1616, the series was "licensed for issue in 1612 as a self-contained volume" [@Miles1990, 170], a project which was never concretized. Nevertheless, the expectation of a published product must have been troubling for Jonson, who was probably still wavering between his affection for "the notion of coterie poetry and manuscript circulation" and the inevitable "lure of print" [@Donaldson2000, 123]. His poems, which he considered "more important than anything he had written for performance" [@Miles1990, 169], would leave the privileged space of literary circles to become another of the many "consumer goods that could never be deemed essential for life" [@Thirsk1978, 78]. The negotiations that give shape to the microorganism of _The Famous Voyage_ mirror the major financial concerns surrounding the public circulation of his works and his identity.
 
-	- Do not forget:
+- Do not forget:
 
-		- _here we need Bruster_: we need to work on him, to expand our understanding of him and so on;
+	- _here we need Bruster_: we need to work on him, to expand our understanding of him and so on;
 
-		- the __famous__ voyage - why this adjective? It would be useful to emphasize how, in the end, the poem is a reflection on a literary practice.
+		- Bruster talks about "the process of commodity evaluation" - the process of commodity evaluation has become crucial for your work;
+
+	- the __famous__ voyage - why this adjective? It would be useful to emphasize how, in the end, the poem is a reflection on a literary practice.
 
 - - -
 
@@ -249,13 +279,17 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 ###Contrition and confession
 
-1. Ben Jonson decides to publish the epigrams. Epigram CXXXIII is his adieu - he is letting the epigrams go, he is allowing them to flow freely into the commercial ecosystem of the city. But this, he knows it well, will cause problems.
+1. Ben Jonson decides to publish the epigrams. Epigram CXXXIII is his envoi - he is letting the epigrams go, he is allowing them to flow freely into the commercial ecosystem of the city. But this, he knows it well, will cause problems.
 	
 	- Conclusion: Ben Jonson is responsible for the decay of his cultural ecosystem, because he published - or because he wanted to publish - his epigrams, transforming his ideas into a book that has to be sold.
+
+	- An act of repentance: an apology (_apologia_) for entering this arena; since entering it means debasing your own work - participating in the same sort of perverse ecosystem that your poem describes.
 
 		- Could this conclusion still be stupid?
 
 			- It will be if you don't properly link it to every single premise; the fact that he is associating this move - his decision to publish the poems - with the commodification of culture; the fact that the commodification of culture is responsible for the broken exchange that is at the basis of the _Famous Voyage_; the fact that this commodification of culture produces the violation of boundaries that corrupts the entire social and intellectual ecosystem.
+
+	- The problem is, simply, that the book has to become an object; that the book is nothing but an object. Turning the material into the immaterial is equivalent to turning shit into food.
 
 - - -
 
