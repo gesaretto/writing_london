@@ -8,21 +8,21 @@
 
 		1. The Fleet;
 	
-		2. "In order to grasp the ideological magnitude of Jonson's treatment of the Fleet, I will briefly discuss some of the feature of an ecosystem."
+		2. Ecosystem;
 
-			- The notion of ecosystem should instead revolve around the idea of __output__: what is my output? Where does it go?
+		3. Corrupt cycle in the poem
+	
+			1. __Waste is shit__
 
-			- The crucial feature is the __dynamic__, the relationship, or the __interaction__ between the _cycle_ and the _boundary_; the relationship between _cycle_ and _boundary_ depends on what I do with __waste__. Is it expelled - is it _truly_ expelled? Or does it become part of the system again?
+			2. __the body of the city__
 
-			- The definition of _ecosystem_ depends on the interaction between __cycle__ and __boundary__.
+				- Yes, I probably need to spend some time on the body of the city, on the city as a human body. Because that was my way of talking about the extraordinary idea that is at the core of _FV_: coprophagy. Coprophagy is how I end this section.
 
-				- Better, the definition of _ecosystem_ depends on the _porousness_ or _impenetrability_ of the boundaries of an ecosystem, based on the central problem: what do I do with waste?
+			3. McRae: open with the ass, finish with the mouth
 
-		3. "What do I do with waste? Where does waste go?" Is the final question in the "ecosystem" paragraph.
+			4. We eat shit.
 
-		4. "Waste is preserved in the __F. V.__.
-
-		5. _Follows_: section on the corrupt cycle of the poem. In the ecosystem of _the famous voyage_, people end up eating their own shit.
+				- So, in short, not hard: __body of the city__; __inversion__ in McRae__; __coprophagy__.
 
 	2. __Section II__: the poem (or the text?)
 
