@@ -1,5 +1,63 @@
 #Notes on the _Famous Voyage_
 
+##Work schedule for April 30th
+
+- __Structure__:
+
+	1. __Section I__: the river (or the city?) 
+
+		1. The Fleet;
+	
+		2. "In order to grasp the ideological magnitude of Jonson's treatment of the Fleet, I will briefly discuss some of the feature of an ecosystem."
+
+			- The notion of ecosystem should instead revolve around the idea of __output__: what is my output? Where does it go?
+
+			- The crucial feature is the __dynamic__, the relationship, or the __interaction__ between the _cycle_ and the _boundary_; the relationship between _cycle_ and _boundary_ depends on what I do with __waste__. Is it expelled - is it _truly_ expelled? Or does it become part of the system again?
+
+			- The definition of _ecosystem_ depends on the interaction between __cycle__ and __boundary__.
+
+				- Better, the definition of _ecosystem_ depends on the _porousness_ or _impenetrability_ of the boundaries of an ecosystem, based on the central problem: what do I do with waste?
+
+		3. "What do I do with waste? Where does waste go?" Is the final question in the "ecosystem" paragraph.
+
+		4. "Waste is preserved in the __F. V.__.
+
+		5. _Follows_: section on the corrupt cycle of the poem. In the ecosystem of _the famous voyage_, people end up eating their own shit.
+
+	2. __Section II__: the poem (or the text?)
+
+		6. The horror of coprophagy (coprophagia) as a violation of pollution; Mary Douglas from _pollution_ to _impurity_.
+
+			- I introduce Douglas only at the end of this section, to turn __pollution__ (ecological, physical, environmental) into __impurity__ (religious, theological, social). _The Famous Voyage_ also works on the ambiguity between environmental impurity and mental impurity. This is a simple, but powerful concept. Impurity of the place where you live is impurity of the mind that you use. 
+
+		7. [__Very delicate move.__] From Mary Douglas to Kristeva: from impurity, to the dissolution of boundaries, to _abjection_, to the fall from the symbolic order into __the Real__. This has to be subtle - just enough to introduce the dissolution of language.
+
+		8. __Poetaster__ and the ambivalence of this lost boundary: language is an object.
+
+		9. The __purge__ of _Famous Voyage_.
+
+	10. __Section III__: the age
+
+		10. __Some sort of conclusion__ for the previous section. Perhaps this would instead be the right time to introduce _Kristeva_?
+
+		11. Cultural waste: getting rid of _religion_ and _epic_; the _epic_ of the previous section becomes the _religion_ of this section.
+
+		12. The _discard_ (ejection, expulsion...) is based on two ideas:
+
+			1. the fusion between language and matter;
+
+			2.  the corrupt ecosystem that ends up by assimilating its own waste.
+
+		13. Close readings:
+
+			1. Mercury and the pills;
+
+			2. The atoms and metempsychosis.
+
+		14. The cause for this degradation is the market.
+
+		15. __Conclusion__: Ben Jonson just feels guilty.
+
 ##Revision (April 2015)
 
 - __Goals__:
@@ -66,28 +124,6 @@
 
 - - -
 
-##Ideas so far
-
-	- The city and the __book__;
-
-	- The city and the __body__.
-
-- __Margin__; the regulation of __waste__.
-
-- __Religion & Science__: the cultural indictment.
-
-	1. Atomi / Democrite v. __Pythagoras__
-
-- - -
-
-- Names acquire a material (an almost material, almost physical) concreteness:
-
-	- think of all the discarded names in the prologue (proemium);
-
-	- think of the double valence of _Mercury_ (God, metal, and name).
-
-- - -
-
 - __The poem__:
 
 	- creates an ecosystem by isolating items and by defining a boundary - what is protected, what is valued, what is preserved, kept, and purchased - and what is not (the discarded);
@@ -133,54 +169,6 @@
 
 - Is there __epic__ in the epigrams? (Our immediate answer is __no__. We have classical referencese in the _epigrams_, but __no__ epic.)
 
-- - - 
-
-- _The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body._
-	
-	- This is why __Kristeva__ is still useful.
-
-- The two leading images: __the city as a human body__ and __the city as a book__.
-
-- Conflation of the __material__ and the __immaterial__ in the _confusion_ of the __Thames__.
-
-	- _Confusion_ as the blurring of boundaries that creates abjection (__Kristeva__). Necessary scatology.
-
-	- _Shit being eaten_ is the reason for which the poem eventually becomes profoundly disgusting.
-
-- __A very important question__: why are we not doing anything with the __ending__?
-
-- - -
-
-##Structure
-
-- Open by describing the way in which the __ending__ (the _closure_, the _margin_) of the collection actually works as an __opening__.
-
-	- Necessary expansion of this idea.
-
-- Sections:
-	
-	1. The city and its river
-	
-		1. The _subject matter_ of __The Famous Voyage__.
-
-			- And, by the way - __FAME__ as the literary problem.
-
-			- Absolutely about fame; absolutely about the book and its reception; absolutely about the literate scholar and its public.
-	
-	2. The poem and its _discharge_
-
-		1. Form. Trying to get rid of the __epic__; the __epic__ flows back to you.
-		
-	3. The body and its soul
-	
-		1. The body of the city as the body itself;
-
-		1. The material and the immaterial. The religious and the scientific.		
-	
-	4. The poet and his book
-
-		1. Contrition.
-
 - - -
 
 - The epigrams as a laboratory of urban observations. How do we look at these types? How are they displayed / understood / presented? How do they __interact__? How do they possiblu develop? Where are they found? How do we find them?
@@ -196,6 +184,22 @@
 		- People who are criticized are tipified (they bear allegorical, mocking names);
 		
 		- People who are celebrated are __named__.
+
+- - - 
+
+- _The most threatening idea of the poem is the idea of losing the boundary, of missing the boundary, of being no longer able of telling the difference between the dead flakes of skin that are leaving my body, and my very body._
+	
+	- This is why __Kristeva__ is still useful.
+
+- The two leading images: __the city as a human body__ and __the city as a book__.
+
+- Conflation of the __material__ and the __immaterial__ in the _confusion_ of the __Thames__.
+
+	- _Confusion_ as the blurring of boundaries that creates abjection (__Kristeva__). Necessary scatology.
+
+	- _Shit being eaten_ is the reason for which the poem eventually becomes profoundly disgusting.
+
+- __A very important question__: why are we not doing anything with the __ending__?
 
 - - -
 
