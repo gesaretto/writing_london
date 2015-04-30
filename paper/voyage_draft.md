@@ -50,25 +50,23 @@ Narrative, in fact, requires a specific time and a specific space. The time is n
 
 - - -
 
-1. Although apparently anachronistic, the notion of "ecosystem" seems productive to better understand the complexity of Jonson's treatment of the Fleet. Introduced in the 1930s, today the term is used to designate
+1. Although apparently anachronistic, the notion of "ecosystem" seems pertinent to understand the complexity of Jonson's treatment of the Fleet. Introduced in the 1930s, today the term is used to designate
 
 > Any unit that includes all of the organisms (i.e., the community) in a given area interacting with the physical environment so that a flow of energy leads to clearly defined trophic structure, biotic diversity, and material cycles (i.e. exchange of materials between living and non-living parts) within the system. [@Gorham2011]
 
-This definition relies on two interdependent ideas which, in _The Famous Voyage_, are consistently examined and problematized in relationship to the mismanagement of waste: "cycle" and "boundary." The interaction between these two concepts - the material, biological, and alimentary self-sufficiency of a _cycle_ and the relative porousness of the _boundaries_ enclosing it - informs an ecosystem. Like the Fleet and its surroundings, most of the ecosystems quoted in the rest of this definition revolve around a specific water supply, like "a wetland, a stream or lake, or - in the most logical case - a watershed within a sealed geological basin" [@Gorham2011]. The relative isolation that characterizes this last example is crucial for our purpose: the quintessential ecosystem, "the most logical case," is the one where the difference between the physical inputs and outputs entering or leaving the _cycle_ is minimized by a set of _boundaries_ that are almost impenetrable; in other words, one where matter is seldom truly discarded, and instead constantly reused. This is the case of waste in _The Famous Voyage_.
+This definition relies on two interdependent ideas which, in _The Famous Voyage_, are consistently examined and questioned in relationship to the mismanagement of waste: "cycle" and "boundary." The interaction between these two concepts - the material, biological, and alimentary self-sufficiency of a _cycle_ and the relative porousness of the _boundaries_ enclosing it - informs an ecosystem. Like the Fleet and its surroundings, most of the ecosystems quoted in the rest of this definition revolve around a specific water supply, like "a wetland, a stream or lake, or - in the most logical case - a watershed within a sealed geological basin" [@Gorham2011]. The relative isolation that characterizes this last example is crucial for our purpose: the quintessential ecosystem, "the most logical case," is the one where the difference between the physical inputs and outputs entering or leaving the _cycle_ is minimized by a set of _boundaries_ that are almost impenetrable; in other words, one where matter is seldom truly discarded, and instead constantly reused. This is the case of waste in _The Famous Voyage_.
 
 - - -
 
-1. Two equivalences at the basis of this section: _waste is shit_ and _the city is the body_.
+1. Jonson's poetical meditation on waste as the core of the degraded ecosystem of the Fleet implicitly alludes to two recurrent similitudes commonly used by Early Modern writers to address the developing complexity of urban spaces, and of London in particular: that of the city as a human body, and that of the city as a book. We will for now focus on the first analogy, whose history was suggestively traced by Lawrence Manley as a specifically feminine trajectory, leading from a maternal or desirable body, to an unfamiliar and monstruous one [@Manley1995]. The site which serves as the background of _The Famous Voyage_ relates, predictably, to the second category: Benedict Robinson, for instance, explains how the poem turns London into a "grotesque female body with the Ditch a filthy channel into it, [...] ambiguously mouth, vagina, and anus" [@Robinson2014, 569]. Leaving gender aside, this grotesque metamorphosis becomes even more relevant to the ditch and its waste if we consider that the portion of the brook explored by Jonson's adventurers had the special privilege - apparently unique at the time - of hosting several privies on its banks: here human ejections would therefore be intentionally conveyed into the waters of the stream, to become part of its bounded material cycle. This waste is shit, both in a figurative and in a literal sense: if the metonymy transforms the city into a human body, then the Fleet inevitably becomes its excretory system.
 
-	- Trace the history of the second one.
+1. Indeed, Andrew Mcrae has convincingly demonstrated how the leading motive of the exploration of the Fleet recounted in _The Famous Voyage_ is its assimilation to "the alimentary canal, understood in Renaissance medical theory to be a single channel winding through the body, which received and digested food, and subsequently ejected food." [@McRae1998 __PAGE??__]. 
 
-	- We need to talk about the privies on the bank of the Fleet; where do we talk about the privies on the bank of the Fleet?
+- - -
 
 - - -
 
 ###The actual ecosystem
-
-4. The raw matter discarded by the production of these products would find a natural site of disposal in the river itself - or in the Ditch itself. As Jonson describes, people would simply through out the unused matter in the stream, expecting the water to carry it away. The waterway was considered as the principal output way of the entire ecosystem; it was the destination of any matter that did not deserve to actively participate in the economy of the neighborhood, and that instead had to be thrown away with the rest. Waste derived from workshops and shops wasn't the only matter that, on the river, was thrown away in this way; it wasn't, besides, the most prominent one. As we know, the Fleet had the special privilege among the rest of the city's waterways of hosting a number of privies on its banks: the human waste produced there ended in the waterway itself.
 
 - - -
 
