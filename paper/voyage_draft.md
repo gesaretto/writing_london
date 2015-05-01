@@ -69,11 +69,11 @@ This definition relies on two interdependent ideas which, in _The Famous Voyage_
 > Who shall discharge first his merd-urinous load:  
 > (ll. 61-65)  
 
-The "load" that is here emitted (in the form of "an ayre") and discarded (as "merd-urinous") figuratively equates the collective waste produced by the entire population of London, to which the personal adjective "your" (l. 64) alludes: to appreciate its odor and heat, the public is asked to imagine a collection of night soil so copious as to cause a state of urban congestion, paralyizing the "carts" transporting its piles (probably not an uncommon sight in the Early Modern capital, as @Cockayne2007 explains - pp. 183-187). Still navigating the watercourse, we then discover that this hyperbolical mass of ordure is, in most cases, intentionally induced by the inhabitants of the neighborhood, who are prompted to ingest "spirits, [...] pills, and [...] potions" (ll. 101-102) which, "in shitten sort" (l. 98), purge their bodies from the unhealthy meals that constitute their daily diet. So that finally, as we ascend the last portion of the alimentary canal, this same adulterated food eventually becomes the center of the expedition. 
+The "load" that is here emitted (in the form of "an ayre") and discarded (as "merd-urinous") figuratively equates the collective waste produced by the entire population of London, to which the personal adjective "your" (l. 64) alludes: to appreciate its odor and heat, the public is asked to imagine a collection of night soil so copious as to cause a state of urban congestion, paralyizing the "carts" transporting its piles (probably not an uncommon sight in the Early Modern capital, as explained by @Cockayne2007, 183-187). Still navigating the watercourse, we then discover that this hyperbolical mass of ordure is, in most cases, intentionally induced by the inhabitants of the neighborhood, who are prompted to ingest "spirits, [...] pills, and [...] potions" (ll. 101-102) to purge their bodies, "in shitten sort" (l. 98), from the unhealthy meals that constitute their daily diet. So that finally, as we ascend the last portion of the alimentary canal, this same adulterated food eventually becomes the focus of the expedition. 
 
 - - -
 
-3. The section of the poem concerning the "hot cookes" of "_Fleet_-lane" (l. 144) in fact coincides with the discovery of culinary practices that are everything but salubrious. Two problems seem especially responsible for the incesssant contamination of food: the ubiquitous presence of pestiferous particles in the area, registered by the poet in the lines immediately preceding these, and the alarming practices of recycling which are associated to the preparation of meals. The first issue happens on an atomic level, involving invisible fragments of waste which, within the environment, imbue every liquid and gaseous substance, or encrust every solid surface:
+3. The section of the poem concerning the "hot cookes" of "_Fleet_-lane" (l. 144) in fact coincides with the discovery of the culinary habits practiced on the river, which are everything but salubrious. The incessant contamination of food on the ditch is in particular associated with two related problems: the ubiquitous presence of pestiferous particles in the area, registered by the poet in the lines immediately preceding these, and the alarming practices of recycling which are associated to the processing of meals. The first issue happens on an atomic level, involving invisible fragments of waste which, within the bounded environment, imbue every liquid and gaseous substance, and encrust every solid surface:
 
 > Whether it languishing stucke upon the wall,  
 > Or were precipitated down the jakes,  
@@ -82,15 +82,21 @@ The "load" that is here emitted (in the form of "an ayre") and discarded (as "me
 > All was to them the same, they were to passe,  
 > (ll. 136-140)
 
-The adventurers of _The Famous Voyage_ absorb these particles through their noses, "open, and un-armed" (l. 135) ---
+The adventurers of _The Famous Voyage_ inhale these particles through their nostrils, almost automatically, by leaving them "open, and un-armed" (l. 135): as @Cockayne2007 (212) reminds us, the aerial infectiousness associated to analogous "miasmas" was especially dreaded at the time. But by juxtaposing this permeating model of contagion with the preparation and consumption of food recounted in the rest of the section, the poet seems to suggest that the inhabitants of the area can absorb toxic substances in other ways: by consuming products that have been exposed to these fumes, for instance, or by cooking and eating animals that have fed on adulterated meat and water (again a common concern, as outlined by @Cockayne2007, 95-97). Besides, in addition to this microscopic and involuntary infection, the second issue reported by Jonson introduces a deliberate and macroscopic one, enclosing the alimentary cycle of the ecosystem within a disturbingly autotrophic boundary.
 
-- Continue:
+> Cats there lay divers had beene flead, and rosted,  
+> And, after mouldie growne, againe were tosted,  
+> Then, selling not, a dish was tane to mince 'hem,  
+> But still, it seem'd, the ranknesse did convince 'hem.  
+> For, here they were throwne in with'the melted pewter,  
+> Yet drown'd they not. They had five lives in future.  
+> (ll. 149-153)  
 
-	- absorbing shit not only through nose, but through your mouth when you put a meal that has been literally covered in shit all day; and animals that are covered in shit and so on; 
+As we will see, the "five lives" which conclude this passage have a mythological connotation. From a purely material standpoint, however, the figure can also refer to the inexhaustible quality of this resilient nourishment: the text counts four explicit deaths (roasting, toasting, mincing, and either flaying or drowning), but we might easily predict how being "throwne" into the Fleet might provide the feline carcasses with endless opportunities to be consumed again and again, either "melted," like the alloy, with the infernal fluid of the ditch, or devoured - and excreted - by the animals bred or seized along its banks. The revelation which awaits both the adventurers and the readers who reach the end of this scatological _Voyage_ is that the two extremities of its alimentary canal are shockingly adjacent. Nothing is discarded from the bounded cycle of this ecosystem: although the thematic shift from excretion to consumption observed by McRae is still discernible, the purpose of the conclusion is to display a revolting continuity between alimentary matter and its fecal counterpart.
 
-	- two ideas: contamination of the atoms and recycling of the food. Easy peasy.
+- - -
 
-3. __Eating Shit__ As we ascend the alimentary canal individuated by McRae, in fact, we discover culinary practices that are everything but salubrious. The section of the poem concerning the "hot cookes" of "_Fleet_-lane" (145) is pervaded by the impressions of an incessant contamination, and reciprocal poisoning, between the waste discarded in the river - "grease, and haire of meazled hogs, | The heads, houghs, entrailes and the hides of dogs" (145-146) - and the food prepared there. Jonson must have personally witnessed this perverted ecosystem, where "pigs picked up contamination from city industries and noisome ditches filled with night soil and street sweepings," while "rottling in the back alleys and dunghills, [...] Mingling with dogs" or propagating "the circulation of disease and intestinal worms"  [@Cockayne2007, 95-97]. The stray and domestic animals that were "flead, and roasted | And, after mouldie growne, againe [...] tosted" (149-150) ingested the waste discarded in the river, before being themselves ingested by the humans responsible for its contamination. What is expelled is equivalent to what is absorbed: this horrendous revelation awaits the adventurers at the end of their _Voyage_, which becomes shockingly similar to its start.
+Coprophagy.
 
 - - -
 
