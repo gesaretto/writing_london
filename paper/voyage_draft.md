@@ -100,36 +100,21 @@ As we will see, the "five lives" which conclude this passage have a mythological
 
 - - -
 
-1. The historical and literary identity of this similitude is more fragmented: we can find its principles in the correspondence between written and spatial units which models Stow's chorography [@Manley 158-167], or in the creative textualization of urban experiences inspiring pamphlets such as Dekker's _The Wonderfull yeare_ [@Twyning1998 8-10]; by adapting its rhetorical qualities and poetical choices to the urban landscape which it describes, _The Famous Voyage_ certainly suggests a similar equivalence. Nevertheless, the premises for this verbal reproduction of a concrete physical circumstance  - in this case the sealed ecosystem of the Fleet - are actually found in another notorious episode of disgust invented by Jonson himself: the "literal purge of bad language" [@Robinson2014 563] of _Poetaster_. Written around the summer of 1601, approximately eleven years before the completion of the _Epigrams_, the comedy concludes its plot with this unusual pedagogical treatment. In the presence of Caesar, Virgil, and Tibullus, Horace, the quintessential satyrist, administers to Crispinus, the incompetent versifier of the title, a fistful of "somewhat bitter [...], but very wholesome" pills. As soon as the medicine works its effect, the patient starts moaning loudly.
+1. The historical and literary identity of this similitude is more fragmented: we can find its principles in the correspondence between written and spatial units which models Stow's chorography [@Manley 158-167], or in the creative textualization of urban experiences inspiring pamphlets such as Dekker's _The Wonderfull yeare_ [@Twyning1998 8-10]; by adapting its rhetorical qualities and poetical choices to the urban landscape which it describes, _The Famous Voyage_ certainly suggests a similar equivalence. Nevertheless, the premises for this verbal reproduction of a concrete physical circumstance  - in this case the sealed ecosystem of the Fleet - are actually found in another notorious episode of disgust invented by Jonson himself: the "literal purge of bad language" [@Robinson2014 563] of _Poetaster_. Written around the summer of 1601, approximately eleven years before the completion of the _Epigrammes_, the comedy concludes its plot with an unusual pedagogical treatment. In the presence of Caesar and Virgil, Horace, the archetypal satirist, administers to Crispinus, the incompetent versifier of the title, a fistful of "somewhat bitter [...], but very wholesome" (ll. 396-397) pills. As soon as the medicine works its effect, the patient starts moaning loudly.
 
-> __Crispinus__. [_Groaning_] O---  
+> __Crispinus__. [_Groaning_] O -  
 > __Tibullus__. How now, Crispinus?  
-> __Crispinus__. O, I am sick---  
+> __Crispinus__. O, I am sick -  
 > __Horace__. A basin, a basin, quickly; our physic works. [_To Crispinus_] Faint not, man.  
 > [HORACE _holds a basin into which_ CRISPINUS _appears to vomit his words._]  
-> __Crispinus__. O --- _retrograde_ --- _reciprocal_ --- _incubus_.  
+> __Crispinus__. O - _retrograde_ - _reciprocal_ - _incubus_.  
 > __Caesar__. What's that Horace?  
 > __Horace__. [_Looking in the basin_] _Retrograde_, _reciprocal_ and _incubus_ are come up.  
 > (ll. 455-463)  
 
-- the premise of the passage is that words become physical objects that can be ingested and expelled; so that we have this vomiting scene and then the description of the diet which crispinus should follow in order to recover completely from it. also, the words are described as "filth" capable of obstructing a pipe (in this case a bodily pipe); pollution and internal pollution. __then__ words can be ingested and expelled. __therefore__ here we have three semantic fields that overlap: that of filth, that of nourishment, and that of sickness. __physical obstruction__. Finally, we have words that can be treated as objects.
-
-- We want to say that a similar move opens _Famous Voyage_.
-
-
-- To include:
-
-	- Analysis of the opening of _Poetaster_.
-
-	- Make it good - do some _actual_ close reading here (and of the following passages).
-
-- An important problem:
-
-	- _italics_; at the basis of this scene is the fact that linguistic matter (notions, words, vocabulary; culture) can be treated as any sort of matter. The contradiction is not fully developed here, since this might probably be considered as a simple expansion of the trope of _alimentary education_, but it becomes crucial in _Famous Voyage_.
+The comical effect of the scene is achieved through the assimilation of latinate terms to weighty solid objects, in a conflation of cultural and material nourishment, pollution and illness that anticipates the tone of the scatological expedition through the Fleet. The eccentric vocabulary that has infected Crispinus (commonly identified as a parody of Marston's style, as in @Cain1995 25-27) has to be expelled from his organism, like a poisonous meal, and replaced by the "strict and wholesome diet" (l. 524) of authoritative readings which Virgil later devises for him. The image of literature as food is canonical; the playwright's innovation is in the semantic richness, and graphic vehemence, with which the ingestion causes first intoxication, then constipation, and finally sickness. Indicated as a mass of "filth" (l. 484) clogging the _Poetaster_'s stomach, words have to be literally purged from his alimentary canal; in a similar fashion, then, Jonson opens _The Famous Voyage_ with a discharge of epic.
 
 - - -
-
-> [__Poetaster: we need to look at it.__] We could indeed compare the treatment of epic referents in the epigram's _proemium_, entitled _On the Famous Voyage_, to the "literal purge of bad language" which in _Poetaster_ embodied "a materialized enactment of humanistic education" and "literary criticism" [@Robinson2014, 563]. [<--- Stop doing this.] In a similar fashion, the poet begins his epigram by listing all that his narrative will _not_ include.
 
 > NO more let _Greece_ her bolder fables tell  
 > Of _Hercules_, or _Theseus_ going to _hell_,  
@@ -139,18 +124,9 @@ As we will see, the "five lives" which conclude this passage have a mythological
 > Had power to act, what they to faine had not.  
 > (1-6)  
 
-> Although reminiscent of an _occupatio_ - a denial to indulge in the narration of events that the same denial is in fact contradictorily relating - these first six lines do not reveal anything about the characters and places which they mention. Encompassed by a double negation, "NO" and "not", these referents are simply _named_, for the sole purpose of being discarded. This first rhetorical gesture is an act of exclusion and the setting of a boundary: before the actual incipit of the poem, "_The Voyage It Selfe_", the poet needs to push a number of elements outside of it.
+1. Although reminiscent of an _occupatio_ - a denial to indulge in the narration of events that the same denial is in fact contradictorily relating - these first six lines do not reveal anything about the characters and places which they mention. Encompassed by a double negation, "NO" and "not", these referents are simply _named_, for the sole purpose of being discarded. This first rhetorical gesture is an act of exclusion and the setting of a boundary: before the actual incipit of the poem, "_The Voyage It Selfe_", the poet needs to push a number of elements outside of it.
 
-> A typographical mark, the same _italic_ font elsewhere personally curated by Ben Jonson [@Riddell2000, 156], signals the entity of the referents marked for expulsion. They are the proper names of classical heroes (_Hercules_, _Theseus_, _Orpheus_, _Ulysses_), to which is added a single, unspecified _Latine Muse_, and three places: a nameless _hell_, rhyming with the deceiving "tell" performed by antiquity, and two toponyms - _Greece_ and _Troyes_. The name of the country and the name of the city - suggestive of the _New Troy_ that is London - open and close the sequence, narrowing down the reader's attention from a cultural to an urban synecdoche, signifying, like every name on the list, the entirety of those "bolder fables" with which classical literature "our faiths abuse."
-
-> The initial rejection is indeed followed by a fitting replacement for the discarded matter. In the following lines the poet asserts the superiority of his composition, both in quality and in quantity.
-
-> Their wherry had no saile, too; ours had none:  
-> And in it, two more horride knaves, then _Charon_.  
-> Arses were heard to croake, in stead of frogs;  
-> And for one _Cerberus_, the whole coast was dogs.  
-> _Furies_ there wanted not: each scold was ten.  
-> (11-14)
+2. A typographical mark, the same _italic_ font elsewhere personally curated by Ben Jonson [@Riddell2000, 156], signals the entity of the referents marked for expulsion. They are the proper names of classical heroes (_Hercules_, _Theseus_, _Orpheus_, _Ulysses_), to which is added a single, unspecified _Latine Muse_, and three places: a nameless _hell_, rhyming with the deceiving "tell" performed by antiquity, and two toponyms - _Greece_ and _Troyes_. The name of the country and the name of the city - suggestive of the _New Troy_ that is London - open and close the sequence, narrowing down the reader's attention from a cultural to an urban synecdoche, signifying, like every name on the list, the entirety of those "bolder fables" with which classical literature "our faiths abuse."
 
 > The character behind this designation, Hercules, is a hybrid born of a human, Alcmene, and a god, Zeus. His origin is mixed, like the waters of the Fleet: this duality, underscored by the reference to Alcaeus, the human grandfather remembered in the patronymic, is then emphasized by the ambivalent way in which the poet refers to the frail humanity of his "backe, and bones [_,_] sore" from his "former labors" (55), while attributing to him an undisputable divinity.
 
@@ -177,6 +153,16 @@ As we will see, the "five lives" which conclude this passage have a mythological
 > The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
 
 - - -
+
+> The initial rejection is indeed followed by a fitting replacement for the discarded matter. In the following lines the poet asserts the superiority of his composition, both in quality and in quantity.
+
+> Their wherry had no saile, too; ours had none:  
+> And in it, two more horride knaves, then _Charon_.  
+> Arses were heard to croake, in stead of frogs;  
+> And for one _Cerberus_, the whole coast was dogs.  
+> _Furies_ there wanted not: each scold was ten.  
+> (11-14)
+
 
 1. _The Famous Voyage_ is a revolting poem for many reasons; yet, we think that the corruption of its ecosystem, described in the mixture between output and input, between discarded and preserved, between ingested and expelled, is perhaps the most disgusting idea at the core of the poem. This is the moment when the threatening inversion described by Douglas, a cultural taboo in many of the culture which she analyzes, becomes equivalent to an even more destabilizing threat - one that pushes the self back into the pre-symbolic order in which boundaries are not only threatened, but cease to exist - the abjection described by Kristeva in _The Powers of Horror_. This transition is the most disturbing feature of _Famous Voyage_, and, as we will see the disappearance of boundaries is at the core of the final transition operated by the poet, from the material to the immaterial - and back.
 	
