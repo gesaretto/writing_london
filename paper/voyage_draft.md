@@ -58,7 +58,7 @@ This definition relies on two interdependent ideas which, in _The Famous Voyage_
 
 - - -
 
-1. Jonson's poetical meditation on waste as the core of the degraded ecosystem of the Fleet implicitly alludes to two recurrent similitudes, that of the city as a human body and that of the city as a book, which Early Modern writers commonly used to address the developing complexity of urban spaces, and of London in particular. We will for now focus on the first analogy, whose history was suggestively traced by Lawrence Manley as a specifically feminine trajectory, leading from a maternal or desirable body to an unfamiliar and monstruous one [@Manley1995]. The site which serves as the background of _The Famous Voyage_ relates, predictably, to the second category: Benedict Robinson, for instance, explains how the poem turns London into a "grotesque female body with the Ditch a filthy channel into it, [...] ambiguously mouth, vagina, and anus" [@Robinson2014, 569]. Leaving gender aside, this grotesque metamorphosis becomes even more relevant to the environmental degradation of the ditch and its waste if we consider that the portion of the brook explored by Jonson's adventurers had the special privilege - apparently unique at the time - of hosting "many a privie" (l. 73) on its banks: here human ejections would therefore be intentionally conveyed into the waters of the stream, to become part of its bounded material cycle [@Cockayne 200]. Waste corresponded to shit, both in a figurative and in a literal sense: if the metonymy transformed the city into a human body, then the Fleet inevitably became its excretory system.
+1. Jonson's poetical meditation on waste as the core of the degraded ecosystem of the Fleet implicitly alludes to two similitudes, that of the city as a human body and that of the city as a book, used by Early Modern writers to address the developing complexity of urban spaces, and of London in particular. We will for now focus on the first analogy, whose history was suggestively traced by Lawrence Manley as a specifically feminine trajectory, leading from a maternal or desirable body to an unfamiliar and monstruous one [@Manley1995]. The site which serves as the background of _The Famous Voyage_ relates, predictably, to the second category: Benedict Robinson, for instance, explains how the poem turns London into a "grotesque female body with the Ditch a filthy channel into it, [...] ambiguously mouth, vagina, and anus" [@Robinson2014, 569]. Leaving gender aside, this grotesque metamorphosis becomes even more relevant to the environmental degradation of the ditch and its waste if we consider that the portion of the brook explored by Jonson's adventurers had the special privilege - apparently unique at the time - of hosting "many a privie" (l. 73) on its banks: here human ejections would therefore be intentionally conveyed into the waters of the stream, to become part of its bounded material cycle [@Cockayne 200]. Waste corresponded to shit, both in a figurative and in a literal sense: if the metonymy transformed the city into a human body, then the Fleet inevitably became its excretory system.
 
 2. But it is precisely as it establishes and expands on this correspondence that the imaginative organization of _The Famous Voyage_ most surprises the reader. As Andrew Mcrae has convincingly demonstrated, the leading motive of this exploration of the Fleet is its assimilation to "the alimentary canal, understood in Renaissance medical theory to be a single channel winding through the body, which received and digested food, and subsequently ejected food" [@McRae1998]. One of the most suggestive inventions of the poem, then, is that for which we follow the travelers along an unorthodox route, from anus to mouth, moving "haltingly through images of excretion to images of the preparation and consumption of food" [@McRae1998]. Summoned by this inversion, the first "ugly monster" (l. 61) of the narrative, encountered at the outlet of the Ditch, "_Bride-well_" (l. 42), functions as a Rabelaisian embodiment of the massive amount of excrement expelled through this "dire passage" (l. 59).
 
@@ -96,100 +96,12 @@ As we will see, the "five lives" which conclude this passage have a mythological
 
 - - -
 
-1. The specter of coprophagy haunts the final section of _The Famous Voyage_. As Mary Douglas has explained in her anthropological meditation on _Purity and Danger_, public rituals involving the boundaries of human corporeality and its excretions have to be be interpreted on the assumption that, in most cases, a symbolic equivalence exists between the organism of the discrete body and that of the society to which it belongs [@Douglas1966, 114-128]. Individual anatomical margins correspond to common cultural margins, and what is ejected from the system of a single physical person symbolizes the ideological discards of an entire community. This notion of "social pollution" clarifies the meaning of collective taboos stating, for instance, that matter "issuing from the body is never to be re-admitted," or anxieties about the danger of "anything which has once emerged gaining re-entry" [@Douglas1966, 122-123]. These injunctions presuppose an open ecosystem, both somatic and mental: the cycle within it should clearly differentiate between input and output, and effectively expel its intellectual and material waste. But the cycle of _The Famous Voyage_ is instead sealed and coprophagous; the body which it metonymically signifies, that of a monstrous London, is therefore also threatened in the social and cultural integrity of its boundaries - a threat that Ben Jonson express through the very formal choices made in the composition of his poem.
- 
-
-
- - - -
-
-	- Coprophagy and Douglas.
- 
-	- From coprophagy to impurity through Douglas. The essential move is to explain how coprophagy is a special form of polluttion.
-
-	- The moves are:
-		
-		1. urban generalization (the city as a book);
-
-		2. cultural generalization (Douglas).
-
-	- Pollution is socially and culturally determined.
-
-	- Culture because the next move is the purge.
+1. The specter of coprophagy haunts the final section of _The Famous Voyage_. It is a material and a cultural specter. As Mary Douglas explains in her anthropological meditation on _Purity and Danger_, public rituals involving the boundaries of human corporeality and its excretions manifest a symbolic equivalence between the organisms of discrete bodies and that of the society to which they belong [@Douglas1966, 114-128]. If individual anatomical margins correspond to shared social margins, then the biological discharges of a single physical person can symbolize the ideological discards of an entire community. Her notion of "social pollution" clarifies the meaning of collective taboos stating, for instance, that the matter "issuing from the body is never to be re-admitted," or articulating anxieties about the danger of "anything which has once emerged gaining re-entry" [@Douglas1966, 122-123]. These injunctions define the control that should be exerted over an open ecosystem, both somatic and mental: the cycle within it should differentiate between input and output, and then dispose of its intellectual and material waste. But the cycle of _The Famous Voyage_ is instead deleteriously obstructed and coprophagous; the boundaries of the body which it metonymically signifies, those of a monstrous London, are also threatened in their social and cultural regulation. To express this ideological decay, which is then extended to his responsabilities as a writer, Jonson introduces a second urban analogy: that of the city as a book.
 
 - - -
 
-> As a result, although the thematic shift from excrement to nourishment observed by McRae is undoubtable, the alimentary matter of the poem is indistinguishable from its fecal counterpart. A threatening uncertainty suffuses the "monstruous femininity" of this urban setting, evocative of a "grotesque female body with the Ditch a filthy channel into it, [...] ambiguously mouth, vagina, and anus" [@Robinson2014, 569]. The origin of this ambiguity might be related to what Julia Kristeva defined as "_abject_ [...], the jettisoned object" which, being "radically excluded [_,_] draws [_one_] towards the place where meaning collapses" [@Kristeva2002, 230]. This collapse in meaning, provoked by a sudden encounter with the "body fluids, [...] defilement, [...] shit" and "death" [@Kristeva2002, 231] of the Fleet, is equivalent to the "confus[_ion_] described by the poet of the _Famous Voyage_ in its _proemium_.
+1. The historical and literary identity of this similitude is more fragmented: we can find its principles in the correspondence between written and spatial units which models Stow's chorography [@Manley 158-167], or in the creative textualization of urban experiences inspiring pamphlets such as Dekker's _The Wonderfull yeare_ [@Twyning1998 8-10]; by adapting its rhetorical qualities and poetical choices to the urban landscape which it describes, _The Famous Voyage_ certainly suggests a similar equivalence. Nevertheless, the premises for this verbal reproduction of a concrete physical circumstance  - in this case the sealed ecosystem of the Fleet - are actually found in another notorious episode of disgust invented by Jonson himself: the "literal purge of bad language" [@Robinson2014 563] of _Poetaster_. Written around the summer of 1601, approximately eleven years before the completion of the _Epigrams_, the comedy concludes its plot with this unusual pedagogical treatment. In the presence of Caesar, Virgil, and Tibullus, Horace, the quintessential satyrist, administers to Crispinus, the incompetent versifier of the title, a fistful of "somewhat bitter [...], but very wholesome" pills. As soon as the medicine works its effect, the patient starts moaning loudly.
 
-> All, that they boast of _Styx_, of _Acheron_,  
-> _Cocytus_, _Phlegeton_, our have prov'd in one;  
-> The filth, stench, noyse: save only what was there  
-> Subtly distinguish'd, was confused here.  
-> (7-10)
-
-> The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
-
-- - -
-
-
-- - -
-
-###The actual ecosystem
-
-- - -
-
-1. The fact that the Fleet Ditch had become the destination of both commercial garbage and human waste (faecal matter) is at the core of one major intuition within the text, one that Ben Jonson uses profusely to describe the ways and the reasons for which the specific ecosystem of the Fleet could be considered corrupt and broken. This intuition is consonant with one of the major assumptions found in _Purity and danger_, and with a privileged metaphor for the functioning of urban spaces and specific neighborhoods that is often found in the literary works of the time: the idea of the city as a body, and the idea of the expulsion of discarded matter as the process which sanctions the existence of boundaries; the process which enables the existence of boundaries. As McRae points out in his insightful analysis of border making in the poem, the Fleet becomes a metonymy for the digestive trait of the entire city, defined by its processes of ingestion and expulsion.
-
-2. Grounded on the ideas of waste as the rational way of defining the boundaries of a society, or of an enclosed ecosystem , two images seem in fact to sustain the poetical substance of _The Famous Voyage_: the city as a human body and the city as a book (or, more broadly, as a textual product). As we will see in the rest of this paper, Ben Jonson describes the corruption of both systems to convey the critical state of corruption in which was found the Fleet, to later expand his critique to the cultural and literary landscape of his age in general. 
-
-	- Possible references to relevant literature describing the city as a body.
-
-
-- - -
-
-1. The conclusion of this section of close reading is _coprophagy_.
-
-1. _The Famous Voyage_ is a revolting poem for many reasons; yet, we think that the corruption of its ecosystem, described in the mixture between output and input, between discarded and preserved, between ingested and expelled, is perhaps the most disgusting idea at the core of the poem. This is the moment when the threatening inversion described by Douglas, a cultural taboo in many of the culture which she analyzes, becomes equivalent to an even more destabilizing threat - one that pushes the self back into the pre-symbolic order in which boundaries are not only threatened, but cease to exist - the abjection described by Kristeva in _The Powers of Horror_. This transition is the most disturbing feature of _Famous Voyage_, and, as we will see the disappearance of boundaries is at the core of the final transition operated by the poet, from the material to the immaterial - and back.
-	
-	- Here we have __Douglas__: from _pollution_ to _impurity_.
-	
-	- The dissolution of boundaries is the dissolution of the self and its linguistic categories; these linguistic categories are again upturned in the final section of the poem.
-
-	- The end of this section should transition from the violation of boundaries expressed in Douglas to the pure abjection theorized by Kristeva. This discovery is perhaps the most revolting idea contained in the poem; it is the perverse absorption of waste through air and - more strikingly - food.
-
-	- More important consequences:
-
-		- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial (religion?); shit from food.
-		
-		- We should truly emphasize the role of coprophagy in this entire discourse. Is coprophagy a taboo? How is coprophagy related to language? How is the horror of coprophagy resonant with both the terror of pollution and impurity (Douglas) and the terror of the abjection (Kristeva)?  
-
-2. The input and the output that define the presence of an ecosystem, and that are corrupt in the world depicted by Ben Jonson in the _Famous Voyage_, depend on the very idea of waste as matter that is for ever discarded. In her theorization of pollution, drawn from antrhopological, sociological, and theological observations, Mary Douglas connects in fact the production and the ideological definition of waste with the production and the ideological definition of a society's boundaries. A social group is united - it is ideologically gathered - around consonant ideas about what is worthy of being preserved and what, instead, can be discarded - or should be discarded; beyond these notions and beliefs, beyond the very collective perception of what can be considered cleanness and what, instead, has to be repelled as filth, lie the premises for the cultural and religious whole of a culturally cohesive group. Moments of selection and separation associated with the production of waste are therefore intrinsically related to the definition of a society; and they constitute powerful metaphors for expressing its most intimate functioning.
-
-- - -
-
-##2. The poem (the purge)
-
-1. The second privileged metaphor used to describe London in the literary works of the time, and the second metaphor that Ben Jonson uses to describe the Fleet and the culture and society which produced its corruption, is that of the city as a book. There are two ways in which this idea seems to be suggested in the text: one is extratextual, linked to the editorial practices usually attributed to Ben Jonson, and the second is textual, linked to the specific literary operation that Ben Jonson performs in his work.
-
-	- The city as a book; the book as a corrupt ecosystem.
-
-	- The form of the poem mirrors its theme.
-
-- - -
-
-###The Epigrammes and editorial practices
-
-1. The Epigrams occupy the - - -
-
-	- The epigrammes within the folio, and the Voyage within the epigrams. What is the meaning of these choices? How do they define margins? How do they mirror practices of discarding and delimiting boundaries?
-
-	- The job of Ben Jonson as that of a tanner / butcher / soap maker.
-
-- - -
-
-###The purge: false occupatio and denial
-
-1. In the final section of his early comedy _Poetaster_, written around the Summer of 1601 - approximately ten years before the completion of the _Epigrams_ - the character referred to in the title, _Crispinus_, undergoes a peculiar literary treatment, performed by the ingenious medicinal powers of the quintessential satyrist, Horace. In the presence of Caesar, Virgil and Tibullus, the bad poet is given some special pills, "somewhat bitter [...], but very wholesome." As soon as these medicaments have effect on the patient, Crispinus starts groaning.
-  
 > __Crispinus__. [_Groaning_] O---  
 > __Tibullus__. How now, Crispinus?  
 > __Crispinus__. O, I am sick---  
@@ -198,6 +110,12 @@ As we will see, the "five lives" which conclude this passage have a mythological
 > __Crispinus__. O --- _retrograde_ --- _reciprocal_ --- _incubus_.  
 > __Caesar__. What's that Horace?  
 > __Horace__. [_Looking in the basin_] _Retrograde_, _reciprocal_ and _incubus_ are come up.  
+> (ll. 455-463)  
+
+- the premise of the passage is that words become physical objects that can be ingested and expelled; so that we have this vomiting scene and then the description of the diet which crispinus should follow in order to recover completely from it. also, the words are described as "filth" capable of obstructing a pipe (in this case a bodily pipe); pollution and internal pollution. __then__ words can be ingested and expelled. __therefore__ here we have three semantic fields that overlap: that of filth, that of nourishment, and that of sickness. __physical obstruction__. Finally, we have words that can be treated as objects.
+
+- We want to say that a similar move opens _Famous Voyage_.
+
 
 - To include:
 
@@ -243,6 +161,36 @@ As we will see, the "five lives" which conclude this passage have a mythological
 > (51-54)
 
 > In the "confusion" of this passage, like in the corrupt ecosystem of the Fleet, what has been expelled is absorbed again. The poet's apparent forgetfulness ("me thinkes 'tis od, | that all this while I forgot some _god_", 43-44) is allowing him to reincorporate the epic material that he had just discarded, feeding to the reader the exact same content that, within the liminal space of the _proemium_, had been so scrupulously listed, denied and purged. Even the rhyme returns: accepting what "some say" and what "_Fame_" has transmitted to him, the poet is allowing the "_Muses_" to "abus[_e_]" both his and his reader's "faith" (4). And indeed, as he navigates the turbid waters of the river, having entered its "wombe" (66), all of this discarded epic material flows back to the poet, encroaching and soiling the setting, the adventure, and its characters. In a mode that is "increasingly phantasmagoric and allegorical" [@Duncan-Jones2005, 261], and which parades an increasing accumulation of "_Centaures_," "_Gorgons_," and a "_Harpyes_" (68-69), epic repossesses the epigram, like "The slie _Ulysses_ [...] in a sheepes-skin" (113), thus debasing the system of exclusions and positive replacements that had compelled both the author and the reader to wager on its success.
+
+- - -
+
+- This could still work as the end of section __2__.
+
+> As a result, although the thematic shift from excrement to nourishment observed by McRae is undoubtable, the alimentary matter of the poem is indistinguishable from its fecal counterpart. A threatening uncertainty suffuses the "monstruous femininity" of this urban setting, evocative of a "grotesque female body with the Ditch a filthy channel into it, [...] ambiguously mouth, vagina, and anus" [@Robinson2014, 569]. The origin of this ambiguity might be related to what Julia Kristeva defined as "_abject_ [...], the jettisoned object" which, being "radically excluded [_,_] draws [_one_] towards the place where meaning collapses" [@Kristeva2002, 230]. This collapse in meaning, provoked by a sudden encounter with the "body fluids, [...] defilement, [...] shit" and "death" [@Kristeva2002, 231] of the Fleet, is equivalent to the "confus[_ion_] described by the poet of the _Famous Voyage_ in its _proemium_.
+
+> All, that they boast of _Styx_, of _Acheron_,  
+> _Cocytus_, _Phlegeton_, our have prov'd in one;  
+> The filth, stench, noyse: save only what was there  
+> Subtly distinguish'd, was confused here.  
+> (7-10)
+
+> The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
+
+- - -
+
+1. _The Famous Voyage_ is a revolting poem for many reasons; yet, we think that the corruption of its ecosystem, described in the mixture between output and input, between discarded and preserved, between ingested and expelled, is perhaps the most disgusting idea at the core of the poem. This is the moment when the threatening inversion described by Douglas, a cultural taboo in many of the culture which she analyzes, becomes equivalent to an even more destabilizing threat - one that pushes the self back into the pre-symbolic order in which boundaries are not only threatened, but cease to exist - the abjection described by Kristeva in _The Powers of Horror_. This transition is the most disturbing feature of _Famous Voyage_, and, as we will see the disappearance of boundaries is at the core of the final transition operated by the poet, from the material to the immaterial - and back.
+	
+	- Here we have __Douglas__: from _pollution_ to _impurity_.
+	
+	- The dissolution of boundaries is the dissolution of the self and its linguistic categories; these linguistic categories are again upturned in the final section of the poem.
+
+	- The end of this section should transition from the violation of boundaries expressed in Douglas to the pure abjection theorized by Kristeva. This discovery is perhaps the most revolting idea contained in the poem; it is the perverse absorption of waste through air and - more strikingly - food.
+
+	- More important consequences:
+
+		- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial (religion?); shit from food.
+		
+		- We should truly emphasize the role of coprophagy in this entire discourse. Is coprophagy a taboo? How is coprophagy related to language? How is the horror of coprophagy resonant with both the terror of pollution and impurity (Douglas) and the terror of the abjection (Kristeva)?  
 
 - - -
 
@@ -321,6 +269,32 @@ As we will see, the "five lives" which conclude this passage have a mythological
 3. In his _Entertainment at Britain's Burse_, written in 1609, commodities are distributing according to ---
 
 	- Falsity and the counterfeit are related to the problem of religion and faith.
+
+- - -
+
+
+
+##2. The poem (the purge)
+
+1. The second privileged metaphor used to describe London in the literary works of the time, and the second metaphor that Ben Jonson uses to describe the Fleet and the culture and society which produced its corruption, is that of the city as a book. There are two ways in which this idea seems to be suggested in the text: one is extratextual, linked to the editorial practices usually attributed to Ben Jonson, and the second is textual, linked to the specific literary operation that Ben Jonson performs in his work.
+
+	- The city as a book; the book as a corrupt ecosystem.
+
+	- The form of the poem mirrors its theme.
+
+
+
+1. Introducing the __purge__. _Poetaster_.
+
+###The Epigrammes and editorial practices
+
+1. The Epigrams occupy the - - -
+
+	- The epigrammes within the folio, and the Voyage within the epigrams. What is the meaning of these choices? How do they define margins? How do they mirror practices of discarding and delimiting boundaries?
+
+	- The job of Ben Jonson as that of a tanner / butcher / soap maker.
+
+
 
 - - -
 
