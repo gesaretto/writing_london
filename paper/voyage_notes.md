@@ -1,42 +1,16 @@
 #Notes on the _Famous Voyage_
 
-##Work schedule for April 30th
+##Work schedule
 
 - __Structure__:
 
-	1. __Section I__: the river (or the city?) 
-
-		1. The Fleet;
-	
-		2. Ecosystem;
-
-		3. Corrupt cycle in the poem
-	
-			1. __Waste is shit__
-
-			2. __the body of the city__
-
-				- Yes, I probably need to spend some time on the body of the city, on the city as a human body. Because that was my way of talking about the extraordinary idea that is at the core of _FV_: coprophagy. Coprophagy is how I end this section.
-
-			3. McRae: open with the ass, finish with the mouth
-
-			4. We eat shit.
-
-				- So, in short, not hard: __body of the city__; __inversion__ in McRae__; __coprophagy__.
-
 	2. __Section II__: the poem (or the text?)
-
-		6. The horror of coprophagy (coprophagia) as a violation of pollution; Mary Douglas from _pollution_ to _impurity_.
-
-			- I introduce Douglas only at the end of this section, to turn __pollution__ (ecological, physical, environmental) into __impurity__ (religious, theological, social). _The Famous Voyage_ also works on the ambiguity between environmental impurity and mental impurity. This is a simple, but powerful concept. Impurity of the place where you live is impurity of the mind that you use. 
-
-		7. [__Very delicate move.__] From Mary Douglas to Kristeva: from impurity, to the dissolution of boundaries, to _abjection_, to the fall from the symbolic order into __the Real__. This has to be subtle - just enough to introduce the dissolution of language.
-
-		8. __Poetaster__ and the ambivalence of this lost boundary: language is an object.
 
 		9. The __purge__ of _Famous Voyage_.
 
 	10. __Section III__: the age
+		
+		8. __Poetaster__ and the ambivalence of this lost boundary: language is an object.
 
 		10. __Some sort of conclusion__ for the previous section. Perhaps this would instead be the right time to introduce _Kristeva_?
 
