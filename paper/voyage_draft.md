@@ -100,22 +100,14 @@ The historical and literary identity of this similitude is more fragmented: we c
 > __Horace__. [_Looking in the basin_] _Retrograde_, _reciprocal_ and _incubus_ are come up.  
 > (ll. 455-463)  
 
-The comical effect of the scene is achieved through the assimilation of latinate terms to weighty solid objects, in a conflation of cultural and material nourishment, pollution and illness that anticipates the tone of the scatological expedition through the Fleet. The eccentric vocabulary that has infected Crispinus (commonly identified as a parody of Marston's style, as in @Cain1995 25-27) has to be expelled from his organism, like a poisonous meal, and replaced by the "strict and wholesome diet" (l. 524) of authoritative readings which Virgil later devises for him. The image of literature as food is canonical; the playwright's innovation is in the semantic richness, and graphic vehemence, with which the ingestion causes first intoxication, then constipation, and finally sickness. Indicated as a mass of "filth" (l. 484) clogging the _Poetaster_'s stomach, words have to be literally purged from his alimentary canal; in a similar fashion, then, Jonson opens _The Famous Voyage_ with a discharge of epic from the body of his poem.
+The comical effect of the scene is achieved through the assimilation of Latinate terms to weighty solid objects, in a conflation of cultural and material nourishment, pollution and illness that anticipates the tone of the scatological expedition through the Fleet. The eccentric vocabulary that has infected Crispinus (commonly identified as a parody of Marston's style, as in @Cain1995, 25-27) has to be expelled from his organism, like a poisonous meal, and replaced by the "strict and wholesome diet" (l. 524) of authoritative readings which Virgil later devises for him. The image of literature as food is canonical; the playwright's innovation is in the semantic richness, and graphic vehemence, with which the ingestion causes first intoxication, then constipation, and finally sickness. Indicated as a mass of "filth" (l. 484) clogging the _Poetaster_'s stomach, words have to be literally purged from his alimentary canal; in a similar fashion, then, Jonson opens _The Famous Voyage_ with a discharge of epic from the body of his poem.
 
 - - -
 
-1. The purge:
+1. Two editorial peculiarities characterize the opening of _The Famous Voyage_, indicating to the reader both the uniqueness of the poem against the rest of the collection and the aesthetic connotations of its first rhetorical gesture: the first is the presence of two distinct headings, one for the exordium (_On the Famous Voyage_) and one for the body of the text (_The Voyage Itself_); the other is the dense frequency and idiosyncratic use of italicized nouns. The consequence of the two headings is the creation of a secluded liminal space, a textual boundary, where the poet can assert a separation between the actual organism of the composition (_Epigramme CXXXIII_ itself) and its surroundings, either those constituting the audience's memory of an analogue literary tradition, or those established by the physical volume containing the writer's works. The insistence on italics (in which Ben Jonson took particular care, as demonstrated by @Riddell2000, 156) is instead reminiscent of the literary cleansing of _Poetaster_: here too the typographical mark denotes terms that, like the abstruse idioms in Crispinus' speech, can acquire weight, and therefore be treated - or mistreated - like tangible objects operating within a physical environment. Both the double heading and the presence of italics, therefore, contribute to the enactment of another linguistic purge.
 
-	- Two editorial moves: the introduction of a specific _title_ and the use of _italics_.
-
-	- The title signals a boundary; the creation of a boundary as a space _outside_ the poem _itselfe_. This is poem; this is _not_ poem.
-
-		- Also, the boundary is set between the poem and the collection to which it belongs.
-
-	- The italics function as a marker of a word turned into a material object; an object that possesses _weight_ (like the odd lexical choices of _Poetaster_).
-
-		- The belief that I am regulating a functional boundary; a boundary that is open and efficient and will not re-absorb shit.
-
+> __On the Famous Voyage__  
+>   
 > NO more let _Greece_ her bolder fables tell  
 > Of _Hercules_, or _Theseus_ going to _hell_,  
 > _Orpheus_, _Ulysses_: or the _Latine Muse_,  
@@ -124,11 +116,25 @@ The comical effect of the scene is achieved through the assimilation of latinate
 > Had power to act, what they to faine had not.  
 > (1-6)  
 
-1. Although reminiscent of an _occupatio_ - a denial to indulge in the narration of events that the same denial is in fact contradictorily relating - these first six lines do not reveal anything about the characters and places which they mention. Encompassed by a double negation, "NO" and "not", these referents are simply _named_, for the sole purpose of being discarded. This first rhetorical gesture is an act of exclusion and the setting of a boundary: before the actual incipit of the poem, "_The Voyage It Selfe_", the poet needs to push a number of elements outside of it.
+2. 
 
+> Although reminiscent of an _occupatio_ - a denial to indulge in the narration of events that the same denial is in fact contradictorily relating - these first six lines do not reveal anything about the characters and places which they mention. Encompassed by a double negation, "NO" and "not", these referents are simply _named_, for the sole purpose of being discarded. This first rhetorical gesture is an act of exclusion and the setting of a boundary: before the actual incipit of the poem, "_The Voyage It Selfe_", the poet needs to push a number of elements outside of it.
+
+> A typographical mark, the same _italic_ font elsewhere personally curated by Ben Jonson [@Riddell2000, 156], signals the entity of the referents marked for expulsion. Apart from the two heroes of the expedition, we find the proper names of classical heroes (_Hercules_, _Theseus_, _Orpheus_, _Ulysses_), to which is added a single, unspecified _Latine Muse_, and three places: a nameless _hell_, rhyming with the deceiving "tell" performed by antiquity, and two toponyms - _Greece_ and _Troyes_. The name of the country and the name of the city - suggestive of the _New Troy_ that is London - open and close the sequence, narrowing down the reader's attention from a cultural to an urban synecdoche, signifying, like every name on the list, the entirety of those "bolder fables" with which classical literature "our faiths abuse."
+
+- - -
+
+1. The purge:
+
+		- Also, the boundary is set between the poem and the collection to which it belongs.
+
+
+		- The belief that I am regulating a functional boundary; a boundary that is open and efficient and will not re-absorb shit.
+
+
+1. 
 	- Is there that much to say about this? I fear that this section might actually count just two juicy paragraphs.
 
-2. A typographical mark, the same _italic_ font elsewhere personally curated by Ben Jonson [@Riddell2000, 156], signals the entity of the referents marked for expulsion. Apart from the two heroes of the expedition, we find the proper names of classical heroes (_Hercules_, _Theseus_, _Orpheus_, _Ulysses_), to which is added a single, unspecified _Latine Muse_, and three places: a nameless _hell_, rhyming with the deceiving "tell" performed by antiquity, and two toponyms - _Greece_ and _Troyes_. The name of the country and the name of the city - suggestive of the _New Troy_ that is London - open and close the sequence, narrowing down the reader's attention from a cultural to an urban synecdoche, signifying, like every name on the list, the entirety of those "bolder fables" with which classical literature "our faiths abuse."
 
 	- The second paragraph is about how the discharged matter flows back. The poem is _formally_ coprophagous.
 
