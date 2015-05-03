@@ -1,36 +1,63 @@
 #Notes on the _Famous Voyage_
 
-##Work schedule
+##Work schedule - May 3rd
 
-- __Structure__:
+1. The _purge_:
 
-	2. __Section II__: the poem (or the text?)
-
-		9. The __purge__ of _Famous Voyage_.
-
-	10. __Section III__: the age
+	1. _Proemium_ (premises, before we start reading):
 		
-		8. __Poetaster__ and the ambivalence of this lost boundary: language is an object.
+		1. Editorial concerns: the title creates a boundary;
+		2. Editorial concerns: the italics distinguish words that are discardable from the rest.
 
-		10. __Some sort of conclusion__ for the previous section. Perhaps this would instead be the right time to introduce _Kristeva_?
+	2. Discarding words: not an _occupatio_, but a purge. _Not_ and _not_.
 
-		11. Cultural waste: getting rid of _religion_ and _epic_; the _epic_ of the previous section becomes the _religion_ of this section.
+		- Problem of _genre_: this is not an epic. This is the margin between what is _epigram_ and what is not (_The Forrest_ is a collection "of divers nature, and matter" - a miscellany. It is quite different from the _Epigrammes_, with which it was published in the 1616 Folio - introduction to _The Forrest_ in the complete works).
 
-		12. The _discard_ (ejection, expulsion...) is based on two ideas:
+		- Getting rid of the _epic_: an old product, that is neither _new_ nor _authentic_.
 
-			1. the fusion between language and matter;
+	3. Return of the discarded:
 
-			2.  the corrupt ecosystem that ends up by assimilating its own waste.
+		- _First_, just describe what is happening: the invocation to Hercules; the return of the exact same words, and the exact set of rhymes. Epic repossesses the poem. 
 
-		13. Close readings:
+		- _But_, as the travellers reach the mouth of the Fleet, they find that the matter that the poet had tried to discard is still there. The boundary of the poem, like that of the _Fleet_, is dysfunctional in its obstruction and sealing; nothing can leave the _Fleet_. The _Fleet_ is a place where nothing goes away.
 
-			1. Mercury and the pills;
+2. Here, perhaps, a transition with Kristeva and language.
 
-			2. The atoms and metempsychosis.
+	- Introduce her by referring, again, to the way in which the purge works: words that are treated like concrete objects. They obstruct the ecosystem, and make it collapse - they create a bounded cycle were discarded matter and preserved matter become indistinguishable. They are murder.
 
-		14. The cause for this degradation is the market.
+	- Her purpose would be to indicate the extreme degree of anxiety which the dissolution of boundaries can generate, moving from a cultural and social and collective problem to a purely linguistic and psychological one. The very categories of _language_ would fall in the abjection: it is the reeemersion of the real, and the unmaking of meaning.
 
-		15. __Conclusion__: Ben Jonson just feels guilty.
+	- __This is a world that has lost the value of meaning.__ 
+
+	- From this fallacy of language we move onto the section on _myth_ and _science_: this is the way in which the sections on _Mercury_ and on _Pythagoras_ work.
+
+		- __Also__, we can briefly address the contradiction between _open_ ecosystem and _closed_ ecosystem seen elsewhere: a _closed_ ecosystem is a system where boundaries do not exist anymore; therefore, it is an ecosystem where boundaries have become incredibly porous.
+
+3. The section on science and religion. Science is the opposite of _epic_: it is the _new_ and the _authentic_, the verifiable. The way in which _The Famous Voyage_ treats it is the same as usual: first ejection, with the definition of a boundary, then sudden return.
+
+	- In the final section, the one about food, the trajectory is inverted: from _ghosts_ to _atoms_, and from _atoms_ to _ghosts_.
+
+	- There is probably no need to be _too_ detailed here.
+
+4. The origin and the cause: market explains the way in which religion becomes science and in which meaning is lost; market clogs the boundaries. 
+
+	- Here we need _Bruster_.
+
+		- Remember: boundaries are essential to the market; but, since it constantly negotiates them, the market is also responsible for the clogging and the dysfunctional property of the market.
+
+5. Description of the section following the _proemium_: a commercial transaction is happening there. Its ideologies are the _new_ and the _counterfeit_.
+
+	- The _new_ and the _counterfeit_ are the distinctive categories with which market transactions are described in _Every Man out of His Humor_ and _Entertainment at the Burse_.
+
+6. The whole poem is a wager journey: an attempt to present to the reader a product that is both _new_ and _authentic_.
+
+	- The end of the poem is _clogged_, _blocked_. There is no satisfactory end.
+
+7. The decision to publish. Jonson's editorial practices before the publication were those of a _tanner_ or a _butcher_: keeping something, discarding something else.
+
+	- In a way, Jonson ends by acknowledging that his entrance in the market participates in the danger of creating a dysfunctional ecosystem such as the one of _The Famous Voyage_. Here we see his responsabilities as a writer.
+
+- - -
 
 ##Revision (April 2015)
 
@@ -98,16 +125,6 @@
 
 - - -
 
-- __The poem__:
-
-	- creates an ecosystem by isolating items and by defining a boundary - what is protected, what is valued, what is preserved, kept, and purchased - and what is not (the discarded);
-
-	- equates this internal ecosystem with two external ecosystems: the __book__ (and _the city as a book_) and the __body of the city__;
-
-	- describes and denounces the pollution / contamination / confusion that is perceivable across these ecosystems.
-
-- - -
-
 - _Ecosystem and waste as_ referring to _a line between what is useful and what is not. Production of waste. Waste as dependent on the separation between what is preserved (what is desired, what is bought,_ purchased? _) and what is discarded._
 	
 	1. Discarding and pollution (contamination?) in the __BODY__;
@@ -165,8 +182,6 @@
 	
 	- This is why __Kristeva__ is still useful.
 
-- The two leading images: __the city as a human body__ and __the city as a book__.
-
 - Conflation of the __material__ and the __immaterial__ in the _confusion_ of the __Thames__.
 
 	- _Confusion_ as the blurring of boundaries that creates abjection (__Kristeva__). Necessary scatology.
@@ -174,71 +189,6 @@
 	- _Shit being eaten_ is the reason for which the poem eventually becomes profoundly disgusting.
 
 - __A very important question__: why are we not doing anything with the __ending__?
-
-- - -
-
-##Poetaster
-
-1. In scene 3 of act 5 __Crispinus__ is seen _vomiting words_.
-
-> __Caesar__. Here be words, Horace, able to bastinado a man's ears.  
-> __Horace__. Ay. Please it great Caesar, I have pills about me,  
-> Mixed with the whitest kind of hellebore,  
-> Would give him a light vomit that should purge  
-> His brain and stomach of those tumultous heats  
-> Might I have leave to minister unto him.  
-> __Caesar__. O be his Aesculapius, gentle Horace;  
-> You shall have leave, and he shall be your patient.  
-> Virgil, use your authority, command him forth.  
-> __Virgil__. Caesar is careful of your health, Crispinus,  
-> And hath himself chose a physician  
-> To minister unto you: take his pills.  
-> __Horace__. [_Giving Crispinus a pill_] They are somewhat bitter,  
-> sir, but very wholesome.  
-> Take yet another, so. Stand by, they'll work anon.  
-> __Tibullus__. Romans, return to your several seats. Lictors, bring forward the urn and set the accused at the bar.  
-> [...]  
-> __Crispinus__. [_Groaning_] O---  
-> __Tibullus__. How now, Crispinus?  
-> __Crispinus__. O, I am sick---  
-> __Horace__. A basin, a basin, quickly; our physic works. [_To Crispinus_] Faint not, man.  
-> [HORACE _holds a basin into which_ CRISPINUS _appears to vomit his words._]  
-> __Crispinus__. O --- _retrograde_ --- _reciprocal_ --- _incubus_.  
-> __Caesar__. What's that Horace?  
-> __Horace__. [_Looking in the basin_] _Retrograde_, _reciprocal_ and _incubus_ are come up.  
-> [...]  
-> __Tibullus__. O Jupiter!  
-> __Gallus__. Who would have thought there should ha' been such a deal of filth in a poet?  
-> [...]  
-> __Horace__. _Barmy froth_, _puffy_, _inflate_, _turgidous_ and _ventositous_ are come up.  
-> __Tibullus__. O terrible windy words!  
-> __Gallus__. A sign of a windy brain.  
-> [...]  
-> __Caesar__. Now all's come up, I trow. What a tumult he had in his belly!  
-> [...]  
-> __Horace.__ Force yourself then a little with your finger.  
-> [CRISPINUS _pushes his finger down his throat._]  
-> __Crispinus__. [_Loudly_] O -- O -- _prorumped_.  
-> __Tibullus__. _Prorumped?_ What a noise it made! As if his spirit would have prorumped with it.  
-> [...]  
-> __Caesar__. _Clutched_? It's well that's come up! It had but a narrow passage.  
-> [...]  
-> __Virgil__. These pills can but restore him for a time,  
-> Not cure him quite of such a malady  
-> Caught by so many surfeits, which have filled  
-> His blood and brain thus full of crudities.  
-> 'Tis necessary therefore he observe  
-> A strict and wholesome diet. [...]  
-
-- Virgil then proceeds to describe a detailed diet that would __substitute__ the cultural products currently ingested by Crispinus. There is a definite analogy with what is happening in _FV_.
-
-	- The date of composition is __spring or summer 1601__.
-
-- The body is seen convulsing, trembling, melting into an ocean of vomit and farts. Crispinus' body is gushing forth the Fleet Street from both its mouth and its rectum (two-way).
-
-- Another canonically disgusting scene in the wonderful BJ.
-
-1. Similarly _classical_ context.
 
 - - -
 
