@@ -116,13 +116,24 @@ The comical effect of the scene is achieved through the assimilation of Latinate
 > Had power to act, what they to faine had not.  
 > (1-6)  
 
-2. By comparing the initial six lines of the proem with the bold declaration which begins the _The Voyage It Selfe_ - "I Sing" (l. 21) - the reader realizes that the function of the italic font is to mark terms for deletion, or - better - for ejection. With the exception of "_Shelton_" and "_Heyden_", the two champions of the adventure, these nouns, clasped by the double negation "NO" (l. 1) and "not" (l. 6), constitute a list of every element that the poet has resolved "not" to sing about, or "not" to include in the body of his composition. Although suggestive of an _occupatio_ - a denial to indulge in the narration of events that the same denial is in fact contradictorily relating - these allusions do not reveal anything about the characters and places which they mention: the referents are evoked for the sole purpose of being discarded, paralleling the paradoxical articulation of banned words which increased the comical effect of _Poetaster_'s regurgitation. 
+2. By comparing the initial six lines of the proem with the bold declaration which begins the _The Voyage It Selfe_ - "I Sing" (l. 21) - the reader realizes that the function of the italic font is to mark terms for deletion, or - better - for ejection. With the exception of "_Shelton_" and "_Heyden_", the two champions of the adventure, these nouns, clasped by the double negation "NO" (l. 1) and "not" (l. 6), constitute a list of every element that the poet has resolved "not" to sing about, or "not" to include in the body of his composition. Although suggestive of an _occupatio_ - a denial to indulge in the narration of events that the same denial is in fact contradictorily relating - these allusions do not reveal anything about the characters and places which they mention: the referents are evoked for the sole purpose of being discarded, paralleling the paradoxical articulation of banned words which increased the comical effect of _Poetaster_'s emetic cure. In the detached space of the journey's exordium, this purge serves as the regulation of the formal boundary that encloses the textual ecosystem of _The Famous Voyage_: an expulsion which incorporates the proper names of classical heroes ("_Hercules_," "_Theseus_," "_Orpheus_," "_Ulysses_"), the mention of a single, unspecified "_Latine Muse_," and three toponyms ("_hell_," "_Greece_," and "_Troyes_"). The sum of these names implies the vast mass of literary matter ejected not only from the poem, but also from the book for which it was written.
 
-3. Occurring within the detached space of the exordium, this purge serves as the regulation of the formal boundary that encloses the textual ecosystem of _The Famous Voyage_: the expulsion incorporates the proper names of classical heroes ("_Hercules_," "_Theseus_," "_Orpheus_," "_Ulysses_"), the mention of a single, unspecified "_Latine Muse_," and three toponyms ("_hell_," "_Greece_," and "_Troyes_").  
+3. Indeed, as the rear end of Jonson's _Epigrammes_ (which was licensed for an autonomus publication in 1612, as recorded in @Miles1990, 170), the proem to _The Famous Voyage_ doubles as the performance of a vaster expulsion, separating the contents of the book from any work that, for aesthetic reasons, could not be included in it. Even at the moment of its actual publication, in the folio containing the assorted _Workes_ of 1616, the collection assumed a liminal position, separating the plays from the compositions "of divers nature, | and matter congested" found in _The Forrest_ and _Under-woods_ (where we read this definition, in _To the Reader_, ll. 3-4). With very few exceptions, the _Epigrammes_ are instead homogenous in their realistic content, in most cases satirical or encomiastic, and in their recognizable form, typically short and witty. Understandably, then, the genre expelled in this exordium has to be their exact opposite. The country of "_Greece_" and the city of "_Troyes_," which open and close the sequence of discarded nouns, correspond to a cultural and literary synecdoche confirmed by each name on the list: that of the "bolder fables" of epic, fanciful and long-winded. By excluding the old, counterfeit forms which "our faiths abuse," the poet is trying to conform to the formal requisites of his collection, and to purify the rhetorical ecosystem of the poem itself.
 
-rhyming with the deceiving "tell" performed by antiquity, 
+4. Failure.
 
-The name of the country and the name of the city - suggestive of the _New Troy_ that is London - open and close the sequence, narrowing down the reader's attention from a cultural to an urban synecdoche, signifying, like every name on the list, the entirety of those "bolder fables" with which classical literature "our faiths abuse."
+> The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
+
+> The character behind this designation, Hercules, is a hybrid born of a human, Alcmene, and a god, Zeus. His origin is mixed, like the waters of the Fleet: this duality, underscored by the reference to Alcaeus, the human grandfather remembered in the patronymic, is then emphasized by the ambivalent way in which the poet refers to the frail humanity of his "backe, and bones [_,_] sore" from his "former labors" (55), while attributing to him an undisputable divinity.
+
+> Thou hast seene _hell_ (some say) and know'st all nookes there,  
+> Canst tell me best, how every _Furie_ lookes there,  
+> And art a _god_, if _Fame_ thee not abuses,  
+> Alwayes at hand, to aide the merry _Muses_.  
+> (51-54)
+
+> In the "confusion" of this passage, like in the corrupt ecosystem of the Fleet, what has been expelled is absorbed again. The poet's apparent forgetfulness ("me thinkes 'tis od, | that all this while I forgot some _god_", 43-44) is allowing him to reincorporate the epic material that he had just discarded, feeding to the reader the exact same content that, within the liminal space of the _proemium_, had been so scrupulously listed, denied and purged. Even the rhyme returns: accepting what "some say" and what "_Fame_" has transmitted to him, the poet is allowing the "_Muses_" to "abus[_e_]" both his and his reader's "faith" (4). And indeed, as he navigates the turbid waters of the river, having entered its "wombe" (66), all of this discarded epic material flows back to the poet, encroaching and soiling the setting, the adventure, and its characters. In a mode that is "increasingly phantasmagoric and allegorical" [@Duncan-Jones2005, 261], and which parades an increasing accumulation of "_Centaures_," "_Gorgons_," and a "_Harpyes_" (68-69), epic repossesses the epigram, like "The slie _Ulysses_ [...] in a sheepes-skin" (113), thus debasing the system of exclusions and positive replacements that had compelled both the author and the reader to wager on its success.
+
 
 - - -
 
@@ -159,16 +170,6 @@ And pitty 'tis, I cannot call them knights:
 
 - - -
 
-> The character behind this designation, Hercules, is a hybrid born of a human, Alcmene, and a god, Zeus. His origin is mixed, like the waters of the Fleet: this duality, underscored by the reference to Alcaeus, the human grandfather remembered in the patronymic, is then emphasized by the ambivalent way in which the poet refers to the frail humanity of his "backe, and bones [_,_] sore" from his "former labors" (55), while attributing to him an undisputable divinity.
-
-> Thou hast seene _hell_ (some say) and know'st all nookes there,  
-> Canst tell me best, how every _Furie_ lookes there,  
-> And art a _god_, if _Fame_ thee not abuses,  
-> Alwayes at hand, to aide the merry _Muses_.  
-> (51-54)
-
-> In the "confusion" of this passage, like in the corrupt ecosystem of the Fleet, what has been expelled is absorbed again. The poet's apparent forgetfulness ("me thinkes 'tis od, | that all this while I forgot some _god_", 43-44) is allowing him to reincorporate the epic material that he had just discarded, feeding to the reader the exact same content that, within the liminal space of the _proemium_, had been so scrupulously listed, denied and purged. Even the rhyme returns: accepting what "some say" and what "_Fame_" has transmitted to him, the poet is allowing the "_Muses_" to "abus[_e_]" both his and his reader's "faith" (4). And indeed, as he navigates the turbid waters of the river, having entered its "wombe" (66), all of this discarded epic material flows back to the poet, encroaching and soiling the setting, the adventure, and its characters. In a mode that is "increasingly phantasmagoric and allegorical" [@Duncan-Jones2005, 261], and which parades an increasing accumulation of "_Centaures_," "_Gorgons_," and a "_Harpyes_" (68-69), epic repossesses the epigram, like "The slie _Ulysses_ [...] in a sheepes-skin" (113), thus debasing the system of exclusions and positive replacements that had compelled both the author and the reader to wager on its success.
-
 - - -
 
 - This could still work as the end of section __2__.
@@ -181,7 +182,6 @@ And pitty 'tis, I cannot call them knights:
 > Subtly distinguish'd, was confused here.  
 > (7-10)
 
-> The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
 
 - - -
 
