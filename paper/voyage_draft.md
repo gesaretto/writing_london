@@ -10,6 +10,8 @@ bibliography: voyage.bib
 
 - - -
 
+1. Introduction
+
 The last poem in Ben Jonson's collection of _Epigrammes_, completed around 1612 and published for the first time along his other _Works_ in the folio of 1616, - - -
 
 The peculiar connection between  of _The Famous Voyage_, Ben Jonson's last composition (number CXXXIII) in the collection of _Epigrammes_ of 1612, has seldom been debated. 
@@ -133,77 +135,37 @@ The formal reproduction of the Fleet's bounded cycle, through the subtlety of th
 
 The oscillation between materialism and spiritualism is exemplified by the poet's use of three classical figures, whose involvement punctuates the three sections of the journey through the ditch. These are "_Alcides_" (l. 50), or Hercules, who is invoked at the beginning of the expedition and right before the meeting with the initial monster (_Mud_, l. 62); "_Mercury_" (l. 96), whose voice is heard while the adventurers sail next to "the second Prodigie" (l. 79), a reeking barge compared to "_Hydra_" (l. 83); and finally "_Pythagoras_", who is introduced in juxtaposition to "_Bankes_ the juggler" (l. 155), the spirit possessing the talking cat of the finale. We have already noticed how the first of these references, the homage to Hercules, opens the way to the return of the discharged epic matter into the poem - and this choice is not casual. The hero is a hybrid, born of a human, Alcmene, and a god, Zeus. This duality is in fact underscored by the poet, who names him through the patronymic _Alcides_, thus alluding to his mortal grandfather Alcaeus, while he reminds the reader both of his alleged divinity ("And art a _god_, if _Fame_ thee not abuses," l. 53) and of the frail humanity betrayed by his "backe, and bones [...] sore" from his "former labors" (ll. 55-56). Developing from this preliminary integration of old fiction with contemporary skepticism, this ambivalence is then intensified in the equivocal treatment of _Mercury_ and _Pythagoras_.
 
-1. The patron god of messengers and the mystic philosopher from Samos are introduced in a similar fashion. Both characters are associated to a combination of scientific knowledge and religious beliefs; both are compared to modern counterparts; both originate relatively long monologues (the first one presented by the same deity, the second by his double _Bankes_) that lament the foul degradation of their present setting. But as we try to dertermine their cultural affiliation, locating them along an ideological trajectory extending from spiritualism to materialism, we realize that their roles are different. _Mercury_'s entrance performs a sudden restoration of mythological meaning to a word that, like the italicized terms ejected during the rhetorical purge, had initially simply conveyed a sense of material weight, in this circumstance associated to the homonymous metallic element (Hg). An unexpected _deus ex machina_, he "downe fell, _ab excelsis_" (l. 95), together with the laxatives bearing his name and the evacuations which they induced. His first words, then, are an outcry against "_Paracelsus_, | and all his followers, that had so abus'd him: | And, in so shitten sort, so long had us'd him" (l. 96-98). This is a denunciation of the way in which modern science has turned the god and his designation into a tangible commodity (used for "spirits, [...] pills, [...] potions, | Suppositories, cataplasmes, and lotions," ll. 101-102), thus forcing him to participate in the bounded scatological cycle of the Fleet's ecosystem. The allusion to _Pythagoras_, on the other hand, confers a disconcerting sense of authority, both religious and scientific, to the same bounded cycle. Incorporating the esoteric doctrine of metempsychosis into the physical framework of atomic theory, here outlined as the genealogy connecting "old _Democrite_" to a contemporary intellectual, "_Hill Nicholas_" (l. 128), the reference manifests how ancient faith, occasionally identified with superstition, can survive within the new, allegedly authentic, perceptions of reality.
+The patron god of messengers and the mystic philosopher from Samos are introduced in a similar fashion. Both characters are associated to a combination of scientific knowledge and religious beliefs; both are compared to modern counterparts; both originate relatively long monologues (the first one presented by the same deity, the second by his double _Bankes_) that lament the foul degradation of their present setting. But as we try to dertermine their cultural affiliation, locating them along an ideological trajectory extending from spiritualism to materialism, we realize that their roles are different. _Mercury_'s entrance performs a sudden restoration of mythological meaning to a word that, like the italicized terms ejected during the rhetorical purge, had initially simply conveyed a sense of material weight, in this circumstance associated to the homonymous metallic element (Hg). An unexpected _deus ex machina_, he "downe fell, _ab excelsis_" (l. 95), together with the laxatives bearing his name and the evacuations which they induced. His first words, then, are an outcry against "_Paracelsus_, | and all his followers, that had so abus'd him: | And, in so shitten sort, so long had us'd him" (l. 96-98). This is a denunciation of the way in which modern science has turned the god and his designation into a tangible commodity (used for "spirits, [...] pills, [...] potions, | Suppositories, cataplasmes, and lotions," ll. 101-102), thus forcing him to participate in the bounded scatological cycle of the Fleet's ecosystem. The allusion to _Pythagoras_, on the other hand, confers a disconcerting sense of authority, both religious and scientific, to the same bounded cycle. Incorporating the esoteric doctrine of metempsychosis into the physical framework of atomic theory, here outlined as the genealogy connecting "old _Democrite_" to a contemporary intellectual, "_Hill Nicholas_" (l. 128), the reference manifests how ancient faith, occasionally identified with superstition, can survive within new, allegedly authentic, perceptions of reality.
 
-2. 
+The miracle of the talking cat, whose ominous speech closes the expedition, is explained as a combination of old spiritual beliefs and new materialist convictions. However, as we have seen, the interaction between human and nonhuman bodies, either dead or alive, is propelled, in the physical ecosystem of _The Famous Voyage_, by the activity of the butchers and cooks who prepare and sell their adulterated products on the banks of the ditch. Analogously, the debasement of _Mercury_, turned into the active principle of purgative medicaments, is caused by the demands and rules of the market (of which, it is worth remembering, the deity was also a protector). Trade governs and even originates the dysfunctional cycle described by the poem. It causes material contamination by contributing to the perennial obstruction of the ditch, and it propagates infection by prompting the reuse of its own waste. To understand the cultural and symbolic implications of this alarmingly coprophagous activity, we have alluded to Mary Douglas' theory of "social pollution" and to Julia Kristeva's idea of the "abject." But these anthropological and psychoanalytic notions can also be applied to the immaterial body of beliefs through which commerce, as an abstract structure, was pervading the ideological ecosystem of Jonson's age, threatening the integrity of stable boundaries and incessantly portending a fall into a prelinguistic state of infernal "confus[_ion_]" (10), similar to that which characterized the Fleet.
 
-
-2. Mercury is also the god of market. Pharmacists. The cat is one of the creatures that will be caught and cooked by the butchers of Fleet Street. Commerce.
-
-3. Tension between negation and substitution. Commercial transaction.
-
-	- 
-
- Similar treatment for Mercury and Pythagoras; tension between materialism and spiritualism, or science and religion.
-
-	- Mercury used to be a god, now is a pill. Acquiring literal weight. Commodification.  
-
-1. Mercury.
-
-2. Pythagoras.
+In the introduction to his book on _Drama and the Market in the Age of Shakespeare_, Douglas Bruster effectively summarizes the increasing pervasiveness of commercial ideology in Early Modern London, where ideas "of buying and selling" and "of exchange for profit" were progressively being perceived "as a natural, inescapable phenomenon" that "assumed an ever noticeable place in the foreground of urban life" [@Bruster1992 15]. We are also aware of the extraordinary impact that these new attitudes had on Jonson and his writings, whose manifest or latent purpose was often that of investigating the unprecedented intensity - or fickleness - of consumerist persuasions [@Burlison2010 281-286]. In his early comedy _Every Man out of His Humour_ (1599), for instance, the playwright epitomizes the everlastingly shifting character of urban fashion by contrasting the flamboyant habits of the quintessential gallant, Fastidius Brisk, with those of his mindless follower, Fungoso. The plot establishes a paradoxical interaction for which, whenever the courtier enters the scene with a new colorful suit, impressing spectators on and off stage, the impoverished imitator is instantly at pains to obtain exactly the same piece of clothing, perpetuating the absurdity of a potentially endless cycle. In his most explicit exploration of the topic, _The Entertainment at Britain's Burse_ of 1609, the writer applies a similarly open-ended fluctuation to the concept of genuineness. Here the character of the _Master_ first celebrates the excellence of authentic porcelain, comparing it to the "most false and adulterate" quality of "counterfeit" products (ll. 70-71); however, towards the end of his speech, he decides that the "chemical plate" which he is then praising should be considered as undoubtedly "better than the authentical" (ll. 183-184). Based on inherently unstable categories, such as novelty or authenticity, processeses of evaulation in the marketplace produce bounded ecosystems where desirable goods soon become indistinguishable from discardable waste.
 
 - - -
 
-Hercules; Mercurius; Pythagoras;  
+We have seen how, partly on the grounds of these inconclusive evaluations and partly because of a dysfunctionally bounded environment, material and cultural artifacts are reingested into the ecosystem of _The Famous Voyage_ after their unsuccessful expulsion. Such was, for instance, the case of epic form and of the religious beliefs commonly associated to it, readmitted after a variation in the qualifications of "new" (not ancient) and "authentic" (neither fanciful nor supersitious). But the poem in its entirety also functions as an explicit mimickry of a commercial transaction, as revealed by the two contiguous passages which immediately follow the false _occupatio_ of the literary purge. On the one hand, then, we find a list of hyperboles that, by echoing the language of publicity and mercantile transaction, try to prove how Jonson's new expedition should be more palatable than the recently discarded heroic matter. 
 
-2. Here, confusion. Hercules, perhaps. But then mercury and cultural recycling.
+> Their wherry had no saile, too; ours had none:  
+> And in it, two more horride knaves, then _Charon_.  
+> Arses were heard to croake, in stead of frogs;  
+> And for one _Cerberus_, the whole coast was dogs.  
+> _Furies_ there wanted not: each scold was ten.  
+> (11-14)
 
-3. And then the rest.
-
-> The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
-
-- - -
-
-- - -
-
-1. The purge:
-
-		- Also, the boundary is set between the poem and the collection to which it belongs.
-
-
-		- The belief that I am regulating a functional boundary; a boundary that is open and efficient and will not re-absorb shit.
-
-
-1. 
-	- Is there that much to say about this? I fear that this section might actually count just two juicy paragraphs.
-
-
-	- The second paragraph is about how the discharged matter flows back. The poem is _formally_ coprophagous.
-
-	- Also, perhaps we should insist on the idea of _fixity_.
-
-- Some matter to include here - perhaps:
-
-
-Then let the former age, with this content her,
-Shee brought the Poets forth, but ours th'adventurer.
-
-Why is he using the italics for the poets?
-
-The Voyage It Selfe
-The title as a boundary. Explanations of its effectiveness have been insufficient so far.
-
-We will of course focus on the idea of boundary elsewhere.
-I sing the brave adventure of two wights,
-And pitty 'tis, I cannot call them knights:
+The writer offers a sequence of potential substitutions for the temporarily expelled mythological elements, in a succession which steadily increases their intensity and number. The adventure will feature "two [...] knaves" instead of one "_Charon_," and both "more horride" than him. The idyllic "frogs" will be replaced by the noisy emissions of "Arses," with a shift that adds smell to sound. Instead of "one _Cerberus_," the reader will encounter an evocative "coast" of "dogs." Finally, the "_Furies_" of ancient tradition will be bargained for new "scolds" whose superiority is neither solely quantitative nor qualitative, but monetary. Like the distinct coins of a single currency, they can be appraised and exchanged according to a decimal scale.
 
 - - -
 
-- - -
+3. Now the wager.
 
-- This could still work as the end of section __2__.
 
- is equivalent to the "confus[_ion_] described by the poet of the _Famous Voyage_ in its _proemium_.
+3. We could in fact claim that the same _Famous Voyage_ is, in itself, a commercial transaction happening in front of our eyes.
+
+> After the purge and exchange of the _proemium_, the opening lines of the _The Voyage It Selfe_ indeed reiterate the correlation between the transactions that inform the poem and those that grant its marketability. Through a number of specific references to "authenticated exploits of the day" [most of them successfully identified by @Donaldson2011, pp. 32-34], the voyage is compared to those "wager journeys" that "had long since established [_themselves_] as a recognizable component of England's pervasive performance culture" [@Manous2009, 3] : expeditions to "_Venice_, _Paris_, [...] _Berwicke_" or "_Norwich_" (33-36). In these circumstances, wagerers would actually "put on moneyes" _against_ the chances of the traveler. As Manous explains, "If the journey was not completed and verified according to the terms of the wager, the traveler forfeited this sum; but if the journey was successfully completed and verified [...], the traveler was typically owed [...] a threefold to fivefold increase" [@Manous2009, 8-9]. Similarly, the poet seems to be prompting his readers, here asked twice to "listen well" (28, 40), to invest the "three for one" (28) of their attention on this literary journey, which will be completed according to the terms declared at the beginning - namely the exclusion of the false beliefs of classical literature in favor of an original and authenticated adventure.
+
+
+
+> is equivalent to the "confus[_ion_] described by the poet of the _Famous Voyage_ in its _proemium_.
 
 > All, that they boast of _Styx_, of _Acheron_,  
 > _Cocytus_, _Phlegeton_, our have prov'd in one;  
@@ -211,6 +173,7 @@ And pitty 'tis, I cannot call them knights:
 > Subtly distinguish'd, was confused here.  
 > (7-10)
 
+> The four rivers of Hades converge into a single earthly waterway, constituting a numerical equivalence that would still motivate a consumer's preference for the contemporary adventure over the old epic. But this sum reveals a fault, introduced by the concessive phrase "save only": the rational, "subtl[_e_] distin[_ction_]" between the discrete elements of that written world of "Poets" is, in the reality witnessed by Jonson and his "adventurer[s]," turned into an unutterable jumble of "filth, stench, noyse." This quality returns in the compound "merd-urinous" (65), used to describe the inextricably mixed constituents of the waste polluting the river, and in the invocation to "_Alcides_" (50) that is disingenuously introduced by the poet after the beginning of his _Voyage_.
 
 - - -
 
@@ -224,49 +187,33 @@ And pitty 'tis, I cannot call them knights:
 > (11-14)
 
 
-- - -
+2. Selling the book.
 
-- More important consequences:
+> Falsity and superstition seem to be the main reasons for the disposal of this cultural patrimony. Analogous to the inhabitants of another notoriously fabulous genre, chivalric romance, the "just knights" of these "tales" are condemned because of their lack of "power," to which the poet means to oppose a true "act." As it has been observed, this allegedly true narrative produces "an impression of realism and inclusiveness" through its "pervasive topicality" [@Medine1975, 98]. The stark contrast between the third person of the first four lines ("they") and the first person of the fifth ("We"), together with the naming of two protagonists, "_Shelton_" and "_Heyden_", probably known only to "those readers who had drunk regularly with them at the Mermaid tavern" [@Duncan-Jones2005, 259], aim at proving the authenticity of the story. Antiquity "brought the _Poets_ forth, but ours th'adventurer" (20): the poem is purged from the fallacious beliefs of the past, and pervaded by witnessed everyday experience.
 
-	- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial (religion?); shit from food.
-		
-	- We should truly emphasize the role of coprophagy in this entire discourse. Is coprophagy a taboo? How is coprophagy related to language? How is the horror of coprophagy resonant with both the terror of pollution and impurity (Douglas) and the terror of the abjection (Kristeva)?  
+> The literary dispute between old fables and new adventures is thus transformed into a commercial exchange, based on quantity and measurable worth. This monetization must have resonated with Ben Jonson's constant concerns about the "unprecedented importance [_of_] coins," and about the problematic "correspondence between an object and its [monetary] value" [@Burlison2010, 285] - especially at the time of completing his collection of epigrams. Before its definitive publication in the _Works_ of 1616, the series was "licensed for issue in 1612 as a self-contained volume" [@Miles1990, 170], a project which was never concretized. Nevertheless, the expectation of a published product must have been troubling for Jonson, who was probably still wavering between his affection for "the notion of coterie poetry and manuscript circulation" and the inevitable "lure of print" [@Donaldson2000, 123]. His poems, which he considered "more important than anything he had written for performance" [@Miles1990, 169], would leave the privileged space of literary circles to become another of the many "consumer goods that could never be deemed essential for life" [@Thirsk1978, 78]. The negotiations that give shape to the microorganism of _The Famous Voyage_ mirror the major financial concerns surrounding the public circulation of his works and his identity.
 
-- - -
-
-##3. The age (the city)
-
-1. I would now like to focus on the second part of the poem, and on the way in which Ben Jonson specifically introduces two distinct figures that participate in defining not only an ecological indictment about the negative consequences of commercial thriving, but also a cultural indictment about the consequences of the commodification of culture, of which Jonson was becoming responsible right at the moment when he decided to collect his _Epigrammes_ with the purpose of publication. The two references that I would like to consider, therefore, are the one to __Mercurius__ in the section of the poem devoted to the collective purge of the inhabitants of the area, and that to Democrite and to Pythagoras in the final section of the poem. 
-
-2. At the core of both these moments we find an analogous slippage: the one that seems, in the end, to justify the way in which abstract matter - the erudite references to the epic matter of Virgil and Homer - are turned into concrete waste that responds to the physical rules of expulsion and pollution. The idea is simple: metonymy creates a sort of vibrant weight, of oscillating weight, for which some of these referents can possess a definite value, bounded in time and space, and some others do not. _Mercury_ is perhaps the most evident example: when he is first mentioned, in the poem, we think that he is a divinity, another inconsistent invocation to a dead god disappeared with the supposed advancement of history and culture. But this is not the case - Ben Jonson is not exclusively referring to the deity, a name as inconsistent as the rest of the fictional characters that inhabit this poetical space; he is in fact referring to the homonymous metal, the _mercury_ whom _Paracelsus_ transformed into the appropriate element that ought to be used for the treatment of constipation. Mercurius is both; time has turned the name into a different item, into a commodity that can be ingested and expelled, and at the same time into its own memory. At the basis of Jonson's complaint about Mercury's debasement, then, is a problematic treatment of metonymy and personification: Mercury is both the god and the metal that can be used to treat constipation.
-
-	- Note: there is more to be done about the cat, if we look at it closely: metempsychosis has become the act of a cat inhaling a human fart and therefore being able of speaking with a human voice; more, metempsychosis through shit elides the boundary between human and nonhuman, and the boundary between life and death.
 
 - - -
 
-###Religion and science
+	- A loss of boundaries implies a loss of the distinctions made possible by boundaries; it indicates the fall into the symbolic order, the collapse of the entire ecosystem (cultural, economic, physiological); that means that we will no longer be able to distinguish what is new from what is old, what is authentic from what is counterfeit; what is material (science?) from what is immaterial 
+(religion?); shit from food.
 
-- Remember that:
 
-	- this section is based on the exchange between _material_ and _immaterial_; and it can be linked to Kristeva's abjection as the last stage of Douglas' loss of definite boundaries, as the threat of a regression from the symbolic order.
+3. Tension between negation and substitution. Commercial transaction.
+	
+	- Bruster.
 
-3. Metonymy and personification here stand for two different viewpoints; for two different Zeitgeisten - the religious viewpoint that associated Mercury with the divine messenger and protector of pharmacy, and that which instead sees in the name only an element useful to produce pills which, again, force to body to expell its impurities. 
+- Do not forget:
 
-4. Similarly, in the final part of the poem, religious and scientific ideas mix again in order to create a confusing effect.
+	- _here we need Bruster_: we need to work on him, to expand our understanding of him and so on;
 
-	- Be sure to include these ideas:
+		- Bruster talks about "the process of commodity evaluation" - the process of commodity evaluation has become crucial for your work;
 
-		- "Mercury" - the name (deity) and the thing (metal);
+	- the __famous__ voyage - why this adjective? It would be useful to emphasize how, in the end, the poem is a reflection on a literary practice.
 
-		- atomic shit.
 
-	- And these ideas:
-
-		- Democrite as the father of materialism; Pythagoras as the father of a metaphisical and esoterical tradition;
-		
-		- Materialism and spiritualism are at the core of this discourse (but the vagueness of this transition can be associated with the fall from the symbolic registered in Kristeva).
-
-	- This section will be the true original content of this new version; therefore, we have to make sure that it is fully developed properly.
+- - -
 
 - - -
 
@@ -282,15 +229,10 @@ And pitty 'tis, I cannot call them knights:
 
 	- In the end, then, as soon as a product - a cultural product - enters the market, we can no longer be certain of its durability as something worthy of praise.
 
-3. We could in fact claim that the same _Famous Voyage_ is, in itself, a commercial transaction happening in front of our eyes.
-
-> After the purge and exchange of the _proemium_, the opening lines of the _The Voyage It Selfe_ indeed reiterate the correlation between the transactions that inform the poem and those that grant its marketability. Through a number of specific references to "authenticated exploits of the day" [most of them successfully identified by @Donaldson2011, pp. 32-34], the voyage is compared to those "wager journeys" that "had long since established [_themselves_] as a recognizable component of England's pervasive performance culture" [@Manous2009, 3] : expeditions to "_Venice_, _Paris_, [...] _Berwicke_" or "_Norwich_" (33-36). In these circumstances, wagerers would actually "put on moneyes" _against_ the chances of the traveler. As Manous explains, "If the journey was not completed and verified according to the terms of the wager, the traveler forfeited this sum; but if the journey was successfully completed and verified [...], the traveler was typically owed [...] a threefold to fivefold increase" [@Manous2009, 8-9]. Similarly, the poet seems to be prompting his readers, here asked twice to "listen well" (28, 40), to invest the "three for one" (28) of their attention on this literary journey, which will be completed according to the terms declared at the beginning - namely the exclusion of the false beliefs of classical literature in favor of an original and authenticated adventure.
+- - -
 
 - - -
 
-1. Let us have a closer look at how the exchange is described within the poem:
-
-> If the symmetrical absence of a "saile," elliptical about the "tenuous analogy" between the two vessels, might be an ironical marker for the clumsiness of the whole comparison [@Duncan-Jones2005, 258], the subsequent substitutions present an undoubtable increase in intensity and number. The poem will feature "two [...] knaves" instead of one _Charon_, and both "more horride" than him. The idyllic _frogs_, which in Aristophanes' play accompanied Dyonisus' journey to Hades, will be replaced by the noisy emissions of "Arses," with a shift that adds smell to sound. Pure quantity motivates the exchange between "one _Cerberus_" and a hyperbolic "coast" of "dogs." Furthermore, the refusal of the _Furies_ in favor of the "scolds," linkable to the ideologically pervasive "process of commodity evaluation" [@Bruster1992, 16], overtly obeys to the principles of the marketplace. The _scolds_ are not superior to the _Furies_ in any specific attribute, nor are they more. Instead, working at the intersection between quantity and quality, we find a numerical correspondence between their worth - "each scold was ten."  Appraised on a decimal scale, _Furies_ and scolds function as the different coins of a single currency: we discard one and prefer the other because of their monetary value.
 
 - - -
 
@@ -304,53 +246,11 @@ And pitty 'tis, I cannot call them knights:
 
 	- Boundaries are not a problem; the market is not a problem; the problem is the submission of cardinal boundaries to the erratic principles of the market; the problem is that, when I make the boundaries available for negotiation, evaluation, and _fashion_, I lose track of the very essence of the culture in which I live (the very cultural structure; the very cultural scaffolding).
 
-2. In his 1599 play _Every Man out of his Humour_, the character of Fastidious Brisk ---
-
-3. In his _Entertainment at Britain's Burse_, written in 1609, commodities are distributing according to ---
-
-	- Falsity and the counterfeit are related to the problem of religion and faith.
-
 - - -
 
-
-
-##2. The poem (the purge)
-
-1. The second privileged metaphor used to describe London in the literary works of the time, and the second metaphor that Ben Jonson uses to describe the Fleet and the culture and society which produced its corruption, is that of the city as a book. There are two ways in which this idea seems to be suggested in the text: one is extratextual, linked to the editorial practices usually attributed to Ben Jonson, and the second is textual, linked to the specific literary operation that Ben Jonson performs in his work.
-
-	- The city as a book; the book as a corrupt ecosystem.
-
-	- The form of the poem mirrors its theme.
-
-
-
-1. Introducing the __purge__. _Poetaster_.
-
-###The Epigrammes and editorial practices
-
-1. The Epigrams occupy the - - -
-
-	- The epigrammes within the folio, and the Voyage within the epigrams. What is the meaning of these choices? How do they define margins? How do they mirror practices of discarding and delimiting boundaries?
-
-	- The job of Ben Jonson as that of a tanner / butcher / soap maker.
-
-
+- The job of Ben Jonson as that of a tanner / butcher / soap maker.
 
 - - -
-
-> The poet has established an exchange based on the acquisition of what is allegedly both new and true, consistently with the principles "of a [growing] consumer society" [@Thirsk1978, 106], and enabled by the discarding of an old, fallacious tradition, signified by the disposal of the synecdochical referents in the _proemium_. As we have seen, Jonson had already compared similar processes of literary selection to a "purge": the fragments of epic and superstition that have been repudiated have thus become excrements, left behind by the sailless wherry of this poetical _Famous Journey_.
-
-> Falsity and superstition seem to be the main reasons for the disposal of this cultural patrimony. Analogous to the inhabitants of another notoriously fabulous genre, chivalric romance, the "just knights" of these "tales" are condemned because of their lack of "power," to which the poet means to oppose a true "act." As it has been observed, this allegedly true narrative produces "an impression of realism and inclusiveness" through its "pervasive topicality" [@Medine1975, 98]. The stark contrast between the third person of the first four lines ("they") and the first person of the fifth ("We"), together with the naming of two protagonists, "_Shelton_" and "_Heyden_", probably known only to "those readers who had drunk regularly with them at the Mermaid tavern" [@Duncan-Jones2005, 259], aim at proving the authenticity of the story. Antiquity "brought the _Poets_ forth, but ours th'adventurer" (20): the poem is purged from the fallacious beliefs of the past, and pervaded by witnessed everyday experience.
-
-> The literary dispute between old fables and new adventures is thus transformed into a commercial exchange, based on quantity and measurable worth. This monetization must have resonated with Ben Jonson's constant concerns about the "unprecedented importance [_of_] coins," and about the problematic "correspondence between an object and its [monetary] value" [@Burlison2010, 285] - especially at the time of completing his collection of epigrams. Before its definitive publication in the _Works_ of 1616, the series was "licensed for issue in 1612 as a self-contained volume" [@Miles1990, 170], a project which was never concretized. Nevertheless, the expectation of a published product must have been troubling for Jonson, who was probably still wavering between his affection for "the notion of coterie poetry and manuscript circulation" and the inevitable "lure of print" [@Donaldson2000, 123]. His poems, which he considered "more important than anything he had written for performance" [@Miles1990, 169], would leave the privileged space of literary circles to become another of the many "consumer goods that could never be deemed essential for life" [@Thirsk1978, 78]. The negotiations that give shape to the microorganism of _The Famous Voyage_ mirror the major financial concerns surrounding the public circulation of his works and his identity.
-
-- Do not forget:
-
-	- _here we need Bruster_: we need to work on him, to expand our understanding of him and so on;
-
-		- Bruster talks about "the process of commodity evaluation" - the process of commodity evaluation has become crucial for your work;
-
-	- the __famous__ voyage - why this adjective? It would be useful to emphasize how, in the end, the poem is a reflection on a literary practice.
 
 - - -
 
